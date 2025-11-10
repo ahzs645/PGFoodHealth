@@ -1,0 +1,4 @@
+# Requirements
+requests>=2.32.0
+beautifulsoup4>=4.14.0
+flask>=3.1.0
