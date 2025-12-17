@@ -79,7 +79,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:12.162059",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.989379,
+    "longitude": -122.788482,
+    "geocoded_address": "Petro-Canada, 3688, Austin Road West, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2H6, Canada"
   },
   {
     "name": "7-Eleven Food Store #37259",
@@ -264,7 +267,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:19.942135",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9100609,
+    "longitude": -122.7828439,
+    "geocoded_address": "Esso, 3333, 15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1A1, Canada"
   },
   {
     "name": "7-Eleven Food Store #37263",
@@ -411,7 +417,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:28.794629",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9121105,
+    "longitude": -122.7975531,
+    "geocoded_address": "South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "7-Eleven Store #37260",
@@ -450,7 +459,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:33.123953",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "A & W Pine Centre",
@@ -530,7 +540,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:38.601202",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "A & W Restaurant- 5th Avenue",
@@ -604,7 +617,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:44.117511",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.920444,
+    "longitude": -122.7642091,
+    "geocoded_address": "2099, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K1, Canada"
   },
   {
     "name": "A & W Westgate",
@@ -666,7 +682,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:48.443666",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8654398,
+    "longitude": -122.7820503,
+    "geocoded_address": "A&W, 5998, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Abby's Poutine Truck",
@@ -680,7 +699,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T21:02:50.553972",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.929653,
+    "longitude": -122.7970726,
+    "geocoded_address": "217, Gordon Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Aberdeen Glen Golf Course",
@@ -722,7 +744,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:53.803103",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Aboriginal Head Start Meal Program",
@@ -764,7 +787,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:02:57.041347",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9226065,
+    "longitude": -122.7637691,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "Aboriginal Head Start Program (Power of Friendship)",
@@ -791,7 +817,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:00.253731",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9278825,
+    "longitude": -122.8096462,
+    "geocoded_address": "110, Anderson Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Aboriginal Housing Society of Prince George",
@@ -818,7 +847,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:03.475709",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9084573,
+    "longitude": -122.7465548,
+    "geocoded_address": "17th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L1, Canada"
   },
   {
     "name": "Aboriginal Housing Society of Prince George Supportive Housing",
@@ -857,7 +889,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:07.959317",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9084573,
+    "longitude": -122.7465548,
+    "geocoded_address": "17th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L1, Canada"
   },
   {
     "name": "Active Body Nutrition",
@@ -884,7 +919,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:11.256588",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Adria Deli",
@@ -911,7 +947,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:14.462938",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8997667,
+    "longitude": -122.7882255,
+    "geocoded_address": "3578, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Adult Withdrawal Management Unit",
@@ -946,7 +985,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:17.675204",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9121795,
+    "longitude": -122.7658095,
+    "geocoded_address": "1308, Alward Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Aghelh Nebun Camp",
@@ -1002,7 +1044,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:20.889932",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "AIMHI",
@@ -1037,7 +1080,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:24.101553",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9156816,
+    "longitude": -122.8023058,
+    "geocoded_address": "950, Kerry Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Airport Husky",
@@ -1064,7 +1110,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:27.613428",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9206112,
+    "longitude": -122.6485077,
+    "geocoded_address": "Foreman Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 5C4, Canada"
   },
   {
     "name": "Alder Hills Golf Course",
@@ -1115,7 +1164,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:33.122680",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8984295,
+    "longitude": -122.6272776,
+    "geocoded_address": "Giscome Road, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada"
   },
   {
     "name": "Alder Hills Golf Course- The Lounge",
@@ -1183,7 +1235,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:37.465156",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8984295,
+    "longitude": -122.6272776,
+    "geocoded_address": "Giscome Road, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada"
   },
   {
     "name": "Alpine Pub",
@@ -1347,7 +1402,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:43.997502",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.98505,
+    "longitude": -122.8016387,
+    "geocoded_address": "Alpine Pub & Grill, 6145, Kelly Road South, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2G4, Canada"
   },
   {
     "name": "Amigo's Taco Shop",
@@ -1577,7 +1635,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:03:55.150320",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9179093,
+    "longitude": -122.7473314,
+    "geocoded_address": "229, Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Apex Reforestation-Camp 2",
@@ -1591,7 +1652,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T21:03:57.405277",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Aspen Grove Golf Course",
@@ -1618,7 +1680,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:00.625226",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Aubree's Breakfast Place",
@@ -1867,7 +1930,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:11.678114",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9127859,
+    "longitude": -122.752479,
+    "geocoded_address": "Econo Lodge, 910, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "AWAC",
@@ -1916,7 +1982,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:14.890208",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176215,
+    "longitude": -122.7413099,
+    "geocoded_address": "144, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Baller Food",
@@ -1955,7 +2024,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:19.344553",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Banquet Services",
@@ -2035,7 +2105,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:24.779760",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9147287,
+    "longitude": -122.743493,
+    "geocoded_address": "Ramada Hotel Downtown, 444, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Barbeque Shack",
@@ -2062,7 +2135,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:31.212867",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "BarBurrito Restaurant",
@@ -2128,7 +2202,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:41.038700",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "BC Cancer Agency-Centre for the North",
@@ -2155,7 +2230,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:44.253758",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9129846,
+    "longitude": -122.7643857,
+    "geocoded_address": "1215, Lethbridge Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X3, Canada"
   },
   {
     "name": "BC Housing Connective Support Society 15th and Victoria",
@@ -2202,7 +2280,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:48.622659",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9102514,
+    "longitude": -122.7548204,
+    "geocoded_address": "1552, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "BCL 174-Prince George Pine Centre",
@@ -2216,7 +2297,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T21:04:50.814255",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8991042,
+    "longitude": -122.7814739,
+    "geocoded_address": "BC Liquor Store, 3173, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2S9, Canada"
   },
   {
     "name": "BCR Cardlock Site",
@@ -2230,7 +2314,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T21:04:52.922089",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8835792,
+    "longitude": -122.7446815,
+    "geocoded_address": "998, Railway Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5R9, Canada"
   },
   {
     "name": "Bento Sushi",
@@ -2269,7 +2356,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:04:57.238482",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8872819,
+    "longitude": -122.7691271,
+    "geocoded_address": "Real Canadian Superstore, 2155, Ferry Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E8, Canada"
   },
   {
     "name": "Best Western-College Heights",
@@ -2311,7 +2401,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:05:00.452159",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Betulla Burning",
@@ -2390,7 +2481,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:05:08.103312",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9166646,
+    "longitude": -122.7453943,
+    "geocoded_address": "1253, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "BFF Bar and Grill",
@@ -2718,7 +2812,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:09:51.881039",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Birchview Residences",
@@ -2793,7 +2888,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:02.304729",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9999547,
+    "longitude": -122.8005519,
+    "geocoded_address": "7780, Hart Highway Frontage Road, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3B8, Canada"
   },
   {
     "name": "Black Diamond Bowl and Billiards",
@@ -2862,7 +2960,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:12.730886",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9150338,
+    "longitude": -122.7464443,
+    "geocoded_address": "Black Diamond Bowl, 1241, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3L3, Canada"
   },
   {
     "name": "Black House Bakery",
@@ -2889,7 +2990,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:21.958166",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9170198,
+    "longitude": -122.7554082,
+    "geocoded_address": "1758, 6th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3P7, Canada"
   },
   {
     "name": "Blackburn Community Hall",
@@ -2916,7 +3020,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:31.401553",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.878939,
+    "longitude": -122.6409251,
+    "geocoded_address": "Blackburn Road South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5W1, Canada"
   },
   {
     "name": "Bon Voyage Restaurant",
@@ -3125,7 +3232,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:47.398835",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Bonnet Eatery",
@@ -3172,7 +3280,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:10:57.825238",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.898314,
+    "longitude": -122.6212401,
+    "geocoded_address": "6957, Giscome Road, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada"
   },
   {
     "name": "Booster Juice",
@@ -3199,7 +3310,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:11:07.053847",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Booster Juice-Domano",
@@ -3267,7 +3379,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:11:17.392970",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Booster Juice -Pine Cenre",
@@ -3306,7 +3419,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:11:27.793741",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Booster Juice Mobile Trailer",
@@ -3345,7 +3461,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:11:38.277265",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9703723,
+    "longitude": -122.7745378,
+    "geocoded_address": "Minotti Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A1, Canada"
   },
   {
     "name": "Boston Pizza on Central",
@@ -3441,7 +3560,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:11:49.781659",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Boston Pizza on Vance Road",
@@ -3575,7 +3695,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:03.818827",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8810394,
+    "longitude": -122.7704612,
+    "geocoded_address": "2500, Vance Road, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1N4, Canada"
   },
   {
     "name": "Bread and Buttercream Bakery",
@@ -3614,7 +3737,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:14.155124",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8984357,
+    "longitude": -122.6623282,
+    "geocoded_address": "4480, Giscome Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H0, Canada"
   },
   {
     "name": "Brewed Coffee & Co.",
@@ -3653,7 +3779,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:24.488985",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8807184,
+    "longitude": -122.675826,
+    "geocoded_address": "Airport Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H0, Canada"
   },
   {
     "name": "Brixx Brewhouse",
@@ -3722,7 +3851,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:34.894399",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Browns Social House",
@@ -3869,7 +4001,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:49.756048",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8990935,
+    "longitude": -122.7789825,
+    "geocoded_address": "TD Canada Trust, 3161, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Bubbles Indoor Playground",
@@ -3896,7 +4031,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:12:58.996975",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8718603,
+    "longitude": -122.7776863,
+    "geocoded_address": "3053, McGill Crescent, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2T4, Canada"
   },
   {
     "name": "Burger King",
@@ -4052,7 +4190,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:13:12.781559",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9148933,
+    "longitude": -122.7828148,
+    "geocoded_address": "1023, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C9, Canada"
   },
   {
     "name": "Buster's Pizza & Donair",
@@ -4118,7 +4259,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:13:24.278657",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8693065,
+    "longitude": -122.7776991,
+    "geocoded_address": "5051, 5063, 5075, 5079, 5083, 5087, 5099, Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4V8, Canada"
   },
   {
     "name": "Busters Pizza Prince George Hartway",
@@ -4165,7 +4309,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:13:34.633857",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9782002,
+    "longitude": -122.7695381,
+    "geocoded_address": "Hartway Drive, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A1, Canada"
   },
   {
     "name": "Buy Low Foods #4802 - Deli",
@@ -4204,7 +4351,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:13:45.064835",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "BX Neighbourhood Pub",
@@ -4308,7 +4456,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:13:55.459335",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9253017,
+    "longitude": -122.7688546,
+    "geocoded_address": "Carney Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2K3, Canada"
   },
   {
     "name": "Bydand Creek Farm",
@@ -4335,7 +4486,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T21:14:04.684703",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Cait's Sweet Bites and Beanery",
@@ -4362,7 +4514,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:21:17.207388",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9186745,
+    "longitude": -122.7525842,
+    "geocoded_address": "1685, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1G4, Canada"
   },
   {
     "name": "Caledonia Nordic Ski Club",
@@ -4397,7 +4552,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:21:28.419271",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9716575,
+    "longitude": -122.8941681,
+    "geocoded_address": "8141, Otway Road, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada"
   },
   {
     "name": "Camelot Restaurant",
@@ -4499,7 +4657,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:21:41.938365",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9101123,
+    "longitude": -122.7810299,
+    "geocoded_address": "1600, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C2, Canada"
   },
   {
     "name": "Camp Friendship Kitchen",
@@ -4513,7 +4674,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:21:52.041854",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Camp Hughes",
@@ -4527,7 +4689,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:22:02.148560",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8203058,
+    "longitude": -122.8400595,
+    "geocoded_address": "Blackwater Road, Beaverley, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Canadian Brewhouse and Grill",
@@ -4909,7 +5074,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:22:26.814901",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8909914,
+    "longitude": -122.76824,
+    "geocoded_address": "The Canadian Brewhouse, 3036, Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0G2, Canada"
   },
   {
     "name": "Canadian Cancer Society-Kordyban Lodge #63349",
@@ -4936,7 +5104,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:22:38.093968",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9138303,
+    "longitude": -122.7659678,
+    "geocoded_address": "Kordyban Lodge, 1100, Alward Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Canco Boundary Road",
@@ -4950,7 +5121,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:22:48.197566",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8584066,
+    "longitude": -122.714387,
+    "geocoded_address": "Boundary Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Canco #171",
@@ -5004,7 +5178,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:23:00.642847",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.917787,
+    "longitude": -122.74076,
+    "geocoded_address": "Camco, 122, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1P9, Canada"
   },
   {
     "name": "Canco #172",
@@ -5113,7 +5290,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:23:14.122075",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9100262,
+    "longitude": -122.7872964,
+    "geocoded_address": "Husky, 3605, 15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1A2, Canada"
   },
   {
     "name": "Carl's Jr-Westwood Drive",
@@ -5140,7 +5320,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:28:12.969014",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.89992,
+    "longitude": -122.7823783,
+    "geocoded_address": "2333, Westwood Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "Carl's Jr -Hart",
@@ -5194,7 +5377,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:28:25.285308",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9782002,
+    "longitude": -122.7695381,
+    "geocoded_address": "Hartway Drive, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A1, Canada"
   },
   {
     "name": "Carmel Restaurant",
@@ -5438,7 +5624,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:28:43.241791",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9395635,
+    "longitude": -122.7611801,
+    "geocoded_address": "Highway 97, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2X6, Canada"
   },
   {
     "name": "Carney Hill Neighbourhood Centre",
@@ -5465,7 +5654,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:28:54.544975",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8988809,
+    "longitude": -122.7569255,
+    "geocoded_address": "Nusdeh Yoh Elementary, 2579, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2M3, Canada"
   },
   {
     "name": "Carrier Sekani Family Services",
@@ -5492,7 +5684,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:29:05.763857",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9046939,
+    "longitude": -122.7551268,
+    "geocoded_address": "Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2N5, Canada"
   },
   {
     "name": "Chaco's",
@@ -5657,7 +5852,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:29:20.351739",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9116311,
+    "longitude": -122.7823813,
+    "geocoded_address": "1393, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3E2, Canada"
   },
   {
     "name": "Chester's Chicken",
@@ -5704,7 +5902,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:29:32.765255",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Chicko Chicken PG & Chungchun Rice Dog PG",
@@ -5758,7 +5957,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:29:45.086401",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Children's Residence",
@@ -5785,7 +5985,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:29:56.349902",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9231846,
+    "longitude": -122.8068811,
+    "geocoded_address": "386, Green Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "China Cup Buffet",
@@ -6106,7 +6309,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:30:15.421049",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "China Taste",
@@ -6303,7 +6507,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:30:31.231333",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.899366,
+    "longitude": -122.7890843,
+    "geocoded_address": "3601, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Choke and Puke Food Cart",
@@ -6317,7 +6524,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:30:41.350661",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9187925,
+    "longitude": -122.743632,
+    "geocoded_address": "1st Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Chuck Cawdell Park",
@@ -6331,7 +6541,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:30:51.469396",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.913313,
+    "longitude": -122.7739828,
+    "geocoded_address": "2825, 12th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "CINHS-Natsoolyis' Cultural Centre",
@@ -6378,7 +6591,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:31:03.801993",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9135144,
+    "longitude": -122.7370373,
+    "geocoded_address": "4th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Y4, Canada"
   },
   {
     "name": "Citizen Field",
@@ -6392,7 +6608,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:31:13.946227",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Clayoven Grill",
@@ -6912,7 +7129,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:31:38.616363",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9149288,
+    "longitude": -122.784141,
+    "geocoded_address": "Super 8 by Wyndham Prince George, 1151, Commercial Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6W6, Canada"
   },
   {
     "name": "Club Demonstration Services",
@@ -6966,7 +7186,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:31:50.946008",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8841125,
+    "longitude": -122.7719435,
+    "geocoded_address": "Costco, 2555, Range Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G8, Canada"
   },
   {
     "name": "CN Booth 2 - CG 60671",
@@ -7027,7 +7250,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:32:03.353406",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "CN Booth 3 - CG 60671",
@@ -7054,7 +7280,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:32:14.668683",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "CN Booth 4 - CG 60671",
@@ -7081,7 +7310,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:32:25.895471",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "CN Commissary - CG 60671",
@@ -7108,7 +7340,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:32:37.124112",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "CN Suite Bar/Servery - CG 60671",
@@ -7135,7 +7370,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:32:48.410579",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "Coffee Garden/Winston's",
@@ -7238,7 +7476,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:33:01.954893",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9134508,
+    "longitude": -122.750254,
+    "geocoded_address": "Coast Prince George Hotel by APA, 770, Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Cold Front Cidery Inc",
@@ -7277,7 +7518,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:33:14.287819",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.931104,
+    "longitude": -122.6630352,
+    "geocoded_address": "1679, Foreman Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 5C4, Canada"
   },
   {
     "name": "College of New Caledonia-Caf",
@@ -7372,7 +7616,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:33:27.817338",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9037565,
+    "longitude": -122.7836092,
+    "geocoded_address": "3330, 22nd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "College of New Caledonia -Kodiaks",
@@ -7426,7 +7673,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:33:40.223567",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9037565,
+    "longitude": -122.7836092,
+    "geocoded_address": "3330, 22nd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "Columbus Community Centre",
@@ -7440,7 +7690,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:33:50.355158",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8686253,
+    "longitude": -122.7767469,
+    "geocoded_address": "Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E1, Canada"
   },
   {
     "name": "Connections Clubhouse",
@@ -7479,7 +7732,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:34:02.768937",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9031942,
+    "longitude": -122.7491368,
+    "geocoded_address": "Norwood Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Connective (First Avenue Supportive Housing)",
@@ -7567,7 +7823,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:34:16.308374",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9132921,
+    "longitude": -122.7409452,
+    "geocoded_address": "Ontario Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1R6, Canada"
   },
   {
     "name": "Cook Shack, The",
@@ -7614,7 +7873,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:34:28.644432",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8360781,
+    "longitude": -122.7410904,
+    "geocoded_address": "9410, Milwaukee Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5T4, Canada"
   },
   {
     "name": "Cornerstone Kitchen and Lounge",
@@ -7628,7 +7890,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:34:38.851528",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9147287,
+    "longitude": -122.743493,
+    "geocoded_address": "Ramada Hotel Downtown, 444, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Costco Deli",
@@ -7655,7 +7920,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:34:50.075479",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8841125,
+    "longitude": -122.7719435,
+    "geocoded_address": "Costco, 2555, Range Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G8, Canada"
   },
   {
     "name": "Costco Food Court",
@@ -7690,7 +7958,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:35:01.303573",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8841125,
+    "longitude": -122.7719435,
+    "geocoded_address": "Costco, 2555, Range Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G8, Canada"
   },
   {
     "name": "Courtyard by Marriott Prince George",
@@ -7771,7 +8042,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:35:14.789846",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9123595,
+    "longitude": -122.7511243,
+    "geocoded_address": "900, Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Crave Cafe",
@@ -7798,7 +8072,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:35:26.184206",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.855424,
+    "longitude": -122.7815253,
+    "geocoded_address": "3137, Vista Ridge Drive, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Crisp Bae Pizza",
@@ -7837,7 +8114,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:35:38.519018",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9884471,
+    "longitude": -122.7901086,
+    "geocoded_address": "Blissful Bubbles Boutique, 3831, Austin Road West, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2H7, Canada"
   },
   {
     "name": "Croft Hotel",
@@ -7911,7 +8191,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:35:52.343969",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9135144,
+    "longitude": -122.7370373,
+    "geocoded_address": "4th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Y4, Canada"
   },
   {
     "name": "CrossRoads Tap & Kitchen",
@@ -8007,7 +8290,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:36:05.885766",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8679608,
+    "longitude": -122.7739743,
+    "geocoded_address": "CrossRoads Tap and Kitchen, 5224, Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4A1, Canada"
   },
   {
     "name": "Crush Night Club",
@@ -8034,7 +8320,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:36:17.112318",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9150578,
+    "longitude": -122.7453369,
+    "geocoded_address": "1192, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1R6, Canada"
   },
   {
     "name": "D'Lanos Family Restaurants",
@@ -8069,7 +8358,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:36:28.336768",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9100859,
+    "longitude": -122.7553361,
+    "geocoded_address": "1515, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Daddyo's Pizza & Ribs",
@@ -8116,7 +8408,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:36:40.696973",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9020383,
+    "longitude": -122.796431,
+    "geocoded_address": "South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4W5, Canada"
   },
   {
     "name": "Dairy Queen on 3rd",
@@ -8226,7 +8521,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:36:54.216665",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9201294,
+    "longitude": -122.7564147,
+    "geocoded_address": "Dairy Queen, 1924, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1G7, Canada"
   },
   {
     "name": "Dana Mandi",
@@ -8534,7 +8832,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:37:15.648679",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9204754,
+    "longitude": -122.7632415,
+    "geocoded_address": "2095, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "Day & Night Store #1",
@@ -8548,7 +8849,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:37:25.777412",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8167811,
+    "longitude": -122.9133059,
+    "geocoded_address": "Petro-Canada, 11480, Carmel Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5B8, Canada"
   },
   {
     "name": "Day & Night Store #2",
@@ -8590,7 +8894,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:37:37.000706",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9960828,
+    "longitude": -122.7989206,
+    "geocoded_address": "4381, Handlen Road, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 4P9, Canada"
   },
   {
     "name": "Daydream Donuts Cafe",
@@ -8675,7 +8982,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:37:51.595597",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9151414,
+    "longitude": -122.7436744,
+    "geocoded_address": "415, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Deadfall Brewing Company",
@@ -8710,7 +9020,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:38:02.893718",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Deb's Cafe",
@@ -8749,7 +9060,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:38:15.220806",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9172588,
+    "longitude": -122.7810017,
+    "geocoded_address": "834, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3B8, Canada"
   },
   {
     "name": "Degrees Coffee",
@@ -8763,7 +9077,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:38:25.343532",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "Degrees Coffee Co #2",
@@ -8798,7 +9115,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:38:36.576045",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "Denny's Restaurant - PG",
@@ -8876,7 +9196,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:38:51.242551",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9082334,
+    "longitude": -122.780552,
+    "geocoded_address": "Sandman Hotel & Suites Prince George, 1650, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C2, Canada"
   },
   {
     "name": "Detsan Cyo Bannock",
@@ -8915,7 +9238,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:39:03.617481",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9183212,
+    "longitude": -122.7602614,
+    "geocoded_address": "Ross Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1G7, Canada"
   },
   {
     "name": "Domino's Pizza- on Alward Street",
@@ -9016,7 +9342,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:39:18.169906",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9202426,
+    "longitude": -122.7666204,
+    "geocoded_address": "525, Alward Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K1, Canada"
   },
   {
     "name": "Domino's Pizza-College Heights",
@@ -9051,7 +9380,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:39:29.460915",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Domino's Pizza on Ospika",
@@ -9098,7 +9428,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:39:41.889566",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9062637,
+    "longitude": -122.7968119,
+    "geocoded_address": "Domino's, 1960, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4W5, Canada"
   },
   {
     "name": "Domino's Pizza on the Hart",
@@ -9157,7 +9490,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:39:55.324935",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9830363,
+    "longitude": -122.7826399,
+    "geocoded_address": "Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1W2, Canada"
   },
   {
     "name": "Donair Dude",
@@ -9184,7 +9520,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:40:06.837693",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176252,
+    "longitude": -122.7832386,
+    "geocoded_address": "8th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 0B4, Canada"
   },
   {
     "name": "Duchess Early Learning Centre",
@@ -9211,7 +9550,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:40:18.161070",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9148675,
+    "longitude": -122.7578091,
+    "geocoded_address": "810, Winnipeg Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3P7, Canada"
   },
   {
     "name": "Dynamic Reforestation #3",
@@ -9225,7 +9567,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:40:28.280835",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Dynamic Reforestation #4",
@@ -9239,7 +9582,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:40:38.404207",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Dynamic Reforestation #5",
@@ -9253,7 +9597,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:40:48.572164",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Earl's Restaurant",
@@ -9361,7 +9706,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:41:03.777346",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9109882,
+    "longitude": -122.7810227,
+    "geocoded_address": "1440, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3E2, Canada"
   },
   {
     "name": "Eastway Esso-KFC",
@@ -9504,7 +9852,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:41:18.454548",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9043244,
+    "longitude": -122.6788487,
+    "geocoded_address": "Boundary Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H8, Canada"
   },
   {
     "name": "Edo Japan",
@@ -9558,7 +9909,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:41:30.782948",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Edo Japan- College Heights",
@@ -9585,7 +9939,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:41:42.048402",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Elder Citizens Recreation Association",
@@ -9612,7 +9967,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:41:53.277956",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9136795,
+    "longitude": -122.7568008,
+    "geocoded_address": "1692, 10th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X0, Canada"
   },
   {
     "name": "Elizabeth Fry Family Centre",
@@ -9639,7 +9997,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:42:04.589347",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9206917,
+    "longitude": -122.7715049,
+    "geocoded_address": "5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K3, Canada"
   },
   {
     "name": "Emmaus House",
@@ -9666,7 +10027,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:42:15.823445",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8602931,
+    "longitude": -122.7911299,
+    "geocoded_address": "Hillcrest Place, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z4, Canada"
   },
   {
     "name": "Evangelical Free Church",
@@ -9693,7 +10057,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:42:27.290750",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9210975,
+    "longitude": -122.8157356,
+    "geocoded_address": "Evangelical Free Church of Prince George, 4590, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Fabulous Cakes by Jenn",
@@ -9728,7 +10095,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:42:38.710968",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8562334,
+    "longitude": -122.786546,
+    "geocoded_address": "7603, Grayshell Road, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z4, Canada"
   },
   {
     "name": "Famous Players 6 Concession",
@@ -9775,7 +10145,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:42:51.153785",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Famous Wok",
@@ -10281,7 +10652,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:43:16.608857",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Fatburger Pine Centre",
@@ -10308,7 +10682,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:43:27.958277",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Fatburger Ricky's All Day Grill",
@@ -10428,7 +10803,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:43:43.743816",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8680882,
+    "longitude": -122.776433,
+    "geocoded_address": "TD, Dakelh Ti, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4V8, Canada"
   },
   {
     "name": "Fire 451",
@@ -10597,7 +10975,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:44:00.648050",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9155009,
+    "longitude": -122.7707475,
+    "geocoded_address": "Douglas Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Fire Pit",
@@ -10670,7 +11051,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:44:14.211053",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9162984,
+    "longitude": -122.7430402,
+    "geocoded_address": "1120, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Fly Away Coffee",
@@ -10684,7 +11068,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:44:24.331401",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8807184,
+    "longitude": -122.675826,
+    "geocoded_address": "Airport Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H0, Canada"
   },
   {
     "name": "Foothills Foods & European Deli- Deli",
@@ -10997,7 +11384,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:44:44.618657",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9104325,
+    "longitude": -122.7993495,
+    "geocoded_address": "15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Fort George Railway Scoop Shop",
@@ -11024,7 +11414,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:44:55.939245",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9053179,
+    "longitude": -122.7355693,
+    "geocoded_address": "The Exploration Place, 333, Becott Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5R5, Canada"
   },
   {
     "name": "Fortune Creek Canada",
@@ -11051,7 +11444,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:45:07.471114",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Fortune Palace Restaurant",
@@ -11416,7 +11812,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:45:31.066543",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8797794,
+    "longitude": -122.7717977,
+    "geocoded_address": "Hollandia Drive, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4K9, Canada"
   },
   {
     "name": "Frank's Family Concession",
@@ -11494,7 +11893,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:45:45.657523",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8586621,
+    "longitude": -122.8000716,
+    "geocoded_address": "6870, Westgate Court, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5T8, Canada"
   },
   {
     "name": "Freeman Park",
@@ -11508,7 +11910,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:45:55.813645",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.913313,
+    "longitude": -122.7739828,
+    "geocoded_address": "2825, 12th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Fresh Slice Pizza",
@@ -11543,7 +11948,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:46:07.136655",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9155928,
+    "longitude": -122.7823617,
+    "geocoded_address": "999, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C8, Canada"
   },
   {
     "name": "Freshii",
@@ -11597,7 +12005,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:46:19.516553",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Friendship Home",
@@ -11624,7 +12033,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:46:30.834779",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9190163,
+    "longitude": -122.7709012,
+    "geocoded_address": "657, Douglas Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Friendship Lodge",
@@ -11659,7 +12071,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:46:42.091170",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Gateway Lodge",
@@ -11745,7 +12158,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:46:56.734876",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.905584,
+    "longitude": -122.7520213,
+    "geocoded_address": "1488, 20th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Georgina's Catering",
@@ -11772,7 +12188,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:47:07.964127",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9063029,
+    "longitude": -122.6798357,
+    "geocoded_address": "2888, Piper Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 5C4, Canada"
   },
   {
     "name": "Gold's Gym",
@@ -11833,7 +12252,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:47:20.329668",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9142528,
+    "longitude": -122.7517428,
+    "geocoded_address": "PG Laser Health Solution, 760, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2K6, Canada"
   },
   {
     "name": "Golden Bento Ltd.",
@@ -11907,7 +12329,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:47:33.844275",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9178311,
+    "longitude": -122.7494829,
+    "geocoded_address": "1505, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "Good Chef Restaurant Ltd",
@@ -12202,7 +12627,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:47:51.845381",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Grama's Kitchen",
@@ -12405,7 +12831,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:48:08.688015",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.916184,
+    "longitude": -122.7827448,
+    "geocoded_address": "Grama's Inn, 901, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C8, Canada"
   },
   {
     "name": "Great Wall Restaurant",
@@ -12526,7 +12955,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:48:23.306876",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8950502,
+    "longitude": -122.7580122,
+    "geocoded_address": "2757, Spruce Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2S1, Canada"
   },
   {
     "name": "Greek Orthodox Church Kitchen",
@@ -12540,7 +12972,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:48:33.516804",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9126472,
+    "longitude": -122.806957,
+    "geocoded_address": "South Tabor Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 5K7, Canada"
   },
   {
     "name": "Hart Highlands Ski Hill",
@@ -12567,7 +13002,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:48:44.763365",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9821993,
+    "longitude": -122.7910155,
+    "geocoded_address": "Winslow Drive, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1Z8, Canada"
   },
   {
     "name": "Hart Pioneer Centre Association",
@@ -12629,7 +13067,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:48:57.204523",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9826359,
+    "longitude": -122.7810344,
+    "geocoded_address": "Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1W2, Canada"
   },
   {
     "name": "Hart Wheel Inn Restaurant",
@@ -12827,7 +13268,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:49:13.012785",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9454206,
+    "longitude": -122.7619794,
+    "geocoded_address": "2260, John Hart Highway, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2X8, Canada"
   },
   {
     "name": "Harvest Kitchen & Spirits",
@@ -12966,7 +13410,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:49:29.891006",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9147357,
+    "longitude": -122.747072,
+    "geocoded_address": "Hyatt Place Prince George, 585, Dominion Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1T7, Canada"
   },
   {
     "name": "Healthy Lifestyles Cafe",
@@ -12993,7 +13440,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:49:41.150036",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9196324,
+    "longitude": -122.7657475,
+    "geocoded_address": "6th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K1, Canada"
   },
   {
     "name": "Hearth Program",
@@ -13020,7 +13470,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:49:52.383471",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9128319,
+    "longitude": -122.7316622,
+    "geocoded_address": "397, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "Himalayan Bites",
@@ -13071,7 +13524,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:50:05.958586",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Homespun Refillery",
@@ -13110,7 +13564,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:50:18.527216",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9105556,
+    "longitude": -122.7800464,
+    "geocoded_address": "3110, 15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1T1, Canada"
   },
   {
     "name": "Homesteader Meats",
@@ -13137,7 +13594,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:50:29.763980",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9311391,
+    "longitude": -122.7821453,
+    "geocoded_address": "North Nechako Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C6, Canada"
   },
   {
     "name": "Huble Homestead Historic Site",
@@ -13151,7 +13611,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:50:39.966058",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Hunniford's Meats",
@@ -13165,7 +13626,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:50:50.090690",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Husky - Hart Highway Chief Lake",
@@ -13207,7 +13669,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:51:01.371320",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 54.0044186,
+    "longitude": -122.8017536,
+    "geocoded_address": "Husky, 8087, Hart Highway, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3B8, Canada"
   },
   {
     "name": "Husky House Restaurant",
@@ -13290,7 +13755,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:51:13.723872",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8722547,
+    "longitude": -122.7361198,
+    "geocoded_address": "Esso, 1148B, Pacific Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5S3, Canada"
   },
   {
     "name": "Ice Cream Express",
@@ -13304,7 +13772,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:51:23.914612",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9000965,
+    "longitude": -122.7823374,
+    "geocoded_address": "Westwood Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "Ignite Night Club",
@@ -13318,7 +13789,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:51:34.039993",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Indian Corner Store",
@@ -13410,7 +13882,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:51:48.705369",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Industrial Forestry Service Camp #1",
@@ -13424,7 +13897,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:51:58.832941",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Industrial Forestry Service Camp #2",
@@ -13438,7 +13912,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:52:09.001780",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Integris Credit Union",
@@ -13465,7 +13940,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:52:20.229965",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9153794,
+    "longitude": -122.7503531,
+    "geocoded_address": "6th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2K1, Canada"
   },
   {
     "name": "Ispah Lake Girl Guide Camp",
@@ -13479,7 +13957,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:52:30.371545",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Ivy's Family Kitchen",
@@ -13627,7 +14106,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:52:46.116283",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9160722,
+    "longitude": -122.7455408,
+    "geocoded_address": "1230, 4th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3L5, Canada"
   },
   {
     "name": "Jack's Coffee Co.",
@@ -13694,7 +14176,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:52:59.625613",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9064131,
+    "longitude": -122.7553301,
+    "geocoded_address": "1955, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Japan Wasabi-Sushi Wonton House",
@@ -13994,7 +14479,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:53:18.840978",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9183995,
+    "longitude": -122.7448826,
+    "geocoded_address": "Quebec Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E9, Canada"
   },
   {
     "name": "JD's Kitchen & Catering",
@@ -14084,7 +14572,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:53:31.185752",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Jepson Petroleum Ltd",
@@ -14098,7 +14587,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:53:41.368130",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8802696,
+    "longitude": -122.7406811,
+    "geocoded_address": "Great Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5R9, Canada"
   },
   {
     "name": "Joey's Restaurant",
@@ -14213,7 +14705,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:53:56.062751",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9171069,
+    "longitude": -122.7806053,
+    "geocoded_address": "Joey’s Seafood, 826, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3B8, Canada"
   },
   {
     "name": "Jubilee Lodge",
@@ -14252,7 +14747,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:54:08.416461",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9115057,
+    "longitude": -122.7643265,
+    "geocoded_address": "University Hospital of Northern British Columbia, 1475, Edmonton Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X3, Canada"
   },
   {
     "name": "Juniper House Long Term Care",
@@ -14306,7 +14804,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:54:20.814303",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9069732,
+    "longitude": -122.764623,
+    "geocoded_address": "1777, Yew Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 4B8, Canada"
   },
   {
     "name": "Karahi King Restaurant Ltd.",
@@ -14447,7 +14948,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:54:36.954807",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.914115,
+    "longitude": -122.7430332,
+    "geocoded_address": "Karahi King, 1063, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1R6, Canada"
   },
   {
     "name": "Keg Steakhouse & Bar",
@@ -14556,7 +15060,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:54:50.486953",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9138636,
+    "longitude": -122.7440572,
+    "geocoded_address": "The Keg, 582, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Kentucky Fried Chicken",
@@ -14598,7 +15105,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:55:01.718691",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8684511,
+    "longitude": -122.7778036,
+    "geocoded_address": "KFC, 5100, Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4V8, Canada"
   },
   {
     "name": "Kentucky Fried Chicken on 5th",
@@ -14647,7 +15157,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:55:13.028460",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9209148,
+    "longitude": -122.7640716,
+    "geocoded_address": "KFC, 2060, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "Kentucky Fried Chicken/TacoBell",
@@ -14686,7 +15199,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:55:25.702820",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Kernels Pine Centre",
@@ -14753,7 +15269,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:55:39.243353",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Ketso Yoh Centre",
@@ -14827,7 +15346,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:55:53.067756",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9187707,
+    "longitude": -122.7451086,
+    "geocoded_address": "Ketso Yoh Centre, 140, Quebec Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E9, Canada"
   },
   {
     "name": "Kin Centre/Eurest Dining Services #60668",
@@ -14854,7 +15376,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:56:04.410098",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9060733,
+    "longitude": -122.797368,
+    "geocoded_address": "South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4W5, Canada"
   },
   {
     "name": "Kinsmen Community Complex",
@@ -14868,7 +15393,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:56:14.775628",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9197379,
+    "longitude": -122.7923,
+    "geocoded_address": "777, Kinsmen Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3X8, Canada"
   },
   {
     "name": "Kool Cats Family Care",
@@ -14882,7 +15410,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:56:25.022400",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8500664,
+    "longitude": -122.7608256,
+    "geocoded_address": "Malaspina Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4A1, Canada"
   },
   {
     "name": "Kool Cats Kid Care",
@@ -14896,7 +15427,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T22:56:35.145605",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8583879,
+    "longitude": -122.7624275,
+    "geocoded_address": "6989, Gladstone Drive, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4A1, Canada"
   },
   {
     "name": "Laurier Manor # 64153",
@@ -14923,7 +15457,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:56:46.443324",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.916007,
+    "longitude": -122.7660265,
+    "geocoded_address": "2175, 9th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K1, Canada"
   },
   {
     "name": "Le Cercle des Canadiens Francais de PG",
@@ -14950,7 +15487,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:56:57.696562",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9083166,
+    "longitude": -122.736406,
+    "geocoded_address": "1752, Fir Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M1, Canada"
   },
   {
     "name": "Legion Wing Kitchen",
@@ -14977,7 +15517,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:57:08.998809",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Lemon Heaven",
@@ -15073,7 +15614,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:57:22.536092",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "Lil Ava's Pizza & Pasta",
@@ -15182,7 +15726,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:57:35.991946",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9095482,
+    "longitude": -122.7810295,
+    "geocoded_address": "1636, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C2, Canada"
   },
   {
     "name": "Lil Donuts Express",
@@ -15209,7 +15756,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:57:47.260133",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9044526,
+    "longitude": -122.802043,
+    "geocoded_address": "CN Centre, 2187, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6Z1, Canada"
   },
   {
     "name": "Lil Hoppers Playhouse & Cafe",
@@ -15290,7 +15840,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:58:00.803117",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Little Caesars",
@@ -15663,7 +16214,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:58:23.224723",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.913767,
+    "longitude": -122.782221,
+    "geocoded_address": "Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C9, Canada"
   },
   {
     "name": "Little Cub Early Learning and Care Centre",
@@ -15690,7 +16244,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:58:34.505033",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9084573,
+    "longitude": -122.7465548,
+    "geocoded_address": "17th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L1, Canada"
   },
   {
     "name": "Lobby Coffee",
@@ -15717,7 +16274,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:58:45.735664",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Madras Maple Cafe",
@@ -16078,7 +16636,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:59:06.030794",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Magel's Cafe (on 8th Avenue)",
@@ -16140,7 +16699,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:59:18.499485",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176252,
+    "longitude": -122.7832386,
+    "geocoded_address": "8th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 0B4, Canada"
   },
   {
     "name": "Mai Thai Restaurant",
@@ -16300,7 +16862,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:59:35.389443",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9152774,
+    "longitude": -122.7460721,
+    "geocoded_address": "Mai Thai, 1238, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3L2, Canada"
   },
   {
     "name": "Malcolm McLeod Community Centre",
@@ -16327,7 +16892,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T22:59:46.707601",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Mapal Ice Cream & Mini Donuts #1",
@@ -16402,7 +16968,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:00:02.435470",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8450268,
+    "longitude": -122.8169275,
+    "geocoded_address": "5616, Leland Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Mapal Ice Cream & Mini Donuts #2",
@@ -16441,7 +17010,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:00:14.791798",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8450268,
+    "longitude": -122.8169275,
+    "geocoded_address": "5616, Leland Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Marble Slab Creamery",
@@ -16476,7 +17048,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:00:26.127223",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8902046,
+    "longitude": -122.7683679,
+    "geocoded_address": "Marble Slab Creamery, 3040, Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0B2, Canada"
   },
   {
     "name": "McDonald's Restaurant 5th Avenue",
@@ -16515,7 +17090,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:00:38.464938",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9212938,
+    "longitude": -122.8068233,
+    "geocoded_address": "McDonalds, 4288, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "McDonalds at Wal-Mart",
@@ -16576,7 +17154,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:00:51.098075",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8649215,
+    "longitude": -122.7839151,
+    "geocoded_address": "6565, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "McDonalds Restaurant on 15th",
@@ -16726,7 +17307,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:01:06.807692",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9106291,
+    "longitude": -122.7827501,
+    "geocoded_address": "McDonald's, 3310, 15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 0A1, Canada"
   },
   {
     "name": "McDonalds Restaurant on Massey",
@@ -16812,7 +17396,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:01:21.422146",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8999535,
+    "longitude": -122.7809914,
+    "geocoded_address": "McDonald's, 3250, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "McDonalds Restaurant on the Hart",
@@ -16891,7 +17478,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:01:36.029458",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9906616,
+    "longitude": -122.7906337,
+    "geocoded_address": "McDonald's, 6777, John Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A5, Canada"
   },
   {
     "name": "McDonalds Restaurant on Vance",
@@ -16918,7 +17508,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:01:47.385925",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8797794,
+    "longitude": -122.7717977,
+    "geocoded_address": "Hollandia Drive, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4K9, Canada"
   },
   {
     "name": "McDonalds Restaurant on Victoria",
@@ -16991,7 +17584,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:02:00.925225",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9118113,
+    "longitude": -122.7540308,
+    "geocoded_address": "Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "Meals on Wheels",
@@ -17066,7 +17662,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:02:14.384307",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9162891,
+    "longitude": -122.7492608,
+    "geocoded_address": "Knox United Church, 1448, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Melius Coffee",
@@ -17093,7 +17692,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:02:25.664346",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Mild Chili Indian Cuisine",
@@ -17393,7 +17993,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:02:43.730229",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Minor Girls Stadium",
@@ -17407,7 +18008,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:02:53.878706",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Miworth Community Hall",
@@ -17446,7 +18048,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:03:06.220099",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Montana's BBQ and Bar",
@@ -17531,7 +18134,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:03:21.266814",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8887601,
+    "longitude": -122.7708053,
+    "geocoded_address": "Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E8, Canada"
   },
   {
     "name": "Moxie's Classic Grill",
@@ -17692,7 +18298,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:03:38.348370",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9073625,
+    "longitude": -122.781028,
+    "geocoded_address": "1804, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C2, Canada"
   },
   {
     "name": "Mr G #11-Shell",
@@ -17747,7 +18356,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:03:50.847658",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8499386,
+    "longitude": -122.8250398,
+    "geocoded_address": "Shell, 5952, Gauthier Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Mr Mikes Steakhouse Casual",
@@ -17868,7 +18480,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:04:05.463505",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.889167,
+    "longitude": -122.7682354,
+    "geocoded_address": "Mr Mikes, 2216, Ferry Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E8, Canada"
   },
   {
     "name": "Mr Pretzels",
@@ -17907,7 +18522,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:04:17.917759",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Mr. Chibap (Korean Cuisine)",
@@ -17942,7 +18560,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:04:29.175150",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9054578,
+    "longitude": -122.7401243,
+    "geocoded_address": "20th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M1, Canada"
   },
   {
     "name": "Mr. Sushi",
@@ -18071,7 +18692,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:04:43.841280",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9826359,
+    "longitude": -122.7810344,
+    "geocoded_address": "Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1W2, Canada"
   },
   {
     "name": "Mucho Burrito",
@@ -18152,7 +18776,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:04:57.371970",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Mulino Kitchen and craft cocktails",
@@ -18316,7 +18941,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:05:12.051649",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9118113,
+    "longitude": -122.7540308,
+    "geocoded_address": "Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "My Swiss Chef",
@@ -18343,7 +18971,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:05:23.394315",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9162891,
+    "longitude": -122.7492608,
+    "geocoded_address": "Knox United Church, 1448, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "M.A.M. Convenience World - Deli and Bakery",
@@ -18390,7 +19021,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:05:35.737469",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.944624,
+    "longitude": -122.7597185,
+    "geocoded_address": "M.A.M. Convenience World, 1822, Aberdeen Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1G6, Canada"
   },
   {
     "name": "Nadsilnich Lake Community Hall",
@@ -18404,7 +19038,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:05:45.937140",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Nancy O's",
@@ -18739,7 +19374,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:06:05.067465",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9166833,
+    "longitude": -122.7455475,
+    "geocoded_address": "Nancy O's, 1261, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "Nechako Youth Treatment",
@@ -18774,7 +19412,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:06:16.344520",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9121795,
+    "longitude": -122.7658095,
+    "geocoded_address": "1308, Alward Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "Nelly's Pub & Pizza",
@@ -18986,7 +19627,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:06:32.143532",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9456131,
+    "longitude": -122.762094,
+    "geocoded_address": "2286, John Hart Highway, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2X8, Canada"
   },
   {
     "name": "Ness Lake Bible Camp Kitchen",
@@ -19000,7 +19644,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:06:42.269559",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Ness Lake Community Hall",
@@ -19014,7 +19659,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:06:52.426767",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "New Life Centre",
@@ -19041,7 +19687,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:07:03.676610",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9139837,
+    "longitude": -122.7353633,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "New York Fries",
@@ -19088,7 +19737,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:07:16.127484",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Next Generation Reforestation Camp #2",
@@ -19102,7 +19754,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:07:26.255797",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "NoodleBox",
@@ -19256,7 +19909,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:07:43.165128",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "North 54 Restaurant Ltd.",
@@ -19380,7 +20036,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:07:56.676683",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9226065,
+    "longitude": -122.7637691,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "Northern BC Therapeutic Community Center",
@@ -19394,7 +20053,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:08:06.879183",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8203058,
+    "longitude": -122.8400595,
+    "geocoded_address": "Blackwater Road, Beaverley, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Northern Lights Estate Winery Ltd-Northern Lights Estate Winery Sunflower Maze",
@@ -19408,7 +20070,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:08:17.007990",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9206112,
+    "longitude": -122.6485077,
+    "geocoded_address": "Foreman Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 5C4, Canada"
   },
   {
     "name": "Northern Palace",
@@ -19443,7 +20108,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:08:28.252286",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9891389,
+    "longitude": -122.7887026,
+    "geocoded_address": "Austin Road West, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2H6, Canada"
   },
   {
     "name": "Northern Swing Golf",
@@ -19490,7 +20158,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:08:40.646472",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Northstar Catering",
@@ -19517,7 +20186,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:08:51.967837",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9197379,
+    "longitude": -122.7923,
+    "geocoded_address": "777, Kinsmen Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3X8, Canada"
   },
   {
     "name": "Novak Bros Banquet Room",
@@ -19531,7 +20203,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:09:02.101176",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Oakroom Grill",
@@ -19751,7 +20424,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:09:17.900847",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Olive's Branch",
@@ -19798,7 +20472,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:09:30.335772",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9226065,
+    "longitude": -122.7637691,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "OM Pizza Bar Cafe",
@@ -19950,7 +20627,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:09:43.874760",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9020383,
+    "longitude": -122.796431,
+    "geocoded_address": "South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4W5, Canada"
   },
   {
     "name": "Opa Souvlaki",
@@ -20043,7 +20723,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:09:58.453335",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Open Door Cafe, The",
@@ -20139,7 +20822,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:10:11.943767",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9798119,
+    "longitude": -122.7705283,
+    "geocoded_address": "Monterey Road, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A1, Canada"
   },
   {
     "name": "Origins Kitchen",
@@ -20207,7 +20893,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:10:24.400062",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9053179,
+    "longitude": -122.7355693,
+    "geocoded_address": "The Exploration Place, 333, Becott Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5R5, Canada"
   },
   {
     "name": "Our Saviour's Lutheran Church - Kitchen",
@@ -20234,7 +20923,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:10:35.641962",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8958296,
+    "longitude": -122.788565,
+    "geocoded_address": "3590, Dufferin Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Panago Pizza",
@@ -20288,7 +20980,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:10:48.051223",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Panago Pizza- Westwood Drive",
@@ -20330,7 +21023,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:10:59.373411",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Papa Johns Pizza",
@@ -20357,7 +21051,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:11:10.615797",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9151448,
+    "longitude": -122.7833799,
+    "geocoded_address": "Papa John's, 1023, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C9, Canada"
   },
   {
     "name": "Parkside Intermediate Care Home",
@@ -20396,7 +21093,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:11:23.066436",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9178561,
+    "longitude": -122.7940784,
+    "geocoded_address": "788, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Pass lake Camp",
@@ -20410,7 +21110,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:11:33.201296",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "PG Activators Society",
@@ -20445,7 +21146,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:11:44.572161",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9155339,
+    "longitude": -122.7370384,
+    "geocoded_address": "770, 2nd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "PG Afro Caribbean Enterprise",
@@ -20559,7 +21263,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:12:00.347062",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9073621,
+    "longitude": -122.7435819,
+    "geocoded_address": "1804, Juniper Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M1, Canada"
   },
   {
     "name": "PG City Funpark",
@@ -20586,7 +21293,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:12:11.588436",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.900877,
+    "longitude": -122.7927521,
+    "geocoded_address": "Opie Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "PG Civic Centre - CG 60667",
@@ -20635,7 +21345,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:12:22.889273",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9124043,
+    "longitude": -122.7487287,
+    "geocoded_address": "Christian Business Ministries Canada, 808, Canada Games Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L1, Canada"
   },
   {
     "name": "PG Italian Club",
@@ -20670,7 +21383,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:12:34.137353",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9149679,
+    "longitude": -122.7460941,
+    "geocoded_address": "1209, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1R6, Canada"
   },
   {
     "name": "PG Nechako Slo Pitch Concession",
@@ -20684,7 +21400,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:12:44.325199",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9311391,
+    "longitude": -122.7821453,
+    "geocoded_address": "North Nechako Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C6, Canada"
   },
   {
     "name": "PG Regional Correctional Center - CG 60713",
@@ -20745,7 +21464,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:12:56.678942",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "PG Rotary Hospice House",
@@ -20772,7 +21492,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:13:07.975533",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8897005,
+    "longitude": -122.7550293,
+    "geocoded_address": "Clapperton Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2S1, Canada"
   },
   {
     "name": "PG Tasty Bite Restaurant",
@@ -20954,7 +21677,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:13:23.774035",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9104325,
+    "longitude": -122.7993495,
+    "geocoded_address": "15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "PG Urban Shroomery",
@@ -20981,7 +21707,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:13:35.085409",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "PG & District Senior Activity Center",
@@ -21037,7 +21764,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:13:46.336313",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9151241,
+    "longitude": -122.7494136,
+    "geocoded_address": "Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "PGNFC Head Start Child Care Centre - Skeh Baiyoh",
@@ -21064,7 +21794,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:13:57.628369",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9021728,
+    "longitude": -122.7581236,
+    "geocoded_address": "1687, Strathcona Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2N5, Canada"
   },
   {
     "name": "Phulkari",
@@ -21078,7 +21811,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:14:07.759378",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8856859,
+    "longitude": -122.785085,
+    "geocoded_address": "2909, Andres Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1S4, Canada"
   },
   {
     "name": "Pine Valley Golf Centre",
@@ -21105,7 +21841,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:14:18.998236",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.884578,
+    "longitude": -122.7821814,
+    "geocoded_address": "Range Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1S4, Canada"
   },
   {
     "name": "Pineview General Store",
@@ -21144,7 +21883,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:14:31.870789",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8981041,
+    "longitude": -122.6655178,
+    "geocoded_address": "Old Cariboo Highway, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H0, Canada"
   },
   {
     "name": "Pineview Hall",
@@ -21183,7 +21925,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:14:44.289563",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Piperz Snack Shack",
@@ -21210,7 +21953,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:14:55.527675",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8802696,
+    "longitude": -122.7406811,
+    "geocoded_address": "Great Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5R9, Canada"
   },
   {
     "name": "Pita Pit",
@@ -21279,7 +22025,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:15:07.977648",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Pita Pit- Domano",
@@ -21408,7 +22155,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:15:22.664443",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "PixelPlay Cafe",
@@ -21435,7 +22183,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:15:33.900629",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Pizza 73",
@@ -21523,7 +22274,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:15:47.416420",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Pizza Hut",
@@ -21577,7 +22329,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:15:59.885133",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Pizza Hut #R302-18",
@@ -21648,7 +22401,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:16:22.641038",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Pomeroy Inn & Suites, Prince George",
@@ -21704,7 +22458,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:16:33.873287",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8944785,
+    "longitude": -122.7700029,
+    "geocoded_address": "Pomeroy Inn and Suites Prince George, 2700, Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0B2, Canada"
   },
   {
     "name": "Positive Living North",
@@ -21763,7 +22520,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:16:47.310621",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9187407,
+    "longitude": -122.7493089,
+    "geocoded_address": "1563, 2nd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 4Y2, Canada"
   },
   {
     "name": "Prestige Prince George Lodge-Breakfast Bar",
@@ -21790,7 +22550,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:16:58.550259",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Prime Pizza & Tiffin Inc.",
@@ -22020,7 +22783,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:17:16.417922",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9221466,
+    "longitude": -122.7872551,
+    "geocoded_address": "South Nicholson Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C6, Canada"
   },
   {
     "name": "Prince George Alano Society",
@@ -22047,7 +22813,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:17:27.848161",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9221662,
+    "longitude": -122.7664727,
+    "geocoded_address": "Alward Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1J9, Canada"
   },
   {
     "name": "Prince George Chateau",
@@ -22196,7 +22965,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:17:43.512673",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9222601,
+    "longitude": -122.8092553,
+    "geocoded_address": "4377, Hill Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Prince George Golf and Curling Club-Concession",
@@ -22210,7 +22982,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:17:53.643021",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8973861,
+    "longitude": -122.7712742,
+    "geocoded_address": "Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2S0, Canada"
   },
   {
     "name": "Prince George Golf & Curling Club",
@@ -22318,7 +23093,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:18:08.194645",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8973861,
+    "longitude": -122.7712742,
+    "geocoded_address": "Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2S0, Canada"
   },
   {
     "name": "Prince George Soccer Association",
@@ -22332,7 +23110,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:18:18.326169",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.910076,
+    "longitude": -122.8038875,
+    "geocoded_address": "1771, George Paul Lane, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0E1, Canada"
   },
   {
     "name": "Purden Ski Village",
@@ -22530,7 +23311,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:18:33.986831",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Purdys Chocolatier",
@@ -22565,7 +23347,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:18:45.224771",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Purple Cafe",
@@ -22628,7 +23413,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:18:56.458974",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.918099,
+    "longitude": -122.7491777,
+    "geocoded_address": "299, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 4Y2, Canada"
   },
   {
     "name": "Queen of Harts",
@@ -22709,7 +23497,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:19:09.899670",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9830363,
+    "longitude": -122.7826399,
+    "geocoded_address": "Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1W2, Canada"
   },
   {
     "name": "Quizno's Classic Sub",
@@ -22805,7 +23596,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:19:23.360543",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 54.0044186,
+    "longitude": -122.8017536,
+    "geocoded_address": "Husky, 8087, Hart Highway, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3B8, Canada"
   },
   {
     "name": "Quizno's Classic Subs on 15th",
@@ -22919,7 +23713,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:19:39.026985",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Quizno's Classic Subs on Central",
@@ -23110,7 +23905,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:19:55.803863",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9189641,
+    "longitude": -122.7823295,
+    "geocoded_address": "663, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C5, Canada"
   },
   {
     "name": "Railway & Forestry Museum",
@@ -23137,7 +23935,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:20:07.041989",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9143819,
+    "longitude": -122.7274734,
+    "geocoded_address": "River Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "Rainbow Berry Farm",
@@ -23151,7 +23952,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:20:17.172249",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 54.0043856,
+    "longitude": -122.8033001,
+    "geocoded_address": "Chief Lake Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3B8, Canada"
   },
   {
     "name": "Rainbow Intermediate Care Home",
@@ -23205,7 +24009,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:20:29.522284",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.915535,
+    "longitude": -122.7896796,
+    "geocoded_address": "1000, Liard Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3X8, Canada"
   },
   {
     "name": "Raku Sushi",
@@ -23244,7 +24051,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:20:41.868761",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8649215,
+    "longitude": -122.7839151,
+    "geocoded_address": "6565, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Ray's Burger Barn",
@@ -23315,7 +24125,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:20:56.424412",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9826359,
+    "longitude": -122.7810344,
+    "geocoded_address": "Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 1W2, Canada"
   },
   {
     "name": "Reconnect Youth Services",
@@ -23350,7 +24163,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:21:07.662953",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9172666,
+    "longitude": -122.7419425,
+    "geocoded_address": "171, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Red Robin",
@@ -23589,7 +24405,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:21:27.742856",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Red Tomato Pies",
@@ -23669,7 +24486,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:21:41.197641",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.906041,
+    "longitude": -122.7537366,
+    "geocoded_address": "Gateway Lodge, 1905, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Rennie's",
@@ -23683,7 +24503,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:21:51.331892",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Rice Bowl",
@@ -23710,7 +24531,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:22:02.570235",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8999805,
+    "longitude": -122.7638243,
+    "geocoded_address": "2423, Abbott Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A3, Canada"
   },
   {
     "name": "Ristretto Cafe House",
@@ -23825,7 +24649,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:22:17.135222",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176877,
+    "longitude": -122.7495133,
+    "geocoded_address": "361, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 4Y2, Canada"
   },
   {
     "name": "Ritual Coffee Bar",
@@ -23933,7 +24760,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:22:31.923773",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "RiverBend Prince George",
@@ -23960,7 +24788,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:22:43.162523",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9054578,
+    "longitude": -122.7401243,
+    "geocoded_address": "20th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M1, Canada"
   },
   {
     "name": "RiverHouse Restaurant",
@@ -24048,7 +24879,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:22:56.608067",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9281009,
+    "longitude": -122.7621255,
+    "geocoded_address": "745, PG Pulpmill Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z1, Canada"
   },
   {
     "name": "Rockford Wok Bar & Grill",
@@ -24155,7 +24989,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:23:11.162990",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8937077,
+    "longitude": -122.7679712,
+    "geocoded_address": "Recreation Place, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0B2, Canada"
   },
   {
     "name": "Rocky Mountain Chocolate Factory Prince George",
@@ -24236,7 +25073,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:23:24.612366",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9190762,
+    "longitude": -122.7823285,
+    "geocoded_address": "651, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C5, Canada"
   },
   {
     "name": "Rodica Senior Home Care House",
@@ -24263,7 +25103,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:23:35.843116",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9046939,
+    "longitude": -122.7551268,
+    "geocoded_address": "Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2N5, Canada"
   },
   {
     "name": "Rosco's Pizza",
@@ -24351,7 +25194,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:23:49.612195",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Royal Canadian Legion #43",
@@ -24433,7 +25277,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:24:01.956732",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Rubi's Little Bakery",
@@ -24460,7 +25305,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:24:13.197750",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Salmon River Social & Educational Centre",
@@ -24521,7 +25367,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:24:25.536089",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Salvation Army Community Church",
@@ -24590,7 +25437,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:24:37.876545",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176885,
+    "longitude": -122.795765,
+    "geocoded_address": "The Salvation Army Church, 777, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Sandys Old Fashion Burger Stand",
@@ -24632,7 +25482,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:24:49.123848",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9990055,
+    "longitude": -122.800175,
+    "geocoded_address": "4321, Nordic Drive, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 4P9, Canada"
   },
   {
     "name": "Save on Foods 965- Deli",
@@ -24667,7 +25520,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:25:00.369651",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8674552,
+    "longitude": -122.7745493,
+    "geocoded_address": "Safe-on-Foods, 5232, Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4A1, Canada"
   },
   {
     "name": "Save on Foods 967- Deli",
@@ -24762,7 +25618,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:25:13.812480",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.920062,
+    "longitude": -122.783358,
+    "geocoded_address": "Save-On-Foods, 555, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C6, Canada"
   },
   {
     "name": "Save on Foods 968- Deli",
@@ -24789,7 +25648,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:25:25.055167",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9888641,
+    "longitude": -122.790025,
+    "geocoded_address": "Austin Road West, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 2H7, Canada"
   },
   {
     "name": "Save on Foods #2266- Deli",
@@ -24836,7 +25698,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:25:37.404296",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Save on Foods #2266 Restuarant",
@@ -24883,7 +25748,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:25:49.816490",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Second Cup Ltd",
@@ -24990,7 +25858,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:26:04.767010",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Set Free Recovery",
@@ -25004,7 +25873,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:26:14.896688",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.891817,
+    "longitude": -122.7950596,
+    "geocoded_address": "3809, Pinewood Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1S4, Canada"
   },
   {
     "name": "Shah Brothers Convenience Store",
@@ -25031,7 +25903,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:26:26.142318",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Shogun",
@@ -25194,7 +26067,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:26:41.842595",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9134508,
+    "longitude": -122.750254,
+    "geocoded_address": "Coast Prince George Hotel by APA, 770, Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Silver Gosling",
@@ -25304,7 +26180,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:26:58.875828",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9165103,
+    "longitude": -122.7448531,
+    "geocoded_address": "1205, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "Sim's Lunch Box",
@@ -25432,7 +26311,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:27:14.598637",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Simon Fraser Lodge",
@@ -25467,7 +26347,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:27:26.165647",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.915535,
+    "longitude": -122.7896796,
+    "geocoded_address": "1000, Liard Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3X8, Canada"
   },
   {
     "name": "Smokehouse Kitchen",
@@ -25541,7 +26424,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:27:39.620245",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9139837,
+    "longitude": -122.7353633,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "Smokehouse on the Run",
@@ -25580,7 +26466,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:27:51.973466",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9139837,
+    "longitude": -122.7353633,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "So Good Restaurant",
@@ -25936,7 +26825,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:28:12.123027",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176252,
+    "longitude": -122.7832386,
+    "geocoded_address": "8th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 0B4, Canada"
   },
   {
     "name": "South Fort George Family Resource Centre",
@@ -25975,7 +26867,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:28:24.470399",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8969128,
+    "longitude": -122.7429724,
+    "geocoded_address": "1200, La Salle Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M4, Canada"
   },
   {
     "name": "Spice of Life Indian Cuisine",
@@ -26479,7 +27374,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:28:49.052877",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9210867,
+    "longitude": -122.7702898,
+    "geocoded_address": "Spice of Life, 454, Douglas Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1K3, Canada"
   },
   {
     "name": "Spicy Greens Restaurant -College Heights",
@@ -26576,7 +27474,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:29:01.427671",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8693065,
+    "longitude": -122.7776991,
+    "geocoded_address": "5051, 5063, 5075, 5079, 5083, 5087, 5099, Domano Boulevard, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4V8, Canada"
   },
   {
     "name": "Sport Park Concession - Gyro Park",
@@ -26590,7 +27491,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:29:11.550574",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9053559,
+    "longitude": -122.7380735,
+    "geocoded_address": "755, 20th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1M1, Canada"
   },
   {
     "name": "Spruce Capital Seniors Recreation Society",
@@ -26604,7 +27508,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:29:21.685144",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Spruce City Stadium",
@@ -26631,7 +27536,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:29:32.923682",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Spruce Kings Concession",
@@ -26680,7 +27586,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:29:44.171779",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9121024,
+    "longitude": -122.7479667,
+    "geocoded_address": "888, Dominion Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1T8, Canada"
   },
   {
     "name": "St George's Ukranian Catholic Parish Hall",
@@ -26694,7 +27603,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:29:54.303736",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8992698,
+    "longitude": -122.7867829,
+    "geocoded_address": "2414, Vanier Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "St Giles Presbyterian Church",
@@ -26721,7 +27633,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:30:05.563572",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9101328,
+    "longitude": -122.7640429,
+    "geocoded_address": "1500, Edmonton Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 2L3, Canada"
   },
   {
     "name": "St Mary's School",
@@ -26729,7 +27644,10 @@
     "address": "1125 Freeman Street",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.233105",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9109128,
+    "longitude": -122.7737403,
+    "geocoded_address": "Freeman Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1T1, Canada"
   },
   {
     "name": "St Michael's and All Angel's Church",
@@ -26737,7 +27655,10 @@
     "address": "1505 5th Avenue",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.233153",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 50.6746901,
+    "longitude": -120.3295803,
+    "geocoded_address": "5th Avenue, Downtown Kamloops, Sagebrush, Kamloops, Thompson-Nicola Regional District, British Columbia, V2C 2M7, Canada"
   },
   {
     "name": "St Michaels Ukrainian Orthodox Church Hall",
@@ -26745,7 +27666,10 @@
     "address": "2793 Range Road",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.233228",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8844817,
+    "longitude": -122.7792373,
+    "geocoded_address": "2793, Range Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G8, Canada"
   },
   {
     "name": "St Patricks House",
@@ -26753,7 +27677,10 @@
     "address": "1735 Yew Street",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.233347",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9076555,
+    "longitude": -122.7648767,
+    "geocoded_address": "1735, Yew Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 4B8, Canada"
   },
   {
     "name": "St Vincent De Paul Society",
@@ -26761,7 +27688,10 @@
     "address": "Box 1617",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.233400",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 50.2198599,
+    "longitude": -117.7268045,
+    "geocoded_address": "Box Lake, Area K (The Arrow Lakes), Regional District of Central Kootenay, British Columbia, Canada"
   },
   {
     "name": "Starbucks-#4452 College Heights",
@@ -26837,7 +27767,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:31:08.839185",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Starbucks - Massey Drive",
@@ -26924,7 +27855,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:31:23.426554",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Starbucks at Ramada",
@@ -27039,7 +27971,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:31:38.014597",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9147287,
+    "longitude": -122.743493,
+    "geocoded_address": "Ramada Hotel Downtown, 444, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Starbucks Hart Highway",
@@ -27066,7 +28001,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:31:49.261136",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9782002,
+    "longitude": -122.7695381,
+    "geocoded_address": "Hartway Drive, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A1, Canada"
   },
   {
     "name": "Starbucks #4590 Central Street",
@@ -27140,7 +28078,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:32:02.746656",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9106005,
+    "longitude": -122.7823806,
+    "geocoded_address": "1477, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 5S5, Canada"
   },
   {
     "name": "Strike Zone Snack Bar",
@@ -27154,7 +28095,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:32:12.880662",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9004066,
+    "longitude": -122.7816825,
+    "geocoded_address": "Strike Zone Bowling and Mini Golf, 2366, Westwood Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "Subway on 8th",
@@ -27295,7 +28239,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:32:31.893374",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9150437,
+    "longitude": -122.7558267,
+    "geocoded_address": "8th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3P7, Canada"
   },
   {
     "name": "Subway on Ferry",
@@ -27387,7 +28334,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:32:46.453712",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Subway on Massey",
@@ -27456,7 +28404,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:32:58.808025",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Subway on Southridge",
@@ -27547,7 +28498,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:33:14.495447",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8643267,
+    "longitude": -122.788493,
+    "geocoded_address": "Subway, 6333, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Subway on the Hart",
@@ -27628,7 +28582,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:33:27.967677",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.987708,
+    "longitude": -122.7849036,
+    "geocoded_address": "Subway, 6477, John Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 0A3, Canada"
   },
   {
     "name": "Subway on Victoria",
@@ -27727,7 +28684,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:33:43.786733",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Subway on Westwood",
@@ -27741,7 +28699,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:33:53.927378",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9000965,
+    "longitude": -122.7823374,
+    "geocoded_address": "Westwood Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4H3, Canada"
   },
   {
     "name": "Superstore Deli",
@@ -27802,7 +28763,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:34:06.285686",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8872819,
+    "longitude": -122.7691271,
+    "geocoded_address": "Real Canadian Superstore, 2155, Ferry Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E8, Canada"
   },
   {
     "name": "Supertrak BMX",
@@ -27816,7 +28780,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:34:16.599008",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8987273,
+    "longitude": -122.7911943,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Supportive Housing Mark's Place",
@@ -27877,7 +28844,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:34:28.974919",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9139837,
+    "longitude": -122.7353633,
+    "geocoded_address": "3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "Sushi 97",
@@ -27885,7 +28855,8 @@
     "address": "104 - 892 Central Street East",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.234245",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Sushi Yori",
@@ -27961,7 +28932,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:35:39.587528",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9102504,
+    "longitude": -122.7631614,
+    "geocoded_address": "15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X2, Canada"
   },
   {
     "name": "Sweden Creek Eats",
@@ -27969,7 +28943,8 @@
     "address": "20090 Highway 16 West",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.234339",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Sweets n Treats",
@@ -27977,7 +28952,10 @@
     "address": "1205 3rd Avenue",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:07.234392",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9165103,
+    "longitude": -122.7448531,
+    "geocoded_address": "1205, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "Syrian Pastries",
@@ -27985,7 +28963,10 @@
     "address": "777 Ospika Boulevard",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:09.503859",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9176885,
+    "longitude": -122.795765,
+    "geocoded_address": "The Salvation Army Church, 777, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Tabor Pizza",
@@ -28073,7 +29054,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:40:19.216156",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9262796,
+    "longitude": -122.8040467,
+    "geocoded_address": "Tabor Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Taco Del Mar",
@@ -28100,7 +29084,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:40:30.706164",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Taco Delhi",
@@ -28114,7 +29099,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:40:40.838465",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Tee Box Golf Simulators & Lounge Ltd",
@@ -28168,7 +29154,8 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:40:58.107075",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Terry's Fresh Hot Bannock",
@@ -28182,7 +29169,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:41:08.241239",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9162164,
+    "longitude": -122.7414322,
+    "geocoded_address": "Prince George Court, 250, George Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3B1, Canada"
   },
   {
     "name": "Thanh Vu Restaurant",
@@ -28270,7 +29260,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:41:21.722009",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "The Black Clover",
@@ -28278,7 +29271,10 @@
     "address": "1165 5th Avenue",
     "hazard_rating": "Low",
     "scraped_at": "2025-12-16T22:28:09.504221",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9145827,
+    "longitude": -122.7453346,
+    "geocoded_address": "Black Clover Pub, 1165, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3L1, Canada"
   },
   {
     "name": "The Chopped Leaf",
@@ -28353,7 +29349,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:50:26.120324",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9197198,
+    "longitude": -122.7833592,
+    "geocoded_address": "Chopped Leaf, 633, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C6, Canada"
   },
   {
     "name": "The Dudley",
@@ -28380,7 +29379,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:55:29.667398",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8662524,
+    "longitude": -122.769921,
+    "geocoded_address": "5787, Albert Place, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4A1, Canada"
   },
   {
     "name": "The Muddled Leaf",
@@ -28419,7 +29421,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:55:42.058170",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9248736,
+    "longitude": -122.7983686,
+    "geocoded_address": "1st Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "The Open Door Cafe",
@@ -28446,7 +29451,10 @@
       }
     ],
     "details_fetched_at": "2025-12-16T23:55:53.437476",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8928922,
+    "longitude": -122.769451,
+    "geocoded_address": "Northland Chrysler Dodge Jeep Ram, 2844, Recplace Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 0B2, Canada"
   },
   {
     "name": "The Sugar Hut",
@@ -28460,7 +29468,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-16T23:56:03.570424",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8984325,
+    "longitude": -122.6652121,
+    "geocoded_address": "4330, Giscome Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 2H0, Canada"
   },
   {
     "name": "The Twisted Cork",
@@ -28665,7 +29676,8 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:17:22.902566",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "The Underground Show Lounge and Bar",
@@ -28712,7 +29724,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:17:35.287204",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8966243,
+    "longitude": -122.7608384,
+    "geocoded_address": "2673, Upland Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L3, Canada"
   },
   {
     "name": "Thirsty Moose/Grab N Go",
@@ -28726,7 +29741,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:21:22.801255",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "Tim Horton's #2549 on Southridge",
@@ -28839,7 +29857,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:21:38.720163",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8665127,
+    "longitude": -122.7830863,
+    "geocoded_address": "Tim Hortons, 5808, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Tim Hortons-7228",
@@ -28886,7 +29907,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:21:51.132661",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8802696,
+    "longitude": -122.7406811,
+    "geocoded_address": "Great Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5R9, Canada"
   },
   {
     "name": "Tim Hortons 121502",
@@ -28913,7 +29937,8 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:22:02.486220",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Tim Hortons at Pine Centre",
@@ -28984,7 +30009,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:22:17.321494",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8995171,
+    "longitude": -122.7810226,
+    "geocoded_address": "Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4G4, Canada"
   },
   {
     "name": "Tim Hortons at UHNBC",
@@ -29031,7 +30059,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:22:29.741348",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9115057,
+    "longitude": -122.7643265,
+    "geocoded_address": "University Hospital of Northern British Columbia, 1475, Edmonton Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X3, Canada"
   },
   {
     "name": "Tim Hortons on the Hart",
@@ -29174,7 +30205,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:22:44.431483",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9896708,
+    "longitude": -122.787335,
+    "geocoded_address": "John Hart Highway, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 3A6, Canada"
   },
   {
     "name": "Tim Hortons #103885 on Ferry",
@@ -29245,7 +30279,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:22:59.267416",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8881579,
+    "longitude": -122.7738198,
+    "geocoded_address": "Ferry Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5E8, Canada"
   },
   {
     "name": "Tim Hortons #2123",
@@ -29373,7 +30410,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:23:15.126928",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9107521,
+    "longitude": -122.7984643,
+    "geocoded_address": "Tim Hortons, 4114, 15th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 1V8, Canada"
   },
   {
     "name": "Tim Hortons #2443",
@@ -29441,7 +30481,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:23:27.510757",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8997539,
+    "longitude": -122.7825539,
+    "geocoded_address": "3300, Massey Drive, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Tim Hortons #252",
@@ -29516,7 +30559,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:23:43.305621",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9194462,
+    "longitude": -122.7808414,
+    "geocoded_address": "Tim Hortons, 612, Central Street East, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3B7, Canada"
   },
   {
     "name": "Tim Hortons #806",
@@ -29589,7 +30635,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:23:56.873711",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9133792,
+    "longitude": -122.7525148,
+    "geocoded_address": "880, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "Timberline-Riding Arena",
@@ -29603,7 +30652,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:24:07.031949",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Tina's Catering",
@@ -29617,7 +30667,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:24:17.169475",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8363228,
+    "longitude": -122.815245,
+    "geocoded_address": "9001, Hilltop Road, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5M4, Canada"
   },
   {
     "name": "Travelodge by Wyndham",
@@ -29656,7 +30709,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:24:29.678349",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9148137,
+    "longitude": -122.750541,
+    "geocoded_address": "Travelodge by Wyndham Prince George, 1458, 7th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Treasure Cove Bingo",
@@ -29695,7 +30751,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:24:42.156916",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Treasure Cove Casino Cafe",
@@ -29789,7 +30848,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:24:55.673092",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8541586,
+    "longitude": -122.712496,
+    "geocoded_address": "Highway 97 Frontage South, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 6C9, Canada"
   },
   {
     "name": "Trench Brewing and Distilling",
@@ -29970,7 +31032,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:25:13.785714",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9135733,
+    "longitude": -122.7310681,
+    "geocoded_address": "Trench Brewing & Distilling, 399, 2nd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2Z4, Canada"
   },
   {
     "name": "Trinity United Downtown Church",
@@ -30009,7 +31074,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:25:26.197361",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9162891,
+    "longitude": -122.7492608,
+    "geocoded_address": "Knox United Church, 1448, 5th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5L6, Canada"
   },
   {
     "name": "Triple O's",
@@ -30051,7 +31119,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:25:37.478347",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9155928,
+    "longitude": -122.7823617,
+    "geocoded_address": "999, Central Street West, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 3C8, Canada"
   },
   {
     "name": "Two Rivers Catering",
@@ -30090,7 +31161,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:25:49.971204",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9031942,
+    "longitude": -122.7491368,
+    "geocoded_address": "Norwood Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2L6, Canada"
   },
   {
     "name": "Uda Dune Baiyoh - House of Ancestors",
@@ -30282,7 +31356,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:26:05.842596",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9178309,
+    "longitude": -122.7515233,
+    "geocoded_address": "355, Vancouver Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2J7, Canada"
   },
   {
     "name": "UNBC-Good Earth",
@@ -30309,7 +31386,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:26:17.155531",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "UNBC - Dining Hall #67872",
@@ -30389,7 +31469,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:26:30.688123",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "UNBC - Stacker's Deli",
@@ -30403,7 +31486,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:26:40.834272",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8890854,
+    "longitude": -122.8123257,
+    "geocoded_address": "Col Juicery, 3333, University Way, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 4Z9, Canada"
   },
   {
     "name": "University Hospital of Northern BC-Support Services",
@@ -30521,7 +31607,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:26:57.800810",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9115057,
+    "longitude": -122.7643265,
+    "geocoded_address": "University Hospital of Northern British Columbia, 1475, Edmonton Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3X3, Canada"
   },
   {
     "name": "Volunteer Park",
@@ -30535,7 +31624,10 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:27:08.012537",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9934678,
+    "longitude": -122.8106094,
+    "geocoded_address": "Heather Road, The Hart, Prince George, Regional District of Fraser-Fort George, British Columbia, V2K 4P9, Canada"
   },
   {
     "name": "Wall of Fame Sandwich Shop Ltd, The",
@@ -30623,7 +31715,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:27:21.642821",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9122509,
+    "longitude": -122.7531029,
+    "geocoded_address": "1485, 10th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "WalMart Deli",
@@ -30650,7 +31745,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:27:32.939419",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8649215,
+    "longitude": -122.7839151,
+    "geocoded_address": "6565, Southridge Avenue, College Heights, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 7A1, Canada"
   },
   {
     "name": "Wendy's on Central",
@@ -30735,7 +31833,8 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:27:47.609731",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Wendy's on Victoria",
@@ -30857,7 +31956,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:28:03.485886",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.911387,
+    "longitude": -122.7539685,
+    "geocoded_address": "Wendy's, 1144, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "Wesco",
@@ -30884,7 +31986,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:28:14.765933",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8949968,
+    "longitude": -122.7577028,
+    "geocoded_address": "2780, Spruce Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 2S1, Canada"
   },
   {
     "name": "Westgate Gas Bar",
@@ -30945,7 +32050,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:28:27.277851",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8605853,
+    "longitude": -122.8013641,
+    "geocoded_address": "6749, Westgate Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 5T8, Canada"
   },
   {
     "name": "Westwood Mennonite Brethren Church",
@@ -30972,7 +32080,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:28:38.610413",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8945815,
+    "longitude": -122.7881305,
+    "geocoded_address": "Westwood Church, 2658, South Ospika Boulevard, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1V9, Canada"
   },
   {
     "name": "Westwood Sports Pub",
@@ -30999,7 +32110,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:28:49.887329",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.8897146,
+    "longitude": -122.7798517,
+    "geocoded_address": "233, Cherry Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2N 1S4, Canada"
   },
   {
     "name": "White Goose Bistro",
@@ -31300,7 +32414,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:29:09.207710",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9165103,
+    "longitude": -122.7448531,
+    "geocoded_address": "1205, 3rd Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E8, Canada"
   },
   {
     "name": "White Spot Restaurant",
@@ -31671,7 +32788,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:29:31.891845",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9138407,
+    "longitude": -122.7521347,
+    "geocoded_address": "820, Victoria Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 1L2, Canada"
   },
   {
     "name": "Whole Health Pharmacy",
@@ -31685,7 +32805,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:29:42.049318",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "WilderNess Camp",
@@ -31699,7 +32820,8 @@
     "non_smoking": "Yes",
     "inspections": [],
     "details_fetched_at": "2025-12-17T00:29:52.209417",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Wings \"N\" Things",
@@ -31738,7 +32860,8 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:30:04.700023",
-    "city": "Prince George"
+    "city": "Prince George",
+    "geocode_error": "Address not found"
   },
   {
     "name": "Wolfgang's Cakes and Pasties",
@@ -31765,7 +32888,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:30:15.967513",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9237095,
+    "longitude": -122.8166262,
+    "geocoded_address": "314, Mullett Crescent, Prince George, Regional District of Fraser-Fort George, British Columbia, V2M 6Y4, Canada"
   },
   {
     "name": "Youth Around Prince",
@@ -31792,7 +32918,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:30:27.316915",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9134643,
+    "longitude": -122.7459652,
+    "geocoded_address": "Youth Around Prince Resource, 1160, 7th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 5G6, Canada"
   },
   {
     "name": "Zen Noodle House and Sizzler",
@@ -31969,7 +33098,10 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:30:43.200290",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9184504,
+    "longitude": -122.746718,
+    "geocoded_address": "Brunswick Street, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3E9, Canada"
   },
   {
     "name": "Zoe's Java House",
@@ -32137,6 +33269,9 @@
       }
     ],
     "details_fetched_at": "2025-12-17T00:31:00.173798",
-    "city": "Prince George"
+    "city": "Prince George",
+    "latitude": 53.9159371,
+    "longitude": -122.7461328,
+    "geocoded_address": "1259, 4th Avenue, Prince George, Regional District of Fraser-Fort George, British Columbia, V2L 3L5, Canada"
   }
 ]
