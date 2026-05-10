@@ -1,0 +1,17 @@
+[
+  {
+    "id": "example-domain-hourly",
+    "name": "Example hourly scrape",
+    "template_id": "example-domain",
+    "enabled": true,
+    "schedule_type": "interval",
+    "interval_minutes": 60,
+    "daily_time": null,
+    "overrides": {},
+    "created_at": "2026-05-10T05:18:48Z",
+    "last_run_id": "run-20260510051853-d77bc7",
+    "updated_at": "2026-05-10T05:18:53Z",
+    "next_run_at": "2026-05-10T06:18:53Z",
+    "last_run_at": "2026-05-10T05:18:53Z"
+  }
+]

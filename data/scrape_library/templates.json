@@ -1,0 +1,143 @@
+[
+  {
+    "id": "example-domain",
+    "name": "Example Domain",
+    "description": "Basic smoke-test template for verifying Scrapling extraction.",
+    "url": "https://example.com",
+    "fetcher": "fetcher",
+    "selectors": [
+      {
+        "name": "heading",
+        "selector": "h1",
+        "type": "css",
+        "attribute": null,
+        "text": true,
+        "multiple": true
+      },
+      {
+        "name": "link_url",
+        "selector": "a",
+        "type": "css",
+        "attribute": "href",
+        "text": false,
+        "multiple": true
+      }
+    ],
+    "options": {
+      "timeout": 30
+    },
+    "tags": [
+      "smoke-test"
+    ],
+    "output_path": null,
+    "created_at": "2026-05-10T05:20:47Z",
+    "updated_at": "2026-05-10T05:20:47Z"
+  },
+  {
+    "id": "healthspace-prince-george-food-list",
+    "name": "HealthSpace Prince George Food List",
+    "description": "Scrapes visible rows from the Northern Health Prince George food facility list.",
+    "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+    "fetcher": "stealthy",
+    "selectors": [
+      {
+        "name": "rows",
+        "selector": "table tr",
+        "type": "css",
+        "attribute": null,
+        "text": true,
+        "multiple": true
+      },
+      {
+        "name": "detail_links",
+        "selector": "table a",
+        "type": "css",
+        "attribute": "href",
+        "text": false,
+        "multiple": true
+      }
+    ],
+    "options": {
+      "timeout": 45
+    },
+    "tags": [
+      "healthspace",
+      "restaurants",
+      "prince-george"
+    ],
+    "output_path": null,
+    "created_at": "2026-05-10T05:20:47Z",
+    "updated_at": "2026-05-10T05:20:47Z"
+  },
+  {
+    "id": "healthspace-active-water-notices",
+    "name": "HealthSpace Active Water Notices",
+    "description": "Scrapes visible rows from the active drinking-water notices page.",
+    "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-Notices-List",
+    "fetcher": "stealthy",
+    "selectors": [
+      {
+        "name": "rows",
+        "selector": "table tr",
+        "type": "css",
+        "attribute": null,
+        "text": true,
+        "multiple": true
+      },
+      {
+        "name": "links",
+        "selector": "table a",
+        "type": "css",
+        "attribute": "href",
+        "text": false,
+        "multiple": true
+      }
+    ],
+    "options": {
+      "timeout": 45
+    },
+    "tags": [
+      "healthspace",
+      "water"
+    ],
+    "output_path": null,
+    "created_at": "2026-05-10T05:20:47Z",
+    "updated_at": "2026-05-10T05:20:47Z"
+  },
+  {
+    "id": "healthspace-food-prince-george",
+    "name": "HealthSpace Prince George Food List",
+    "description": "Scrapes visible food-establishment rows for Prince George.",
+    "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+    "fetcher": "stealthy",
+    "selectors": [
+      {
+        "name": "rows",
+        "selector": "table tr",
+        "type": "css",
+        "attribute": null,
+        "text": true,
+        "multiple": true
+      },
+      {
+        "name": "detail_links",
+        "selector": "table a",
+        "type": "css",
+        "attribute": "href",
+        "text": false,
+        "multiple": true
+      }
+    ],
+    "options": {
+      "timeout": 45
+    },
+    "tags": [
+      "healthspace",
+      "restaurants",
+      "prince-george"
+    ],
+    "output_path": null,
+    "created_at": "2026-05-10T05:26:49Z",
+    "updated_at": "2026-05-10T05:26:49Z"
+  }
+]

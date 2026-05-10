@@ -1,0 +1,14 @@
+{
+  "id": "run-20260510051921-0bc0e1",
+  "job_id": null,
+  "template_id": "healthspace-prince-george-food-list",
+  "template_name": "HealthSpace Prince George Food List",
+  "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+  "fetcher": "stealthy",
+  "started_at": "2026-05-10T05:19:21Z",
+  "finished_at": "2026-05-10T05:19:21Z",
+  "status": "error",
+  "error": "type object 'StealthyFetcher' has no attribute 'get'",
+  "result": null,
+  "traceback": "Traceback (most recent call last):\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 362, in run_template\n    result = scrape_url(config)\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 388, in scrape_url\n    page = fetch_page(url, fetcher_name, options)\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 410, in fetch_page\n    return fetcher_cls.get(url, timeout=timeout)\n           ^^^^^^^^^^^^^^^\nAttributeError: type object 'StealthyFetcher' has no attribute 'get'\n"
+}

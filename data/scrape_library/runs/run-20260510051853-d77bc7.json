@@ -1,0 +1,25 @@
+{
+  "id": "run-20260510051853-d77bc7",
+  "job_id": "example-domain-hourly",
+  "template_id": "example-domain",
+  "template_name": "Example Domain",
+  "url": "https://example.com",
+  "fetcher": "fetcher",
+  "started_at": "2026-05-10T05:18:53Z",
+  "finished_at": "2026-05-10T05:18:53Z",
+  "status": "success",
+  "error": null,
+  "result": {
+    "url": "https://example.com",
+    "fetched_at": "2026-05-10T05:18:53Z",
+    "fetcher": "fetcher",
+    "data": {
+      "heading": [
+        "Example Domain"
+      ],
+      "link_url": [
+        "https://iana.org/domains/example"
+      ]
+    }
+  }
+}

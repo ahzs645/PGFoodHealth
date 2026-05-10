@@ -41,6 +41,12 @@ source venv_healthspace/bin/activate
 pip install requests beautifulsoup4 flask
 ```
 
+Scrape templates and scheduled scrape jobs use Scrapling:
+
+```bash
+pip install "scrapling[fetchers]"
+```
+
 ### 3. Scrape Restaurant Data
 
 ```bash
@@ -51,6 +57,89 @@ This will:
 - Fetch all restaurant data from HealthSpace
 - Save results to `pg_restaurants.json`
 - Display summary statistics
+
+### Download Complete Data
+
+For a resumable full download with facility details, inspection history, violations, and per-city output files:
+
+```bash
+python3 download_all_data.py --city "Prince George" --output-dir data/healthspace
+```
+
+To produce the JSON shape used by `PGMaps`:
+
+```bash
+python3 download_all_data.py \
+  --city "Prince George" \
+  --output-dir data/healthspace \
+  --combine
+
+cp data/healthspace/prince_george_restaurants.json /Users/ahmadjalil/github/PGMaps/public/data/restaurants.json
+```
+
+To download every known Northern Health city:
+
+```bash
+python3 download_all_data.py --all-cities --output-dir data/healthspace --combine
+```
+
+Useful options:
+
+- `--basic-only` fetches only facility list rows, without inspection/violation detail pages.
+- `--max-inspections 5` limits detail downloads to the most recent inspections per restaurant.
+- `--force` refetches records that were already marked complete.
+- `--delay 3` slows requests between detail pages.
+- `--list-cities` prints all supported city names.
+
+Progress is saved after each restaurant. If a run is interrupted, run the same command again and it will resume from the existing city JSON file.
+
+The older incremental Prince George fetcher can also write directly to the `PGMaps` data file:
+
+```bash
+python3 fetch_incremental.py \
+  --city "Prince George" \
+  --output /Users/ahmadjalil/github/PGMaps/public/data/restaurants.json
+```
+
+### Download Drinking Water Data
+
+HealthSpace also exposes drinking-water facilities, active notices, bacteriological samples, and chemical samples. Use:
+
+```bash
+python3 download_water_data.py --output-dir data/water
+```
+
+That writes:
+
+- `active_water_notices.json`
+- `drinking_water_facilities.json`
+- `bacteriological_samples.json`
+- `chemical_samples.json`
+- `water_download_manifest.json`
+
+Useful options:
+
+- `--dataset notices` downloads only the active boil/water-quality notices page.
+- `--dataset drinking`, `--dataset bacteriological`, or `--dataset chemical` downloads one city-indexed dataset.
+- `--city "Prince George"` limits city-indexed datasets to one city; repeat it for multiple cities.
+- `--basic-only` downloads only list rows and skips detail/sample pages.
+- `--nested-details` also fetches drinking-water inspection report pages and chemical result-value pages.
+- `--force` refetches records already marked complete.
+- `--delay 5` slows requests down further if HealthSpace starts returning human-verification challenges.
+
+These pages can trigger HealthSpace bot protection if requested too quickly. If that happens, wait before retrying and resume with the same command plus a larger `--delay`.
+
+Water result interpretation metadata is available in `water_reference.py`. To export the bacteriological legend and chemical/parameter guideline table to JSON:
+
+```bash
+python3 export_water_reference.py --output data/water/water_reference.json
+```
+
+To check the reference coverage against the scraped bacteriological and chemical sample data:
+
+```bash
+python3 validate_water_reference.py
+```
 
 ### 4. Start the API Server
 
@@ -158,6 +247,64 @@ curl -X POST http://localhost:5000/restaurants/refresh
 ```
 
 This will run the scraper and update `pg_restaurants.json` with fresh data.
+
+## Scrapling Scrape Library
+
+The API also includes a small Scrapling-backed scrape library for reusable templates,
+run history, and scheduled scrape jobs. Data is stored under `data/scrape_library/`.
+
+### Templates
+
+```bash
+# List templates
+curl http://localhost:5001/scrapes/templates
+
+# Run the built-in smoke-test template
+curl -X POST http://localhost:5001/scrapes/templates/example-domain/run
+```
+
+Create a template:
+
+```bash
+curl -X POST http://localhost:5001/scrapes/templates \
+  -H 'content-type: application/json' \
+  -d '{
+    "id": "sample-page",
+    "name": "Sample Page",
+    "url": "https://example.com",
+    "fetcher": "fetcher",
+    "selectors": [
+      {"name": "heading", "selector": "h1", "type": "css", "text": true},
+      {"name": "links", "selector": "a", "type": "css", "attribute": "href"}
+    ]
+  }'
+```
+
+### Jobs and Schedules
+
+```bash
+# Create an hourly job from a template
+curl -X POST http://localhost:5001/scrapes/jobs \
+  -H 'content-type: application/json' \
+  -d '{
+    "name": "Example hourly scrape",
+    "template_id": "example-domain",
+    "enabled": true,
+    "schedule_type": "interval",
+    "interval_minutes": 60
+  }'
+
+# Run due scheduled jobs now
+curl -X POST http://localhost:5001/scrapes/scheduler \
+  -H 'content-type: application/json' \
+  -d '{"action":"run-due"}'
+
+# See all scrape runs
+curl http://localhost:5001/scrapes/runs
+```
+
+Supported `schedule_type` values are `manual`, `interval`, and `daily`.
+Use `daily_time` in `HH:MM` format for daily schedules.
 
 ## Data Structure
 

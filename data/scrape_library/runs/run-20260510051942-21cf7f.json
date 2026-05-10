@@ -1,0 +1,14 @@
+{
+  "id": "run-20260510051942-21cf7f",
+  "job_id": null,
+  "template_id": "healthspace-prince-george-food-list",
+  "template_name": "HealthSpace Prince George Food List",
+  "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+  "fetcher": "stealthy",
+  "started_at": "2026-05-10T05:19:42Z",
+  "finished_at": "2026-05-10T05:19:48Z",
+  "status": "error",
+  "error": "Page.goto: Timeout 45ms exceeded.\nCall log:\n  - navigating to \"https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30\", waiting until \"load\"\n",
+  "result": null,
+  "traceback": "Traceback (most recent call last):\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 362, in run_template\n    result = scrape_url(config)\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 388, in scrape_url\n    page = fetch_page(url, fetcher_name, options)\n  File \"/Users/ahmadjalil/github/PGFoodHealth/scrape_library.py\", line 414, in fetch_page\n    return fetcher_cls.fetch(url, **request_kwargs)\n           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/ahmadjalil/github/PGFoodHealth/venv_healthspace/lib/python3.14/site-packages/scrapling/fetchers/stealth_chrome.py\", line 63, in fetch\n    return engine.fetch(url)\n           ~~~~~~~~~~~~^^^^^\n  File \"/Users/ahmadjalil/github/PGFoodHealth/venv_healthspace/lib/python3.14/site-packages/scrapling/engines/_browsers/_stealth.py\", line 247, in fetch\n    first_response = page.goto(url, referer=referer)\npatchright._impl._errors.TimeoutError: Page.goto: Timeout 45ms exceeded.\nCall log:\n  - navigating to \"https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30\", waiting until \"load\"\n\n"
+}

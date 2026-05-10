@@ -124,6 +124,7 @@ if __name__ == "__main__":
     import sys
 
     city = "Prince George"
+    output_file = None
     delay = 5  # seconds between restaurants
 
     # Parse args
@@ -133,12 +134,16 @@ if __name__ == "__main__":
         if args[i] == '--city' and i + 1 < len(args):
             city = args[i + 1]
             i += 2
+        elif args[i] == '--output' and i + 1 < len(args):
+            output_file = args[i + 1]
+            i += 2
         elif args[i] == '--delay' and i + 1 < len(args):
             delay = int(args[i + 1])
             i += 2
         elif args[i] in ['--help', '-h']:
-            print("Usage: python fetch_incremental.py [--city NAME] [--delay SECONDS]")
+            print("Usage: python fetch_incremental.py [--city NAME] [--output FILE] [--delay SECONDS]")
             print("  --city NAME    City to fetch (default: Prince George)")
+            print("  --output FILE  Output JSON file (default: {city}_restaurants_full.json)")
             print("  --delay SECS   Delay between restaurants (default: 5)")
             sys.exit(0)
         else:
@@ -149,9 +154,11 @@ if __name__ == "__main__":
     print("=" * 60)
     print(f"Incremental Restaurant Data Fetcher")
     print(f"City: {city}")
+    if output_file:
+        print(f"Output file: {output_file}")
     print(f"Delay: {delay}s between restaurants")
     print("=" * 60)
     print("\nThis script saves progress after each restaurant.")
     print("If interrupted, just run again to resume.\n")
 
-    fetch_incremental(city=city, delay=delay)
+    fetch_incremental(city=city, output_file=output_file, delay=delay)

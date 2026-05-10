@@ -1,0 +1,4350 @@
+[
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "10 Mile Lake Provincial Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=10C1B8FEAFD3251988256FF0005C8160",
+    "scraped_at": "2026-05-08T18:36:57.759046",
+    "location_summary": "Quesnel",
+    "connections": "15-300 Connections",
+    "facility_name": "10 Mile Lake Provincial Park",
+    "facility_location": "Violet Doody Road, Quesnel",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/C164B3428C88AA4988258CF4006A6833?OpenDocument",
+        "date": "27-Aug-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "10 Mile Lake Provincial Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "August 27, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:47:42.889507"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:30.899663"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Alamo Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=12AB3EA95467E7A78825772800560647",
+    "scraped_at": "2026-05-08T18:36:57.759098",
+    "location_summary": "Quesnel",
+    "connections": "15-300 Connections",
+    "facility_name": "Alamo Water System",
+    "facility_location": "4898 Edwards Road, Quesnel, V2J 6L1",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9B2EDC4E84E0604F85258B1F005E8A85?OpenDocument",
+        "date": "15-May-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Alamo Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "May 15, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:47:52.999538"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/11505273FDC2A6318825898F000371C9?OpenDocument",
+        "date": "11-Apr-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Alamo Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "April 11, 2023",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:47:58.181204"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:34.010954"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Babine Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=348D2761D113463F882569DF00812771",
+    "scraped_at": "2026-05-08T18:36:57.759131",
+    "location_summary": "Burns Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Babine Camp",
+    "facility_location": "19479 Highway 16 East, Burns Lake, V0J 1E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:37.116469"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Babine Lake Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=67E7CC258A6CD94088256B0D007E0F21",
+    "scraped_at": "2026-05-08T18:36:57.759168",
+    "location_summary": "Burns Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Babine Lake Resort",
+    "facility_location": "Pendleton Bay, Burns Lake, V0J 1E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:40.583525"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Barendregt Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E8A7A38B4CC3B16388257EBD0074DAFF",
+    "scraped_at": "2026-05-08T18:36:57.759196",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Barendregt Water System",
+    "facility_location": "1121 Lowland Road, Smithers, V0J 2N6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:43.727086"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "BCR Industrial Site Fort St. James",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5ECF1C94A290FB1188257140006600BE",
+    "scraped_at": "2026-05-08T18:36:57.759223",
+    "location_summary": "Fort St James",
+    "connections": "2-14 Connections",
+    "facility_name": "BCR Industrial Site Fort St. James",
+    "facility_location": "Tachie Road, Fort St James, V0J 1P0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/D95B6178844C83D58825873500633E3F?OpenDocument",
+        "date": "9-Jun-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "BCR Industrial Site - Fort St. James - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 09, 2021",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:48:08.288779"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:46.873522"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Bearberry Meadows Guesthouse",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4BAD79BBBC2B3636882577CF007004EA",
+    "scraped_at": "2026-05-08T18:36:57.759245",
+    "location_summary": "Valemount",
+    "connections": "2-14 Connections",
+    "facility_name": "Bearberry Meadows Guesthouse",
+    "facility_location": "12190 Crown Road, Valemount, V0E 2Z0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/25439F00CC3EFE5F85258B5E0073AF3D?OpenDocument",
+        "date": "10-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Bearberry Meadows Guesthouse - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 10, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:48:18.388252"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/F4ECAA95DDA0CD0E882588D1007EEAF8?OpenDocument",
+        "date": "28-Sep-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Bearberry Meadows Guesthouse - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "September 28, 2022",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:48:23.497930"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:50.018466"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Bearclaw Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=89ADDB86B5C92B5988257DEB006D97F4",
+    "scraped_at": "2026-05-08T18:36:57.759266",
+    "location_summary": "Hazelton",
+    "connections": "1 Public Connection",
+    "facility_name": "Bearclaw Lodge",
+    "facility_location": "6271 Kispiox Valley Road, Hazelton, V0J 1Y0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:53.693091"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Bearpaw Heli Skiing",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=43FA11A15838506588257984005AB3B7",
+    "scraped_at": "2026-05-08T18:36:57.759287",
+    "location_summary": "Sinclair Mills",
+    "connections": "1 Public Connection",
+    "facility_name": "Bearpaw Heli Skiing",
+    "facility_location": "37763 Upper Fraser Road, Sinclair Mills, N/A",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:41:57.078668"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Beaver Point Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E79C3F0B7B978152882569CB00186DB1",
+    "scraped_at": "2026-05-08T18:36:57.759309",
+    "location_summary": "Burns Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Beaver Point Resort",
+    "facility_location": "Tchesinkut Lake, Burns Lake, V0J 1E0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:00.189109"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Bell Mountain Good Neighbour CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DCB4FB8CC5348250882569CB00186E36",
+    "scraped_at": "2026-05-08T18:36:57.759331",
+    "location_summary": "McBride",
+    "connections": "2-14 Connections",
+    "facility_name": "Bell Mountain Good Neighbour CWS",
+    "facility_location": "Lamming Pit Road, McBride, V0J 2E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:03.655292"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Benjamin Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CB2AF63443ED0CFB8825835400792583",
+    "scraped_at": "2026-05-08T18:36:57.759353",
+    "location_summary": "Quesnel",
+    "connections": "15-300 Connections",
+    "facility_name": "Benjamin Water System",
+    "facility_location": "2531 Gook Road, Quesnel",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/75D4FBBC89A680F985258B8800696B31?OpenDocument",
+        "date": "27-Aug-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Benjamin Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "August 27, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:48:33.604035"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9DB17542641B95F9882589CD007F0812?OpenDocument",
+        "date": "12-Jun-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Benjamin Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "June 12, 2023",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:48:38.701594"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:06.860481"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Beryl Prairie Spring",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0D8EB730F1EB3EAA88256A460066581E",
+    "scraped_at": "2026-05-08T18:36:57.759375",
+    "location_summary": "Hudson's Hope",
+    "connections": "1 Public Connection",
+    "facility_name": "Beryl Prairie Spring",
+    "facility_location": "4453 Beryl Prairie Road, Hudson's Hope, V0C 1V0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/39F342B46588D00A88258DDF007D54B5?OpenDocument",
+        "date": "14-Apr-2026",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Beryl Prairie Spring - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "April 14, 2026",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:48:48.807072"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/585189DE3D1A5A1585258BE4007CC3A9?OpenDocument",
+        "date": "3-May-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Beryl Prairie Spring - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "May 03, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:48:53.908622"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:10.052214"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Birch Bay Resort and Cabins",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CFB206A401896488882588CB00779AE5",
+    "scraped_at": "2026-05-08T18:36:57.759396",
+    "location_summary": "Fraser Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Birch Bay Resort and Cabins",
+    "facility_location": "155 Birch Bay Road, Fraser Lake, V0J 1S0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9085CF91214EDC5688258D06005ACDAE?OpenDocument",
+        "date": "8-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Birch Bay Resort and Cabins - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "September 08, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:49:04.169786"
+        }
+      },
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/0477E8675A7F7122882589DB000642DB?OpenDocument",
+        "date": "15-Jun-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Birch Bay Resort and Cabins - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Initial",
+          "inspection_date": "June 15, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:49:09.279556"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:13.185791"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Brkich MHP",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=303412E45BD91A4E882569E0006C76AF",
+    "scraped_at": "2026-05-08T18:36:57.759416",
+    "location_summary": "Prince George",
+    "connections": "15-300 Connections",
+    "facility_name": "Brkich MHP",
+    "facility_location": "8880 Castle Road, Prince George, V2N 6C9",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/EDF64EA72D61DDA085258C9900609D76?OpenDocument",
+        "date": "6-May-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Brkich MHP - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "May 06, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:49:19.452339"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:16.343217"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Bulkley Field & Stream",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5499A89B5E814A4288257F0000785637",
+    "scraped_at": "2026-05-08T18:36:57.759437",
+    "location_summary": "Telkwa",
+    "connections": "2-14 Connections",
+    "facility_name": "Bulkley Field & Stream",
+    "facility_location": "8995 George Frontage Road, Telkwa, V0J 2X1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/3FEAF6287B7D3FF18825887C007A28B6?OpenDocument",
+        "date": "23-Jun-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Bulkley Field & Stream - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 23, 2022",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:49:29.563720"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:19.485913"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Cale Creek Water Club",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7A1905FE93E547E5882569CB00186869",
+    "scraped_at": "2026-05-08T18:36:57.759458",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Cale Creek Water Club",
+    "facility_location": "3340 Naismith Crescent, Prince George, V2N 5Y6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1E395BE66A6117488825873E0006277A?OpenDocument",
+        "date": "24-Aug-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Cale Creek Water Club - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 24, 2021",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:49:39.674055"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:22.628767"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Cameron Lake Outdoor Rec. Facility",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=458370ADBDF6F416072573060064E250",
+    "scraped_at": "2026-05-08T18:36:57.759479",
+    "location_summary": "Hudson's Hope",
+    "connections": "1 Public Connection",
+    "facility_name": "Cameron Lake Outdoor Rec. Facility",
+    "facility_location": "204 Highway 29, Hudson's Hope, V0C 1V0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:25.781289"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Camp Hughes",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D1EB9EC613FA9A68882569E0007A6291",
+    "scraped_at": "2026-05-08T18:36:57.759503",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Camp Hughes",
+    "facility_location": "21970 Blackwater Road, Prince George, V2L 5A2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:28.923136"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Camp Sagitawa Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F71E7334B9D090DB87256AA8006038A0",
+    "scraped_at": "2026-05-08T18:36:57.759525",
+    "location_summary": "Moberly Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Camp Sagitawa Water System",
+    "facility_location": "5915 Centennial Road East, Moberly Lake, V0C 1X0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/3D3D0969C016082388258DD4005D3C0F?OpenDocument",
+        "date": "31-Mar-2026",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Camp Sagitawa Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "March 31, 2026",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:49:49.853336"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/355334044A6DA60785258CAC006CBBFE?OpenDocument",
+        "date": "11-Jun-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Camp Sagitawa Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 11, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:49:55.009002"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:32.064036"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Camp Yak'isda Bik'ah",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A71CC44FA043F98A88256B72007D159E",
+    "scraped_at": "2026-05-08T18:36:57.759548",
+    "location_summary": "Smithers",
+    "connections": "1 Public Connection",
+    "facility_name": "Camp Yak'isda Bik'ah",
+    "facility_location": "4421 Tyhee Lake Road, Smithers",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:35.210370"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Canfor Intercon",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D68777E8D139673788256A1F006835ED",
+    "scraped_at": "2026-05-08T18:36:57.759569",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Canfor Intercon",
+    "facility_location": "2533 PG Pulp Mill Road, Prince George, V2N 2K3",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A274A7DFED87346785258C0000754E15?OpenDocument",
+        "date": "9-Dec-2024",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Canfor Intercon - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "December 09, 2024",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:50:05.114679"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/F4AB8A9387E6A146882588C9007ED506?OpenDocument",
+        "date": "22-Sep-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Canfor-Intercon - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "September 22, 2022",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:50:10.300450"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:38.360050"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Carrier Lumber",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=25F97BCD9690A71A882573B100786FD8",
+    "scraped_at": "2026-05-08T18:36:57.759589",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Carrier Lumber",
+    "facility_location": "13700 Willow Cale FSR, Prince George",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/E459FFC7B75A704088258712005DED54?OpenDocument",
+        "date": "6-Jul-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Carrier Lumber - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 06, 2021",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:50:20.404014"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:41.499845"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Cassiar Jade Contracting",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CE72B2DCB4C8919988257EBD00592DAB",
+    "scraped_at": "2026-05-08T18:36:57.759610",
+    "location_summary": "Cassiar",
+    "connections": "2-14 Connections",
+    "facility_name": "Cassiar Jade Contracting",
+    "facility_location": "Cassiar Townsite, Cassiar",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1DAA234394B98DDD88258DBF00000D66?OpenDocument",
+        "date": "23-Jul-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Cassiar Jade Contracting - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Initial",
+          "inspection_date": "July 23, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:50:30.509659"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:44.648507"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Chemtrade",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=26ADA239E9F6859188256A5D006CCC08",
+    "scraped_at": "2026-05-08T18:36:57.759630",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Chemtrade",
+    "facility_location": "2711 PG Pulp Mill Road, Prince George",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:48.225671"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Clausen Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BA343731F7DB6B06882581CA00797C40",
+    "scraped_at": "2026-05-08T18:36:57.759653",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Clausen Water System",
+    "facility_location": "300 Lunan Road, Smithers, V0J 2N6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:51.362453"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Corey Road H2O Agreement",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EBFD1FE1D58012068825852E00585C1E",
+    "scraped_at": "2026-05-08T18:36:57.759675",
+    "location_summary": "Quesnel",
+    "connections": "2-14 Connections",
+    "facility_name": "Corey Road H2O Agreement",
+    "facility_location": "135 Corey Road, Quesnel, V0J 6J9",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/17CA0D463EC783BC882589D5005EFF7B?OpenDocument",
+        "date": "20-Jun-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Corey Road H2O Agreement - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 20, 2023",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:50:40.621759"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:55.032606"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Cottonwood House Historic Site",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0744A7CC69CC273288256C84006662BC",
+    "scraped_at": "2026-05-08T18:36:57.759696",
+    "location_summary": "Quesnel",
+    "connections": "2-14 Connections",
+    "facility_name": "Cottonwood House Historic Site",
+    "facility_location": "4660 Barkerville Highway, Quesnel",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:42:58.181424"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Dease Lake Air Tanker Base Water System (building #72116)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0D9A3B4ACED8D050882582240075E5FC",
+    "scraped_at": "2026-05-08T18:36:57.759717",
+    "location_summary": "Dease Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Dease Lake Air Tanker Base Water System (building #72116)",
+    "facility_location": "Airport Road, Dease Lake, V0C 1L0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/74D3578578D5A76485258CC30070F8A9?OpenDocument",
+        "date": "29-Aug-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Dease Lake Air Tanker Base Water System (building #72116) - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 29, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:50:50.723311"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:01.325266"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Decker Lake Forest Products",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B43B9FD28DE553F2882570FC005936A7",
+    "scraped_at": "2026-05-08T18:36:57.759737",
+    "location_summary": "Burns Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Decker Lake Forest Products",
+    "facility_location": "10345 Lewis Road, Burns Lake, V0J 1E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:04.466180"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Decker Lake Mennonite School",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=543F9A34A24F915F882584B800771362",
+    "scraped_at": "2026-05-08T18:36:57.759757",
+    "location_summary": "Burns Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Decker Lake Mennonite School",
+    "facility_location": "6760 Highway 16 West, Burns Lake, V0J 1E1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:07.611148"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dodge Cove Community Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=00832E606560DF23882569C800801F63",
+    "scraped_at": "2026-05-08T18:36:57.759777",
+    "location_summary": "North Coast Regional District",
+    "connections": "15-300 Connections",
+    "facility_name": "Dodge Cove Community Water System",
+    "facility_location": "Dodge Cove, North Coast Regional District, V8J 3S1",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/8F76F2DC506D2B5B88258D30005E08BF?OpenDocument",
+        "date": "17-Oct-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Dodge Cove Community Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 17, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:51:00.832089"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:10.753790"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dolly Varden Silver",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B155B856AA65AFFE882578F6007A1A99",
+    "scraped_at": "2026-05-08T18:36:57.759797",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "2-14 Connections",
+    "facility_name": "Dolly Varden Silver",
+    "facility_location": "23 km North of Alice Arm, Regional District - Kitimat-Stikine",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:14.058407"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dolphin's North Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0EF79890A94286548825761D00705DC1",
+    "scraped_at": "2026-05-08T18:36:57.759817",
+    "location_summary": "North Coast Regional District",
+    "connections": "1 Public Connection",
+    "facility_name": "Dolphin's North Lodge",
+    "facility_location": "Work Channel, North Coast Regional District",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9CDB0A37FD68362588258CFD0003D062?OpenDocument",
+        "date": "3-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Dolphin's North Lodge - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "September 03, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:51:10.933589"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:17.330674"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Douglas Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=955E5559A1943CA3882573C4008007A2",
+    "scraped_at": "2026-05-08T18:36:57.759837",
+    "location_summary": "Fort St James",
+    "connections": "2-14 Connections",
+    "facility_name": "Douglas Water System",
+    "facility_location": "3638 Douglas Lodge Road, Fort St James, V0J 1P0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A4F7C2A82B0C76E0882589A500795694?OpenDocument",
+        "date": "4-May-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Douglas Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "May 04, 2023",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:51:21.094050"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:20.462806"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dungate Water Users Community",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=15755F7F2974FB75882569C900141008",
+    "scraped_at": "2026-05-08T18:36:57.759857",
+    "location_summary": "Houston",
+    "connections": "2-14 Connections",
+    "facility_name": "Dungate Water Users Community",
+    "facility_location": "1595 Omineca Way, Houston, V0J 1Z2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:23.572627"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dunster Community Hall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F06A1BE07A16EF178825738B0068A0AD",
+    "scraped_at": "2026-05-08T18:36:57.759877",
+    "location_summary": "Dunster",
+    "connections": "1 Public Connection",
+    "facility_name": "Dunster Community Hall",
+    "facility_location": "7085 Read Road, Dunster, V0J 1J0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:26.738945"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dunster Fine Arts School Society",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9B169695D5DC15398825847000788D83",
+    "scraped_at": "2026-05-08T18:36:57.759896",
+    "location_summary": "Dunster",
+    "connections": "1 Public Connection",
+    "facility_name": "Dunster Fine Arts School Society",
+    "facility_location": "8252 Dunster-Croydon Road, Dunster, V0J 1J0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/63FC0F1E7EF582F9882588D3005DAFC4?OpenDocument",
+        "date": "28-Sep-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Dunster Fine Arts School Society - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "September 28, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:51:31.202713"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:29.911503"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dynamic Reforestation 2",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8D9419C282C96E928825786A0065115E",
+    "scraped_at": "2026-05-08T18:36:57.759916",
+    "location_summary": "Mobile Camp",
+    "connections": "1 Public Connection",
+    "facility_name": "Dynamic Reforestation 2",
+    "facility_location": "Various Locations, Mobile Camp, N/A",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:33.022758"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Dynamic Reforestation 3",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6F8A92CBD3579F5F88257CC4007B47CB",
+    "scraped_at": "2026-05-08T18:36:57.759935",
+    "location_summary": "Mobile Camp",
+    "connections": "1 Public Connection",
+    "facility_name": "Dynamic Reforestation 3",
+    "facility_location": "Various Locations, Mobile Camp, N/A",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:36.133896"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Edgewood Mobile Home Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9EAF94161AE53650072584F100632233",
+    "scraped_at": "2026-05-08T18:36:57.759955",
+    "location_summary": "Baldonnel",
+    "connections": "15-300 Connections",
+    "facility_name": "Edgewood Mobile Home Park",
+    "facility_location": "6828 Alcan Frontage Road, Baldonnel, V0C 1C0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/E73DEB8B3F78C64F85258C3000766668?OpenDocument",
+        "date": "11-Feb-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Edgewood Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "February 11, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:51:41.548716"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/4AC952B070D3AA4888258A590068EE54?OpenDocument",
+        "date": "20-Oct-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Edgewood Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 20, 2023",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:51:46.685974"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/688342B2FC1E3B33882587A7005EC00A?OpenDocument",
+        "date": "14-Oct-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Edgewood Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 14, 2021",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:51:51.782193"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:39.246738"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Finlay River Outfitters",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CC56580C0B36EC82882575B600520AFC",
+    "scraped_at": "2026-05-08T18:36:57.759977",
+    "location_summary": "Fraser Fort George Regional District",
+    "connections": "1 Public Connection",
+    "facility_name": "Finlay River Outfitters",
+    "facility_location": "42 km Finlay FSR, Fraser Fort George Regional District, V0J 2C0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:42.360649"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Fir Bluff Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=AA59BDF5BE6863E8882569C800805246",
+    "scraped_at": "2026-05-08T18:36:57.759997",
+    "location_summary": "Telkwa",
+    "connections": "15-300 Connections",
+    "facility_name": "Fir Bluff Water System",
+    "facility_location": "7584 Bluff Road, Telkwa, V0J 2X1",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:45.471738"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Forest Lawn Mobile Home Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8AED8A5950C7C82E072584F1005E1CF4",
+    "scraped_at": "2026-05-08T18:36:57.760016",
+    "location_summary": "Fort St. John",
+    "connections": "15-300 Connections",
+    "facility_name": "Forest Lawn Mobile Home Park",
+    "facility_location": "7414 Forest Lawn Street, Fort St. John, V1J 4M6",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A5E885BEB65D867788258CF20072AE46?OpenDocument",
+        "date": "19-Aug-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Forest Lawn Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "August 19, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:52:01.913509"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/738E096D3316370D88258A80000CD4C3?OpenDocument",
+        "date": "20-Oct-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Forest Lawn Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 20, 2023",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:52:07.013869"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/39ECA9FDAAABC4F3882587A7005EC017?OpenDocument",
+        "date": "14-Oct-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Forest Lawn Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 14, 2021",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:52:12.114848"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/090B4517A732F55D8825874F0059A148?OpenDocument",
+        "date": "7-Sep-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Forest Lawn Mobile Home Park - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "September 07, 2021",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:52:17.216577"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:48.590547"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Fox Dairy Farms Ltd",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=AA2D0364B6D430B68825759A005F9CB5",
+    "scraped_at": "2026-05-08T18:36:57.760035",
+    "location_summary": "Quesnel",
+    "connections": "2-14 Connections",
+    "facility_name": "Fox Dairy Farms Ltd",
+    "facility_location": "2849 Holley Road, Quesnel, V2J 6L9",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/6D94E4A3C74D073088258A2F006FF824?OpenDocument",
+        "date": "7-Sep-2023",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Fox Dairy Farms Ltd - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "September 07, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:52:27.321287"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A017D4F3D962EFEB882589F70012954A?OpenDocument",
+        "date": "21-Jul-2023",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Fox Dairy Farms Ltd - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 21, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:52:32.418817"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:51.737349"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Frontier Farwest Fishing Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=04CBEC9B4905C116882583070064898C",
+    "scraped_at": "2026-05-08T18:36:57.760055",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Frontier Farwest Fishing Lodge",
+    "facility_location": "1275 Raymond Road, Smithers, V0J 2N6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:54.879991"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Frontier Farwest Fishing Lodge - South Cabins",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0C4FB4FB01D51342882583080054369A",
+    "scraped_at": "2026-05-08T18:36:57.760075",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Frontier Farwest Fishing Lodge - South Cabins",
+    "facility_location": "1275 Raymond Road, Smithers, V0J 2N6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:43:58.064674"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Gelley Road Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7D91923DF11355CB882569C90014100F",
+    "scraped_at": "2026-05-08T18:36:57.760094",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Gelley Road Water System",
+    "facility_location": "4234 Gelley Road, Smithers, V0J 2N2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:01.183961"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Glacier Gulch Water Group Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9AA8E1F789B3F8428825714C006ECEE2",
+    "scraped_at": "2026-05-08T18:36:57.760195",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Glacier Gulch Water Group Water System",
+    "facility_location": "7096 Davidson Road, Smithers, V0J 2N2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:04.801739"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Granisle CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B390FE32639CFDC4882569CB001312EB",
+    "scraped_at": "2026-05-08T18:36:57.760217",
+    "location_summary": "Granisle",
+    "connections": "15-300 Connections",
+    "facility_name": "Granisle CWS",
+    "facility_location": "1 Village Square, Granisle, V0J 1W0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/2AFFB3CCA0B1054D88258D010008167D?OpenDocument",
+        "date": "28-Aug-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Granisle CWS - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "August 28, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:52:42.527574"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/758D6FB3E98604BB88258978006F35E7?OpenDocument",
+        "date": "13-Mar-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Granisle CWS - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "March 13, 2023",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:52:47.631249"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/5EA5CB242292B4DC882588C60062E8A4?OpenDocument",
+        "date": "21-Sep-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Granisle CWS - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "September 21, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:52:52.745071"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:08.001539"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Gwillim Lake Provincial Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A2210A49637ABC0B87256BAD00565C23",
+    "scraped_at": "2026-05-08T18:36:57.760237",
+    "location_summary": "Lone Prairie",
+    "connections": "1 Public Connection",
+    "facility_name": "Gwillim Lake Provincial Park",
+    "facility_location": "Highway 29, Lone Prairie",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/8E1C152A87C5AFBD85258B5000682922?OpenDocument",
+        "date": "3-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Gwillim Lake Provincial Park - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "July 03, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:53:02.852561"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:11.556794"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Hamblin Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7E28ABBAA9AC63758825724B007EE8C5",
+    "scraped_at": "2026-05-08T18:36:57.760257",
+    "location_summary": "Houston",
+    "connections": "2-14 Connections",
+    "facility_name": "Hamblin Water System",
+    "facility_location": "5043 Mountainview Drive, Houston, V0J 1Z2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:14.704734"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Harmony Ridge RV Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0BD5F70989D2711588258B57007040E2",
+    "scraped_at": "2026-05-08T18:36:57.760278",
+    "location_summary": "Telkwa",
+    "connections": "2-14 Connections",
+    "facility_name": "Harmony Ridge RV Park",
+    "facility_location": "11939 HIghway 16, Telkwa, V0J 2X1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:17.847199"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Hixon Firehall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5A0B668928101C48882569E30083CD9B",
+    "scraped_at": "2026-05-08T18:36:57.760299",
+    "location_summary": "Hixon",
+    "connections": "1 Public Connection",
+    "facility_name": "Hixon Firehall",
+    "facility_location": "367 Von Liennen Road, Hixon",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:20.993625"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Hutda Lake Correctional Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=134918D91C73B63A88257242007BC9B3",
+    "scraped_at": "2026-05-08T18:36:57.760319",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Hutda Lake Correctional Camp",
+    "facility_location": "15875 Hutda Lake Road, Prince George, V2L 5J9",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/DD45A76F2FD2F06185258AD1007371A0?OpenDocument",
+        "date": "26-Jul-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Hutda Lake Correctional Camp - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 26, 2023",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:53:12.960863"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:24.179632"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Jackfish Community Association Hall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6D5EFF4A2A8F3C2388256CAE005E524E",
+    "scraped_at": "2026-05-08T18:36:57.760340",
+    "location_summary": "Chetwynd",
+    "connections": "1 Public Connection",
+    "facility_name": "Jackfish Community Association Hall",
+    "facility_location": "1515 Old Jackfish Lake Road, Chetwynd, V0C 1J0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:27.325349"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "JD Little Forest Centre",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=27B9342C6AB209DC882569CB00130F59",
+    "scraped_at": "2026-05-08T18:36:57.760360",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "JD Little Forest Centre",
+    "facility_location": "6677 Landooz Road, Prince George, V2K 5R9",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:30.440981"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "K & L Water Service - Unit W137 Western Star Unit",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BD088DD2AD7BA8D107257C24005B8E70",
+    "scraped_at": "2026-05-08T18:36:57.760382",
+    "location_summary": "Pink Mountain",
+    "connections": "1 Public Connection",
+    "facility_name": "K & L Water Service - Unit W137 Western Star Unit",
+    "facility_location": "Pink Mountain Campsite, Pink Mountain, V0C 2B0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:34.160675"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Kalum River Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EC539AC9B3D7A46F88258515008363B6",
+    "scraped_at": "2026-05-08T18:36:57.760402",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "2-14 Connections",
+    "facility_name": "Kalum River Lodge",
+    "facility_location": "2190 Grandview Drive, Regional District - Kitimat-Stikine, V8G 0A8",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1E6D34A2D37CA1C488258A35005AAD74?OpenDocument",
+        "date": "7-Sep-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Wild Rivers Lodge - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "September 07, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:53:23.156469"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:37.358773"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Kasiks Wilderness Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A5C0C3B6ECE4C21A882588590074F4EF",
+    "scraped_at": "2026-05-08T18:36:57.760422",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "1 Public Connection",
+    "facility_name": "Kasiks Wilderness Resort",
+    "facility_location": "8931 Highway 16, Regional District - Kitimat-Stikine, V8G 4C3",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/5C22884F90E450A985258C66007E45C8?OpenDocument",
+        "date": "8-Apr-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Kasiks Wilderness Resort - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "April 08, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:53:33.266284"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:40.500217"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Kemess Mine Camp Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6427018B683C2877882582EF005F3B97",
+    "scraped_at": "2026-05-08T18:36:57.760442",
+    "location_summary": "Peace River Regional District",
+    "connections": "2-14 Connections",
+    "facility_name": "Kemess Mine Camp Water System",
+    "facility_location": "180 km Finlay FSR, Peace River Regional District",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:43.638676"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Key Pile Water Well and Treatment System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D7C411B3ECE08E540725785B006C7C4E",
+    "scraped_at": "2026-05-08T18:36:57.760464",
+    "location_summary": "Fort Nelson",
+    "connections": "2-14 Connections",
+    "facility_name": "Key Pile Water Well and Treatment System",
+    "facility_location": "KM 185 Sierra Yoyo Desan Road, Helmut area, Fort Nelson",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/823EE7C09BD14D9985258CC4000336A1?OpenDocument",
+        "date": "17-Jun-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Key Pile Water Well and Treatment System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 17, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:53:43.375685"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/354A815BF9B8BE1E88258AAC0080BC7A?OpenDocument",
+        "date": "11-Jan-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Key Pile Water Well and Treatment System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "January 11, 2024",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:53:48.482690"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:46.787105"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "King's Valley Christian Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4EB3FBEC977C32C988256A460062562E",
+    "scraped_at": "2026-05-08T18:36:57.760484",
+    "location_summary": "Rose Prairie",
+    "connections": "2-14 Connections",
+    "facility_name": "King's Valley Christian Camp",
+    "facility_location": "16983 Milligan Creek Road, Rose Prairie, V0C 2H0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:49.936000"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Kitimat Community Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EEC6D0ABEE9EF8CE8825736000774A8F",
+    "scraped_at": "2026-05-08T18:36:57.760503",
+    "location_summary": "Kitimat",
+    "connections": "301-10000 Connections",
+    "facility_name": "Kitimat Community Water System",
+    "facility_location": "East of Kitimat River near Highway Bridge, Kitimat",
+    "facility_type": "301-10000 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/4D907582B26E9B9588258DBF0063AD0D?OpenDocument",
+        "date": "24-Nov-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Kitimat Community Water System - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "November 24, 2025",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:53:58.589283"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/70398504A9C6365385258AD100757E2D?OpenDocument",
+        "date": "29-Nov-2023",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Kitimat Community Water System - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "November 29, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:54:03.701322"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A8DFA38C0FA37EC6882587FA007E9E2B?OpenDocument",
+        "date": "1-Mar-2022",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Kitimat Community Water System - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "March 01, 2022",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:54:08.862677"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:53.077635"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Kitwanga Ambulance Station",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E1612AAAA5DEC30E88257F7D00517569",
+    "scraped_at": "2026-05-08T18:36:57.760523",
+    "location_summary": "Kitwanga",
+    "connections": "2-14 Connections",
+    "facility_name": "Kitwanga Ambulance Station",
+    "facility_location": "1590 Kitwanga Road North, Kitwanga",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:56.224961"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Lakelse Lake Provincial Park Headquarters",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=3F95418443C8835988256C5D006474E9",
+    "scraped_at": "2026-05-08T18:36:57.760543",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "2-14 Connections",
+    "facility_name": "Lakelse Lake Provincial Park Headquarters",
+    "facility_location": "Highway 37 S, Regional District - Kitimat-Stikine",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/846605C4077F1F2588258DE8007006B3?OpenDocument",
+        "date": "27-Apr-2026",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Lakelse Lake Provincial Park Headquarters - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "April 27, 2026",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:54:19.041775"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/3FC8E5A5D64083D788258CED006DE8D5?OpenDocument",
+        "date": "9-Apr-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Lakelse Lake Provincial Park Headquarters - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "April 09, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:54:24.141313"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:44:59.868358"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Lakeview MHP",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DCC94E99B63419B48825871700646A15",
+    "scraped_at": "2026-05-08T18:36:57.760562",
+    "location_summary": "Fraser Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Lakeview MHP",
+    "facility_location": "1705 Charlie Frontage Road, Fraser Lake, V0J 1S0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/ABBD1FDC6D658BCB882588A400007194?OpenDocument",
+        "date": "3-Jun-2022",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Lakeview MHP - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Initial",
+          "inspection_date": "June 03, 2022",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:54:34.240157"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:03.041229"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Leo Creek Fisheries Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FD3FFF2A3C51D76E882575A9005F8B27",
+    "scraped_at": "2026-05-08T18:36:57.760582",
+    "location_summary": "Fort St James",
+    "connections": "1 Public Connection",
+    "facility_name": "Leo Creek Fisheries Camp",
+    "facility_location": "Km 104 Leo Creek FSR, Fort St James, V0J 1P0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:06.187416"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Liard Hotsprings Resort [FN FN Ltd.]",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0984A2885D4CE84F07256E240067B471",
+    "scraped_at": "2026-05-08T18:36:57.760602",
+    "location_summary": "Liard River",
+    "connections": "2-14 Connections",
+    "facility_name": "Liard Hotsprings Resort [FN FN Ltd.]",
+    "facility_location": "Mile 497 Alaska Highway, Liard River, V1J 4J8",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/7E1489C1D161E1AD88258CEE000B0935?OpenDocument",
+        "date": "9-Jul-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Liard Hotsprings Resort [FN FN Ltd.] - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 09, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:54:44.420459"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B80221E08757E3668825885D007F360C?OpenDocument",
+        "date": "10-Jun-2022",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Liard Hotsprings Resort (FN FN Ltd.) - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 10, 2022",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:54:49.521633"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/6D80CBAAD60388228825872F0023B654?OpenDocument",
+        "date": "11-Aug-2021",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Liard Hotsprings Resort (FN FN Ltd.) - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 11, 2021",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:54:54.619753"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:09.333947"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Lucille Mountain Water Users",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7608B054E9DCF003882569CB00130D59",
+    "scraped_at": "2026-05-08T18:36:57.760624",
+    "location_summary": "McBride",
+    "connections": "15-300 Connections",
+    "facility_name": "Lucille Mountain Water Users",
+    "facility_location": "Lucille Mountain, McBride, V0J 2E0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:12.478046"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Mackenzie CWS Gantahaz Subdivision",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=076B0DEC294BF3A2882569E3007DF768",
+    "scraped_at": "2026-05-08T18:36:57.760644",
+    "location_summary": "Mackenzie",
+    "connections": "15-300 Connections",
+    "facility_name": "Mackenzie CWS Gantahaz Subdivision",
+    "facility_location": "1 Mackenzie Boulevard, Mackenzie, V0J 2C0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/55E5436C2441C9F488258DC00064B914?OpenDocument",
+        "date": "10-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Mackenzie CWS Gantahaz Subdivision - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "September 10, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:55:04.766944"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/DF490196B5C23A2F8825886200746C4D?OpenDocument",
+        "date": "8-Jun-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Mackenzie CWS Gantahaz Subdivision - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "June 08, 2022",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:55:09.867779"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/F02D51BB75495647882586E900761A85?OpenDocument",
+        "date": "19-May-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Mackenzie CWS Gantahaz Subdivision - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "May 19, 2021",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:55:15.028294"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:15.632588"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Maxhamish Operations Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E3C5A3854F98B60688258840007D4CF1",
+    "scraped_at": "2026-05-08T18:36:57.760664",
+    "location_summary": "Fort Nelson",
+    "connections": "1 Public Connection",
+    "facility_name": "Maxhamish Operations Camp",
+    "facility_location": "Fort Nelson",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:18.769136"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "McBride Christian Day School",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=35E075E2AF60722A882584850058C5A7",
+    "scraped_at": "2026-05-08T18:36:57.760683",
+    "location_summary": "McBride",
+    "connections": "1 Public Connection",
+    "facility_name": "McBride Christian Day School",
+    "facility_location": "3550 Alder Road, McBride, V0J 2E0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:22.056083"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Molyhills Golf Course",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=80164F3FCCBC9433882569E4007DAA3E",
+    "scraped_at": "2026-05-08T18:36:57.760703",
+    "location_summary": "Fraser Lake",
+    "connections": "1 Public Connection",
+    "facility_name": "Molyhills Golf Course",
+    "facility_location": "1400 Francois Lake Road East, Fraser Lake, V0J 1S0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9C636A9F0947667085258B2B0001D8AB?OpenDocument",
+        "date": "24-May-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Molyhills Golf Course - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "May 24, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:55:25.205172"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:25.174358"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Monkman Provincial Park - Well 1",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E97083802B4A0DD788256A4600625524",
+    "scraped_at": "2026-05-08T18:36:57.760722",
+    "location_summary": "Tumbler Ridge",
+    "connections": "1 Public Connection",
+    "facility_name": "Monkman Provincial Park - Well 1",
+    "facility_location": "km 50 Murray FSR, Tumbler Ridge",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:28.287604"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Monteith CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=521EF7A9F1CD6BFD882575AC005AE1BD",
+    "scraped_at": "2026-05-08T18:36:57.760742",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Monteith CWS",
+    "facility_location": "22130 West Lake Road East, Prince George, V2N 6H5",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:31.398399"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Moosehorn Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E7EDB87CE25270AA882582C000556B31",
+    "scraped_at": "2026-05-08T18:36:57.760761",
+    "location_summary": "Burns Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Moosehorn Lodge",
+    "facility_location": "7475 Moose Horn Road, Burns Lake",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:34.513889"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mount Layton Hot Springs Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FF8C9F6E59565C2D882569C80080289E",
+    "scraped_at": "2026-05-08T18:36:57.760781",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "2-14 Connections",
+    "facility_name": "Mount Layton Hot Springs Resort",
+    "facility_location": "Highway 37 S, Regional District - Kitimat-Stikine, V8G 4B5",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/54260A447B9A490088258D920067EB7E?OpenDocument",
+        "date": "14-Jan-2026",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Mount Layton Hot Springs Resort - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "January 14, 2026",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:55:35.391217"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:37.791315"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mount Robson Motor Village",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BCB90BC0ADF87B7B882569CB001868C3",
+    "scraped_at": "2026-05-08T18:36:57.760801",
+    "location_summary": "Valemount",
+    "connections": "2-14 Connections",
+    "facility_name": "Mount Robson Motor Village",
+    "facility_location": "18344 Highway 16 East, Valemount, V0E 2Z0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/8C1F8489EB061BF788258CEC00830492?OpenDocument",
+        "date": "18-Aug-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Mount Robson Motor Village - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 18, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:55:45.495569"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:40.907478"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mount Robson Provincial Park - Lucerne Campground #1",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7E97612EB980BB47882571BD00569A21",
+    "scraped_at": "2026-05-08T18:36:57.760822",
+    "location_summary": "Valemount",
+    "connections": "1 Public Connection",
+    "facility_name": "Mount Robson Provincial Park - Lucerne Campground #1",
+    "facility_location": "Mount Robson Provincial Park Highway 16 East, Valemount, V0E 2Z0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:44.023970"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Mountain View Assembly Pentacostal Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=564330F6A6905ACD8825721C0000ADCA",
+    "scraped_at": "2026-05-08T18:36:57.760842",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Mountain View Assembly Pentacostal Water System",
+    "facility_location": "2701 Viewmount Road S, Smithers, V0J 2N6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:47.136553"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mountain View MHP",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=87B931FBE3285033882574E800566DD6",
+    "scraped_at": "2026-05-08T18:36:57.760861",
+    "location_summary": "McBride",
+    "connections": "15-300 Connections",
+    "facility_name": "Mountain View MHP",
+    "facility_location": "868 North Frontage Road, McBride, V0J 2E0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:50.376123"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Mountain View Park Estates",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E094A71BA88B7E2988258AA1006D366C",
+    "scraped_at": "2026-05-08T18:36:57.760881",
+    "location_summary": "Smithers",
+    "connections": "15-300 Connections",
+    "facility_name": "Mountain View Park Estates",
+    "facility_location": "17 - 95 Laidlaw Road, Smithers, V0J 2N6",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:53.519787"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mountainview Adventures",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0CD1D8C99A4F6DFA8825719600800F19",
+    "scraped_at": "2026-05-08T18:36:57.760900",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Mountainview Adventures",
+    "facility_location": "17366 Telkwa High Road, Smithers, V0J 2N7",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/886DF009ED5B9D3E88258DC5005F08F4?OpenDocument",
+        "date": "19-Mar-2026",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Mountainview Adventures - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "March 19, 2026",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:55:55.605559"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:56.741261"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Mountainview Property Owner's Association Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F13858115A93AA9B882569C800802988",
+    "scraped_at": "2026-05-08T18:36:57.760920",
+    "location_summary": "Kitwanga",
+    "connections": "15-300 Connections",
+    "facility_name": "Mountainview Property Owner's Association Water System",
+    "facility_location": "3864 Mountainview Drive, Kitwanga, V0J 2A0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:45:59.864457"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Naikoon South (Misty Meadows)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9B48A7E2E75C6A2988258673007D1672",
+    "scraped_at": "2026-05-08T18:36:57.760939",
+    "location_summary": "Tlell",
+    "connections": "2-14 Connections",
+    "facility_name": "Naikoon South (Misty Meadows)",
+    "facility_location": "Naikoon Park, Tlell",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/CED78369E692EC7E88258D0B0007A0D0?OpenDocument",
+        "date": "11-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Naikoon South (Misty Meadows) - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "September 11, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:56:05.785226"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:02.982440"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Ness Lake Community Hall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=436EBC5C1562F38E88256B87005AD19C",
+    "scraped_at": "2026-05-08T18:36:57.760960",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Ness Lake Community Hall",
+    "facility_location": "10370 Lakeside Drive, Prince George, V2K 5M4",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:06.233136"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Nithi Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=98027F25C7CDDDA88825883600592933",
+    "scraped_at": "2026-05-08T18:36:57.760980",
+    "location_summary": "Fraser Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Nithi Resort",
+    "facility_location": "103 Nithi Lodge Road, Fraser Lake, V0J 1S0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/8B857D5A80DA069285258CC30065B403?OpenDocument",
+        "date": "7-Jul-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Nithi Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "July 07, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:56:15.890441"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/97B7782FF2DDA904882588A100043546?OpenDocument",
+        "date": "16-Aug-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Nithi Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "August 16, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:56:21.001293"
+        }
+      },
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B658EFBC3BF3C93F882588460062DBA5?OpenDocument",
+        "date": "27-Apr-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Nithi Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Initial",
+          "inspection_date": "April 27, 2022",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:56:26.143136"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:09.342336"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Noralee Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EB28135B74BB52AC88257EF200661B66",
+    "scraped_at": "2026-05-08T18:36:57.760999",
+    "location_summary": "Burns Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Noralee Resort",
+    "facility_location": "49400 Collymont Road, Burns Lake, V0J 1E2",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/8EB57C39CF85E0F585258C92006577BD?OpenDocument",
+        "date": "8-May-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Noralee Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "May 08, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:56:36.252520"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:12.461736"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Nordic Water Company",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7DA5356E058A587D882569CB00130C8C",
+    "scraped_at": "2026-05-08T18:36:57.761018",
+    "location_summary": "Prince George",
+    "connections": "15-300 Connections",
+    "facility_name": "Nordic Water Company",
+    "facility_location": "3130 Byman Road, Prince George, V2N 6V7",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1DB003F489C6033A88258A8500704C6D?OpenDocument",
+        "date": "23-Nov-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Nordic Water Company - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "November 23, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:56:46.370808"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/25163EF94EE18C27882588E5006E12F6?OpenDocument",
+        "date": "24-Oct-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Nordic Water Company - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "October 24, 2022",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:56:51.474239"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:15.598335"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Northern Lights Charitable Association WS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F6AB91B82916363D07257AD40074566B",
+    "scraped_at": "2026-05-08T18:36:57.761038",
+    "location_summary": "Wonowon",
+    "connections": "1 Public Connection",
+    "facility_name": "Northern Lights Charitable Association WS",
+    "facility_location": "19257 PDR 9A Road, Wonowon, V0C 2N0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/4AB1099DE0A6C37B85258BF500769E85?OpenDocument",
+        "date": "12-Dec-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Northern Lights Charitable Association WS - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "December 12, 2024",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:57:01.583291"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:18.721564"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Nukko Lake Hall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=723EF907F315A18588256B66005AD44D",
+    "scraped_at": "2026-05-08T18:36:57.761058",
+    "location_summary": "Prince George",
+    "connections": "1 Public Connection",
+    "facility_name": "Nukko Lake Hall",
+    "facility_location": "23485 Chief Lake Road, Prince George, V2K 5K8",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/20E313C1DCBD25D788258A540074074A?OpenDocument",
+        "date": "19-Oct-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Nukko Lake Hall - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "October 19, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:57:11.760565"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:21.875429"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "One Island Lake Provincial Park, Well 1",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E7CCE364625678AC88256A4600625520",
+    "scraped_at": "2026-05-08T18:36:57.761077",
+    "location_summary": "Tomslake",
+    "connections": "1 Public Connection",
+    "facility_name": "One Island Lake Provincial Park, Well 1",
+    "facility_location": "One Island Lake Road, Tomslake",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/9237EBA16438A5B585258B570062BFE7?OpenDocument",
+        "date": "10-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "One Island Lake Provincial Park, Well 1 - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "July 10, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:57:21.868166"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:25.372351"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "One Island Lake Provincial Park, Well 2",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=990C4EB14756B05A88256A4600625521",
+    "scraped_at": "2026-05-08T18:36:57.761098",
+    "location_summary": "Tomslake",
+    "connections": "1 Public Connection",
+    "facility_name": "One Island Lake Provincial Park, Well 2",
+    "facility_location": "One Island Lake Road, Tomslake",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/E4815F304BB25B8C85258B5700683F43?OpenDocument",
+        "date": "10-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "One Island Lake Provincial Park, Well 2 - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "July 10, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:57:31.991170"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:28.516144"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Ootsa Lake CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=01BD1D0F10E7B2BB88257248006AAC4C",
+    "scraped_at": "2026-05-08T18:36:57.761117",
+    "location_summary": "Burns Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Ootsa Lake CWS",
+    "facility_location": "20620 Ootsa Nadina Road, Burns Lake, V0J 1E4",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:31.645101"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Paul Lychak Hall (Evelyn Community Hall)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A4A933393C19308288257928005837BD",
+    "scraped_at": "2026-05-08T18:36:57.761136",
+    "location_summary": "Smithers",
+    "connections": "1 Public Connection",
+    "facility_name": "Paul Lychak Hall (Evelyn Community Hall)",
+    "facility_location": "10162 Highway 16, Smithers, V0J 2N1",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/DC71B9BA0E424BE388258D8C000A2D0B?OpenDocument",
+        "date": "26-Jan-2026",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Paul Lychak Hall (Evelyn Community Hall) - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "January 26, 2026",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:57:42.167897"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:35.008253"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Petronas C-65-G (Altares)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D15BDDF0B87DE14807258B49007A5BD6",
+    "scraped_at": "2026-05-08T18:36:57.761156",
+    "location_summary": "Hudson's Hope",
+    "connections": "1 Public Connection",
+    "facility_name": "Petronas C-65-G (Altares)",
+    "facility_location": "D-97-6/94-B-08, Hudson's Hope",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:38.118726"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Petronas Energy Camp C-72-A Plant (109 Road)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BA17BB605E57917788258B4900784607",
+    "scraped_at": "2026-05-08T18:36:57.761175",
+    "location_summary": "Wonowon",
+    "connections": "1 Public Connection",
+    "facility_name": "Petronas Energy Camp C-72-A Plant (109 Road)",
+    "facility_location": "C-72-A/94-B-16, Wonowon",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/74B9FF5F2C06FF5288258D8700697F27?OpenDocument",
+        "date": "4-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Petronas Energy Camp C-72-A Plant (109 Road) - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "September 04, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:57:52.264763"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:41.240691"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Petronas Energy Camp C-96-G (Altares)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8CF224DE24E5B83207258B49007B9ACA",
+    "scraped_at": "2026-05-08T18:36:57.761195",
+    "location_summary": "Hudson's Hope",
+    "connections": "2-14 Connections",
+    "facility_name": "Petronas Energy Camp C-96-G (Altares)",
+    "facility_location": "C-96-G/94-B-08, Hudson's Hope",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:44.350130"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Petronas Energy Plant A-29-J (Lily Lake)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=787C4B65C3DBB14288258B490073363F",
+    "scraped_at": "2026-05-08T18:36:57.761215",
+    "location_summary": "Pink Mountain",
+    "connections": "1 Public Connection",
+    "facility_name": "Petronas Energy Plant A-29-J (Lily Lake)",
+    "facility_location": "A-29-J/ 94-G-02, Pink Mountain",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/67744E301D76949D88258D8700697F23?OpenDocument",
+        "date": "4-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Petronas Energy Plant A-29-J (Lily Lake) - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "September 04, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:02.375773"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:47.457127"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Petronas Energy Plant C- 16- F(Caribou)",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DDAB982B2514548A88258B490075B128",
+    "scraped_at": "2026-05-08T18:36:57.761235",
+    "location_summary": "Pink Mountain",
+    "connections": "1 Public Connection",
+    "facility_name": "Petronas Energy Plant C- 16- F(Caribou)",
+    "facility_location": "C-16-F/94-06-07, Pink Mountain",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/22A7EF7F770109BA88258D8700697F20?OpenDocument",
+        "date": "4-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Petronas Energy Plant C- 16- F(Caribou) - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "September 04, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:12.480189"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:50.646921"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Pinecrest Road Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E47825472578DCD48825845F007C726F",
+    "scraped_at": "2026-05-08T18:36:57.761254",
+    "location_summary": "Smithers",
+    "connections": "2-14 Connections",
+    "facility_name": "Pinecrest Road Water System",
+    "facility_location": "6364 Pinecrest Road, Smithers, V0J 2N2",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:53.758363"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Pineview Improvement District",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2D1193FD07DCBCC7882569CB001869BF",
+    "scraped_at": "2026-05-08T18:36:57.761274",
+    "location_summary": "Prince George",
+    "connections": "301-10000 Connections",
+    "facility_name": "Pineview Improvement District",
+    "facility_location": "8555 Pooley Road, Prince George, V2N 5W3",
+    "facility_type": "301-10000 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:46:56.865234"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Pink Mountain Campsite",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DC3AC660A76B640E88256A460062585E",
+    "scraped_at": "2026-05-08T18:36:57.761293",
+    "location_summary": "Pink Mountain",
+    "connections": "2-14 Connections",
+    "facility_name": "Pink Mountain Campsite",
+    "facility_location": "Mile 143 Alaska Hwy, Pink Mountain, V0C 0A7",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/5D370712AEF2DC1188258D960007768D?OpenDocument",
+        "date": "28-Jan-2026",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Pink Mountain Campsite - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "January 28, 2026",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:22.809625"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1CD222A4B4D3A3A088258D01001DFA78?OpenDocument",
+        "date": "20-Aug-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Pink Mountain Campsite - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 20, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:58:27.912151"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:00.018965"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Prespatou Store [2013] Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B89CC2707943D0E707257C4E0066563B",
+    "scraped_at": "2026-05-08T18:36:57.761313",
+    "location_summary": "Prespatou",
+    "connections": "1 Public Connection",
+    "facility_name": "Prespatou Store [2013] Water System",
+    "facility_location": "21814 Prespatou Road, Prespatou, V0C 2S0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/05024B40B085207088258D3C0005AE4D?OpenDocument",
+        "date": "23-Oct-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Prespatou Store [2013] Water System - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "October 23, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:38.020176"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/3981374BD4CF8CF388258D0F000AC7BE?OpenDocument",
+        "date": "18-Sep-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Prespatou Store [2013] Water System - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "September 18, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:43.125797"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:03.128184"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Prince George Refinery",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B87BB65B2D7C46AE882584B000757C5F",
+    "scraped_at": "2026-05-08T18:36:57.761332",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Prince George Refinery",
+    "facility_location": "2542 PG Pulp Mill Road, Prince George, V2L 4V4",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:06.248257"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Purden Ski Village",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7B0E7B8D620F2BE088256D3C005EB4FE",
+    "scraped_at": "2026-05-08T18:36:57.761351",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "Purden Ski Village",
+    "facility_location": "Km 80 Highway 16 East, Prince George, N/A",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/69789B9137413BE985258AE400666C6E?OpenDocument",
+        "date": "16-Mar-2024",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Purden Ski Village - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "March 16, 2024",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T12:58:53.232016"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:09.393929"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Quesnel CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B01D1D765C87505188256BCA00652D8E",
+    "scraped_at": "2026-05-08T18:36:57.761370",
+    "location_summary": "Quesnel",
+    "connections": "301-10000 Connections",
+    "facility_name": "Quesnel CWS",
+    "facility_location": "410 Kinchant Street, Quesnel, V2J 7J5",
+    "facility_type": "301-10000 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/59999889B38FB06288258DA1006A644C?OpenDocument",
+        "date": "13-Feb-2026",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Quesnel CWS - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "February 13, 2026",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:59:03.334250"
+        }
+      },
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/954E99FAF4B01ABB85258B650072465D?OpenDocument",
+        "date": "25-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Quesnel CWS - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "July 25, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:59:08.433526"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/4C2F34D558C3C11585258B5E0073AF33?OpenDocument",
+        "date": "15-Jul-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Quesnel CWS - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "July 15, 2024",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:59:13.532874"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/2CBD201A28B88F92882589AE000B790C?OpenDocument",
+        "date": "12-May-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Quesnel CWS - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "May 12, 2023",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:59:18.638076"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/7016C40BE70CB8B6882589A9006C9C5F?OpenDocument",
+        "date": "7-Jun-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Quesnel CWS - Inspection Report",
+          "facility_type": "WS1A",
+          "inspection_type": "Routine",
+          "inspection_date": "June 07, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:59:23.741321"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:12.607583"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Rainbow Creek CWS",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=C671886B96EE44B38825708100678774",
+    "scraped_at": "2026-05-08T18:36:57.761389",
+    "location_summary": "McBride",
+    "connections": "2-14 Connections",
+    "facility_name": "Rainbow Creek CWS",
+    "facility_location": "170 Mountainview Road, McBride, V0J 2E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:15.719159"
+  },
+  {
+    "notice_type": "Do Not Consume",
+    "name": "Red Chris Mill Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D168E9E6AB73FDC5882583F3006F7FF2",
+    "scraped_at": "2026-05-08T18:36:57.761408",
+    "location_summary": "Iskut",
+    "connections": "2-14 Connections",
+    "facility_name": "Red Chris Mill Water System",
+    "facility_location": "18km SE of Iskut Red Chris Access Road, Iskut, V0J 1K0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/FEB38428B77BE85588258D2B007A682D?OpenDocument",
+        "date": "7-Oct-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Red Chris Mill Water System - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "October 07, 2025",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:59:33.929979"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:18.828029"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Red Goat Lodge Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0E80F4CC7155BE28882569C80080380D",
+    "scraped_at": "2026-05-08T18:36:57.761428",
+    "location_summary": "Iskut",
+    "connections": "2-14 Connections",
+    "facility_name": "Red Goat Lodge Water System",
+    "facility_location": "km 403 Highway 37, Iskut, V0J 1K0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:21.987685"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Richard's Place",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=14237ECDD589AB72882581D9006B4A49",
+    "scraped_at": "2026-05-08T18:36:57.761447",
+    "location_summary": "Quesnel",
+    "connections": "2-14 Connections",
+    "facility_name": "Richard's Place",
+    "facility_location": "1 - 1172 West Fraser Road, Quesnel, V2J 6H8",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/E508BB0D10E3F60C882589B2007EEBFE?OpenDocument",
+        "date": "16-May-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Richard's Place - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "May 16, 2023",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T12:59:44.045122"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:25.124443"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Ridley Island Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D30C987D2EF8C7FD88257B500051AA12",
+    "scraped_at": "2026-05-08T18:36:57.761466",
+    "location_summary": "Prince Rupert",
+    "connections": "2-14 Connections",
+    "facility_name": "Ridley Island Water System",
+    "facility_location": "1200 Ridley Island, Prince Rupert",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/907BDF2C4BB94B1388258CEA00810D6F?OpenDocument",
+        "date": "12-Aug-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Ridley Island Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "August 12, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T12:59:54.147943"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:28.266025"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Riverbend MHP",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D17400AD0B9438AE07258C9900016F1E",
+    "scraped_at": "2026-05-08T18:36:57.761486",
+    "location_summary": "McBride",
+    "connections": "2-14 Connections",
+    "facility_name": "Riverbend MHP",
+    "facility_location": "3115 Riverbend Road, McBride, V0J 2E0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:31.418385"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Roach Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4A730503F01C58C0882583B300774EB9",
+    "scraped_at": "2026-05-08T18:36:57.761506",
+    "location_summary": "Kitwanga",
+    "connections": "2-14 Connections",
+    "facility_name": "Roach Water System",
+    "facility_location": "1406 Kitwanga Road N, Kitwanga, V0J 2A0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B0BA767E9E1C1ACA8825882A001D00FD?OpenDocument",
+        "date": "19-Apr-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Roach Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "April 19, 2022",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:00:04.373423"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:34.555957"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Rock Nest Ranch",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2E0D414C4D10AFCF88256AFE006BE471",
+    "scraped_at": "2026-05-08T18:36:57.761525",
+    "location_summary": "Houston",
+    "connections": "2-14 Connections",
+    "facility_name": "Rock Nest Ranch",
+    "facility_location": "7907 Barrett Hat Road, Houston, V0J 1Z1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B50D7C5FB7C7DC7D8825875D005D3974?OpenDocument",
+        "date": "27-Jul-2021",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Rock Nest Ranch - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 27, 2021",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:00:14.496167"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:37.707013"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Rocky Mountain Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=40BB85B5B8BC8B0988256A46006255FD",
+    "scraped_at": "2026-05-08T18:36:57.761544",
+    "location_summary": "Fort Nelson",
+    "connections": "2-14 Connections",
+    "facility_name": "Rocky Mountain Lodge",
+    "facility_location": "Mile 397 Alaska Highway, Fort Nelson, V0C 1R0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/5AFB417421F8F3998825885D000BEFB4?OpenDocument",
+        "date": "9-Jun-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Rocky Mountain Lodge - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 09, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:00:24.600834"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/D1EF0627BDD009AF882587360071D1A6?OpenDocument",
+        "date": "11-Aug-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Rocky Mountain Lodge - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "August 11, 2021",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:00:29.702090"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:41.277187"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Rough Acres Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=254089CA4BFD8B1188257FE10058A677",
+    "scraped_at": "2026-05-08T18:36:57.761564",
+    "location_summary": "Houston",
+    "connections": "2-14 Connections",
+    "facility_name": "Rough Acres Water System",
+    "facility_location": "7434 Parish Road, Houston, V0J 1Z1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/CF8DB90FBF90470585258B7A0078C74E?OpenDocument",
+        "date": "18-Apr-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Rough Acres Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "April 18, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:00:39.805803"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/144FBC26C6147854882589A2006AAE63?OpenDocument",
+        "date": "17-Apr-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Rough Acres Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "April 17, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:00:44.911890"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:44.420721"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Round Lake Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CF292C15F94F30A188256FDD00794974",
+    "scraped_at": "2026-05-08T18:36:57.761583",
+    "location_summary": "Telkwa",
+    "connections": "2-14 Connections",
+    "facility_name": "Round Lake Resort",
+    "facility_location": "20806 Highway 16, Telkwa, V0J 2X0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:47.564768"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Seaplane Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0CD4936863DB9A0D882586EA00669D81",
+    "scraped_at": "2026-05-08T18:36:57.761604",
+    "location_summary": "Telkwa",
+    "connections": "2-14 Connections",
+    "facility_name": "Seaplane Water System",
+    "facility_location": "5130 Seaplane Base Road, Telkwa, V0J 2X1",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:50.713977"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Seymour Lake Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=70473B00F6A3302A882569C800802007",
+    "scraped_at": "2026-05-08T18:36:57.761625",
+    "location_summary": "Regional District - Bulkley Nechako",
+    "connections": "2-14 Connections",
+    "facility_name": "Seymour Lake Water System",
+    "facility_location": "Seymour Lake Road, Regional District - Bulkley Nechako",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:53.859767"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Sikanni River RV Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=927F4368F700355A0725857D00608076",
+    "scraped_at": "2026-05-08T18:36:57.761646",
+    "location_summary": "Sikanni Chief",
+    "connections": "2-14 Connections",
+    "facility_name": "Sikanni River RV Park",
+    "facility_location": "Mile 168 Alaska Highway, Sikanni Chief, V0C 2B0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:47:57.528267"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Silver Queen Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=674FA9E0DB492E3A882577A50056BF94",
+    "scraped_at": "2026-05-08T18:36:57.761666",
+    "location_summary": "Houston",
+    "connections": "2-14 Connections",
+    "facility_name": "Silver Queen Camp",
+    "facility_location": "21290 Morice Owen FSR, Houston, V0J 1Z0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:00.671269"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Sinclair Mills Water Users Community",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=151A2BAC5DC5768C882569E600647F58",
+    "scraped_at": "2026-05-08T18:36:57.761686",
+    "location_summary": "Sinclair Mills",
+    "connections": "2-14 Connections",
+    "facility_name": "Sinclair Mills Water Users Community",
+    "facility_location": "37971 Upper Fraser Road, Sinclair Mills, V0J 3M0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:03.947269"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Sinclair Mills/Community Hall",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=1488BDFFE98EF97588257C52006CBE2A",
+    "scraped_at": "2026-05-08T18:36:57.761707",
+    "location_summary": "Sinclair Mills",
+    "connections": "1 Public Connection",
+    "facility_name": "Sinclair Mills/Community Hall",
+    "facility_location": "37971 Upper Fraser Road, Sinclair Mills, V0J 3M0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:07.068472"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Skidegate Ferry Terminal Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6FA9A686F30ABBD288257277000B6FDA",
+    "scraped_at": "2026-05-08T18:36:57.761730",
+    "location_summary": "Skidegate",
+    "connections": "1 Public Connection",
+    "facility_name": "Skidegate Ferry Terminal Water System",
+    "facility_location": "4838 Oceanview Drive, Skidegate, V0T 1S1",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/A1868DF5D6525BDB88258D0D0082AC52?OpenDocument",
+        "date": "9-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Skidegate Ferry Terminal Water System - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "September 09, 2025",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:00:55.015124"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:10.212098"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Skin's Lake Caretaker's House",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=30B57419564A4F658825755800613659",
+    "scraped_at": "2026-05-08T18:36:57.761752",
+    "location_summary": "Burns Lake",
+    "connections": "1 Public Connection",
+    "facility_name": "Skin's Lake Caretaker's House",
+    "facility_location": "22573 Ootsa Lake Road East RR4 Site 523, Burns Lake, V0J 1E4",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:13.778271"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Smithers Community Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FFC8778B64DD193F882569C800801F2F",
+    "scraped_at": "2026-05-08T18:36:57.761774",
+    "location_summary": "Smithers",
+    "connections": "301-10000 Connections",
+    "facility_name": "Smithers Community Water System",
+    "facility_location": "1027 Aldous Street, Smithers",
+    "facility_type": "301-10000 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:16.924785"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Smithers Regional Airport - Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2CBE0C10B07D309B88256A14005B2719",
+    "scraped_at": "2026-05-08T18:36:57.761795",
+    "location_summary": "Smithers",
+    "connections": "15-300 Connections",
+    "facility_name": "Smithers Regional Airport - Water System",
+    "facility_location": "1 - 6241 Airport Road, Smithers, V0J 2N0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/56690C96142FDB9588258D790004669D?OpenDocument",
+        "date": "3-Dec-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Smithers Regional Airport - Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "December 03, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:01:05.158418"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/6C60B36A8CEF7370882589C900814A27?OpenDocument",
+        "date": "8-Jun-2023",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Smithers Regional Airport - Water System - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "June 08, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:01:10.313676"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:20.073243"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Sowchea Bay Provincial Park 2",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8EAC7A71A73641638825772700727030",
+    "scraped_at": "2026-05-08T18:36:57.761817",
+    "location_summary": "Fort St James",
+    "connections": "1 Public Connection",
+    "facility_name": "Sowchea Bay Provincial Park 2",
+    "facility_location": "Sowchea Bay Road, Fort St James",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:23.215687"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Speckled Sow The Butcher Shop",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=C0359700ECD9EDE18825887F00573213",
+    "scraped_at": "2026-05-08T18:36:57.761838",
+    "location_summary": "Vanderhoof",
+    "connections": "1 Public Connection",
+    "facility_name": "Speckled Sow The Butcher Shop",
+    "facility_location": "1487 Derksen Road, Vanderhoof, V0J 3A0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/FE819D5A5E99046485258C4B00601784?OpenDocument",
+        "date": "6-Mar-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Speckled Sow The Butcher Shop - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Initial",
+          "inspection_date": "March 06, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:01:20.418362"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:26.364062"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Spectrum TR901",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=02F77E7AF4A80C0088257FF7005AE952",
+    "scraped_at": "2026-05-08T18:36:57.761857",
+    "location_summary": "Mobile Camp",
+    "connections": "2-14 Connections",
+    "facility_name": "Spectrum TR901",
+    "facility_location": "Various Locations, Mobile Camp",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:29.788439"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Spruce Capital Trailer Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D5AFF9FCBF935DD188257F860061633A",
+    "scraped_at": "2026-05-08T18:36:57.761878",
+    "location_summary": "Prince George",
+    "connections": "15-300 Connections",
+    "facility_name": "Spruce Capital Trailer Park",
+    "facility_location": "#15 - 1720 PG Pulpmill Road, Prince George, V2K 5P2",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:32.898051"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Stellako Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D103B31913E2605088256A710077D559",
+    "scraped_at": "2026-05-08T18:36:57.761898",
+    "location_summary": "Fraser Lake",
+    "connections": "2-14 Connections",
+    "facility_name": "Stellako Lodge",
+    "facility_location": "East End Francois Lake Road, Fraser Lake, V0J 1S0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:36.008300"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Summit Lake Park",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=868D9ACF20C7612888256A4600665825",
+    "scraped_at": "2026-05-08T18:36:57.761918",
+    "location_summary": "Fort Nelson",
+    "connections": "1 Public Connection",
+    "facility_name": "Summit Lake Park",
+    "facility_location": "Mile 373 Alaska Highway, Fort Nelson, V0C 1R0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/1A55B7627385734C88258D8700697F2D?OpenDocument",
+        "date": "11-Jul-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Summit Lake Park - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "July 11, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:01:30.524833"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/FEC8B94A9085F65F882587360082CAC9?OpenDocument",
+        "date": "10-Aug-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Summit Lake Park - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "August 10, 2021",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:01:35.625883"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:39.119832"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Sunset Community Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=3055DBE61D08A6B988258AF4007D8090",
+    "scraped_at": "2026-05-08T18:36:57.761938",
+    "location_summary": "Telkwa",
+    "connections": "2-14 Connections",
+    "facility_name": "Sunset Community Water System",
+    "facility_location": "4985 Hidber Road, Telkwa, V0J 2X0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/F29E14DA14A90CF185258BF90072EED2?OpenDocument",
+        "date": "18-Dec-2024",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Sunset Community Water System - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "December 18, 2024",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:01:45.724082"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:42.230368"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Tabor Lake Estates",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DB7B3B5068365B7A882573F5005E9DB7",
+    "scraped_at": "2026-05-08T18:36:57.761958",
+    "location_summary": "Prince George",
+    "connections": "15-300 Connections",
+    "facility_name": "Tabor Lake Estates",
+    "facility_location": "300 Rondane Crescent, Prince George, V2N 6W4",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B8E4B36907B91EB7882589FA006F8990?OpenDocument",
+        "date": "10-Jul-2023",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Tabor Lake Estates - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "July 10, 2023",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:01:55.830517"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:45.342768"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Takysie Lake Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=327DCF3CFDC70B5488258C7C007431FC",
+    "scraped_at": "2026-05-08T18:36:57.761979",
+    "location_summary": "Burns Lake",
+    "connections": "15-300 Connections",
+    "facility_name": "Takysie Lake Resort",
+    "facility_location": "37530 Eakin Settlement Rd, Burns Lake, V0J1E4",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/11397F446E69BE2C88258D02007835A8?OpenDocument",
+        "date": "11-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Takysie Lake Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "September 11, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:02:05.978764"
+        }
+      },
+      {
+        "document_type": "Follow-Up Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/4728AA022B1118CE88258D02008349B0?OpenDocument",
+        "date": "11-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Takysie Lake Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Follow-Up",
+          "inspection_date": "September 11, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:02:11.137803"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:48.771697"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Tangle Ridge Custom Crushing",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=89BAF65887F70C470725815600615B60",
+    "scraped_at": "2026-05-08T18:36:57.762000",
+    "location_summary": "Pink Mountain",
+    "connections": "1 Public Connection",
+    "facility_name": "Tangle Ridge Custom Crushing",
+    "facility_location": "Lot 534, Pink Mountain",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Moderate",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/6226BB951F4DFFC788258D370064590E?OpenDocument",
+        "date": "10-Sep-2025",
+        "hazard_rating": "Moderate",
+        "details": {
+          "title": "Tangle Ridge Custom Crushing - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "September 10, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:02:21.248598"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:51.877710"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Tatuk Lake Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=091E248C5E847EE28825732C005C3541",
+    "scraped_at": "2026-05-08T18:36:57.762035",
+    "location_summary": "Vanderhoof",
+    "connections": "2-14 Connections",
+    "facility_name": "Tatuk Lake Resort",
+    "facility_location": "470 Gold FSR, Vanderhoof, V0J 3A0",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:55.196082"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Tchentlo Lake Lodge",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2254103E4BFCC3D5882569CB00131576",
+    "scraped_at": "2026-05-08T18:36:57.762055",
+    "location_summary": "Fort St James",
+    "connections": "2-14 Connections",
+    "facility_name": "Tchentlo Lake Lodge",
+    "facility_location": "Km 14.5 Driftwood FSR, Fort St James",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:48:58.341881"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Tete Jaune Weigh Scale",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A04AAF929545940A8825798400683AB2",
+    "scraped_at": "2026-05-08T18:36:57.762075",
+    "location_summary": "Tete Jaune Cache",
+    "connections": "1 Public Connection",
+    "facility_name": "Tete Jaune Weigh Scale",
+    "facility_location": "Tete Jaune Weigh Scale Highway 16 East, Tete Jaune Cache",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/C579CC707C7CC58F85258AD100737353?OpenDocument",
+        "date": "20-Feb-2024",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Tete Jaune Weigh Scale - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "February 20, 2024",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:02:31.346499"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:01.489619"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Tetsa River Services Campground",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F8511D6A8D51C67F07257B420074BA7F",
+    "scraped_at": "2026-05-08T18:36:57.762095",
+    "location_summary": "Fort Nelson",
+    "connections": "2-14 Connections",
+    "facility_name": "Tetsa River Services Campground",
+    "facility_location": "Mile 375 Alaska Highway, Fort Nelson",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/BCD9DFCCE881751D88258D8700697F36?OpenDocument",
+        "date": "8-Jul-2025",
+        "hazard_rating": "High",
+        "details": {
+          "title": "Tetsa River Services Campground - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "July 08, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:02:41.540413"
+        }
+      },
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/779544D1799A4A508825885D000BEFB8?OpenDocument",
+        "date": "9-Jun-2022",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Tetsa River Services Campground - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Routine",
+          "inspection_date": "June 09, 2022",
+          "follow_up_required": "No",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:02:46.641215"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:04.993583"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "United Initiators Canada Ltd",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A2A57F611523A608882585C800798FEA",
+    "scraped_at": "2026-05-08T18:36:57.762114",
+    "location_summary": "Prince George",
+    "connections": "2-14 Connections",
+    "facility_name": "United Initiators Canada Ltd",
+    "facility_location": "2147 Pulpmill Road, Prince George, V2N 2S6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:08.110934"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Valhalla Creek Water System",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9509A3A404A4B9C38825822F0001E467",
+    "scraped_at": "2026-05-08T18:36:57.762134",
+    "location_summary": "Regional District - Kitimat-Stikine",
+    "connections": "2-14 Connections",
+    "facility_name": "Valhalla Creek Water System",
+    "facility_location": "5203 Gossen Creek Street, Regional District - Kitimat-Stikine, V8G 0A6",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:11.219353"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Venator Ranch Ltd.",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F98E83AB6CFD6C7A87258910006B2140",
+    "scraped_at": "2026-05-08T18:36:57.762154",
+    "location_summary": "Hudson's Hope",
+    "connections": "1 Public Connection",
+    "facility_name": "Venator Ranch Ltd.",
+    "facility_location": "5594 Beryl Prairie Road, Hudson's Hope, V0C 1V0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/B026FF7C9C95F59688258D8700697F31?OpenDocument",
+        "date": "4-Apr-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Venator Ranch Ltd. - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Routine",
+          "inspection_date": "April 04, 2025",
+          "follow_up_required": "Yes",
+          "details_fetched_at": "2026-05-09T13:02:56.834958"
+        }
+      },
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/206B27302DA0B47688258A6300068099?OpenDocument",
+        "date": "18-Oct-2023",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Venator Ranch Ltd. - Inspection Report",
+          "facility_type": "WS4",
+          "inspection_type": "Initial",
+          "inspection_date": "October 18, 2023",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:03:01.985385"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:14.325667"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "Walker Camp",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=636349209B99C79388258B8F00655543",
+    "scraped_at": "2026-05-08T18:36:57.762173",
+    "location_summary": "Prince George",
+    "connections": "1 Public Connection",
+    "facility_name": "Walker Camp",
+    "facility_location": "Prince George",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:17.443901"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "West Coast Fishing Club - The Clubhouse",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=825B4EB60C2B0C6786256A40006BB82C",
+    "scraped_at": "2026-05-08T18:36:57.762194",
+    "location_summary": "North Coast Regional District",
+    "connections": "2-14 Connections",
+    "facility_name": "West Coast Fishing Club - The Clubhouse",
+    "facility_location": "Henslung Cove, Langara Island, Haida Gwaii, North Coast Regional District",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Unknown",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:20.555570"
+  },
+  {
+    "notice_type": "Water Quality Advisory",
+    "name": "West Coast Fishing Club - The Outpost",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=1BA651F5E5EDBD4888256BF400621D54",
+    "scraped_at": "2026-05-08T18:36:57.762214",
+    "location_summary": "North Coast Regional District",
+    "connections": "2-14 Connections",
+    "facility_name": "West Coast Fishing Club - The Outpost",
+    "facility_location": "Port Louis, Graham Island, Haida Gwaii, North Coast Regional District, V2B 1B8",
+    "facility_type": "2-14 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Initial Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/410345B2D3A2F6CE88258D0A007FED5F?OpenDocument",
+        "date": "5-Sep-2025",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "West Coast Fishing Club - The Outpost - Inspection Report",
+          "facility_type": "WS3",
+          "inspection_type": "Initial",
+          "inspection_date": "September 05, 2025",
+          "follow_up_required": "No",
+          "details_fetched_at": "2026-05-09T13:03:12.089062"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:23.668494"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Whiskers Bay Resort",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0B8186B43741A5AE882569E6007B4B03",
+    "scraped_at": "2026-05-08T18:36:57.762234",
+    "location_summary": "Fraser Fort George Regional District",
+    "connections": "15-300 Connections",
+    "facility_name": "Whiskers Bay Resort",
+    "facility_location": "48333 Hart Highway, Fraser Fort George Regional District, V0J 2G0",
+    "facility_type": "15-300 Connections",
+    "current_hazard_rating": "Low",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "Routine Inspection",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory/31E1FBA08A108D91882586FE0068CB17?OpenDocument",
+        "date": "22-Jun-2021",
+        "hazard_rating": "Low",
+        "details": {
+          "title": "Whiskers Bay Resort - Inspection Report",
+          "facility_type": "WS2",
+          "inspection_type": "Routine",
+          "inspection_date": "June 22, 2021",
+          "follow_up_required": "Yes",
+          "violations": [],
+          "details_fetched_at": "2026-05-09T13:03:22.192225"
+        }
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:26.782244"
+  },
+  {
+    "notice_type": "Boil Water Notice",
+    "name": "Willow River General Store",
+    "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4733E0259ACF831F882569E6007E87CB",
+    "scraped_at": "2026-05-08T18:36:57.762256",
+    "location_summary": "Willow River",
+    "connections": "1 Public Connection",
+    "facility_name": "Willow River General Store",
+    "facility_location": "488 Railway Avenue, Willow River, V0J 3C0",
+    "facility_type": "1 Public Connection",
+    "current_hazard_rating": "High",
+    "notice_details": {},
+    "inspections": [
+      {
+        "document_type": "There are no inspection details available for this facility.",
+        "details_url": null
+      }
+    ],
+    "details_fetched_at": "2026-05-08T20:49:29.897781"
+  }
+]

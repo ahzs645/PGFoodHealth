@@ -1,0 +1,21 @@
+{
+  "id": "run-20260510052000-e424c7",
+  "job_id": null,
+  "template_id": "healthspace-prince-george-food-list",
+  "template_name": "HealthSpace Prince George Food List",
+  "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+  "fetcher": "stealthy",
+  "started_at": "2026-05-10T05:20:00Z",
+  "finished_at": "2026-05-10T05:20:01Z",
+  "status": "success",
+  "error": null,
+  "result": {
+    "url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Food-List-ByName?OpenView&RestrictToCategory=FD4BF9F2DD74F5A2FC5B1DE44C0A8E31&Count=30",
+    "fetched_at": "2026-05-10T05:20:01Z",
+    "fetcher": "stealthy",
+    "data": {
+      "rows": [],
+      "detail_links": []
+    }
+  }
+}
