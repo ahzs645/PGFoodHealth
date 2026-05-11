@@ -1,0 +1,26 @@
+{
+  "combined_count": 693,
+  "healthspace_count": 151,
+  "watertoday_count": 588,
+  "record_type_counts": {
+    "combined_notice": 151,
+    "watertoday_only_notice": 542
+  },
+  "merge_bucket_counts": {
+    "same_notice": 12,
+    "watertoday_only": 542,
+    "same_notice_promoted_from_embedded_detail": 12,
+    "no_clear_match": 92,
+    "same_notice_promoted_from_detail": 17,
+    "same_notice_needs_review": 10,
+    "same_facility_confirmed": 4,
+    "same_facility_aggregate": 3,
+    "do_not_link": 1
+  },
+  "primary_source_counts": {
+    "HealthSpace": 151,
+    "WaterToday": 542
+  },
+  "with_coordinates": 693,
+  "with_multiple_sources": 58
+}

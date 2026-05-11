@@ -37,10 +37,18 @@ def make_session():
     return session
 
 
-def fetch_html(session, url):
-    response = session.get(url, timeout=30)
-    response.raise_for_status()
-    return response.content.decode(response.encoding or "latin-1", errors="replace")
+def fetch_html(session, url, timeout=30, attempts=1):
+    last_exc = None
+    for attempt in range(attempts):
+        try:
+            response = session.get(url, timeout=timeout)
+            response.raise_for_status()
+            return response.content.decode(response.encoding or "latin-1", errors="replace")
+        except Exception as exc:
+            last_exc = exc
+            if attempt + 1 < attempts:
+                time.sleep(1 + attempt)
+    raise last_exc
 
 
 def parse_bc_list(html):
@@ -136,10 +144,24 @@ def save_json(data, path):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+def load_existing(path):
+    source = Path(path)
+    if not source.exists():
+        return {}
+    with source.open("r", encoding="utf-8") as f:
+        records = json.load(f)
+    return {
+        item["details_url"]: item
+        for item in records
+        if isinstance(item, dict) and item.get("details_url")
+    }
+
+
 def main():
     parser = argparse.ArgumentParser(description="Download WaterToday BC advisories")
     parser.add_argument("--output", default="data/water/watertoday_bc_advisories.json")
     parser.add_argument("--details", action="store_true", help="Fetch individual detail pages")
+    parser.add_argument("--reuse-existing", action="store_true", help="Reuse detail fields already present in the output file")
     parser.add_argument("--limit", type=int, default=None, help="Limit records for test runs")
     parser.add_argument("--delay", type=float, default=0.2, help="Delay between detail requests")
     args = parser.parse_args()
@@ -148,7 +170,7 @@ def main():
     advisories = parse_bc_list(fetch_html(session, BC_LIST_URL))
 
     try:
-        markers = parse_bc_markers(fetch_html(session, BC_MARKERS_URL))
+        markers = parse_bc_markers(fetch_html(session, BC_MARKERS_URL, timeout=90, attempts=3))
         for advisory in advisories:
             matches = markers.get(match_key(advisory["name"])) or []
             if matches:
@@ -160,9 +182,17 @@ def main():
     if args.limit is not None:
         advisories = advisories[: args.limit]
 
+    existing = load_existing(args.output) if args.reuse_existing else {}
+
     if args.details:
         for index, advisory in enumerate(advisories, start=1):
             if not advisory.get("details_url"):
+                continue
+            cached = existing.get(advisory["details_url"])
+            if cached and not cached.get("detail_error"):
+                for key in ("detail_type", "status", "issued", "details"):
+                    if key in cached:
+                        advisory[key] = cached[key]
                 continue
             print(f"[{index}/{len(advisories)}] {advisory['name']}")
             try:

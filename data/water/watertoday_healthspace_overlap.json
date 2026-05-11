@@ -1,0 +1,4104 @@
+{
+  "summary": {
+    "healthspace_count": 151,
+    "watertoday_count": 588,
+    "bucket_counts": {
+      "same_facility_possible": 8,
+      "no_clear_match": 121,
+      "same_notice": 22
+    },
+    "healthspace_notice_types": {
+      "Boil Water Notice": 107,
+      "Water Quality Advisory": 37,
+      "Do Not Consume": 7
+    },
+    "watertoday_advisory_types": {
+      "Boil Water": 454,
+      "Water Quality Advisory": 78,
+      "Spill": 1,
+      "Cyanobacteria Bloom": 12,
+      "Do Not Consume": 39,
+      "Severe Shortage": 4
+    },
+    "watertoday_with_coordinates": 588
+  },
+  "matches": [
+    {
+      "bucket": "same_facility_possible",
+      "score": 0.912,
+      "name_ratio": 0.912,
+      "token_jaccard": 0.667,
+      "distance_km": 0.457,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "10 Mile Lake Provincial Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Jul-2021",
+        "start_date_iso": "2021-07-09",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=10C1B8FEAFD3251988256FF0005C8160",
+        "latitude": 53.0732573,
+        "longitude": -122.4498901
+      },
+      "watertoday": {
+        "name": "TEN MILE LAKE PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "6/16/2025",
+        "since_iso": "2025-06-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36484",
+        "latitude": 53.07038402710586,
+        "longitude": -122.44500252967012
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.865,
+      "name_ratio": 0.865,
+      "token_jaccard": 0.0,
+      "distance_km": 436.327,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Alamo Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "30-Nov-2025",
+        "start_date_iso": "2025-11-30",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=12AB3EA95467E7A78825772800560647",
+        "latitude": 52.8315205,
+        "longitude": -122.4194937
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.667,
+      "name_ratio": 0.667,
+      "token_jaccard": 0.0,
+      "distance_km": 608.965,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Babine Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "14-Dec-2023",
+        "start_date_iso": "2023-12-14",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=348D2761D113463F882569DF00812771",
+        "latitude": 54.18437789999999,
+        "longitude": -125.4948134
+      },
+      "watertoday": {
+        "name": "Paradise Camp",
+        "advisory_type": "Boil Water",
+        "since": "3/10/2022",
+        "since_iso": "2022-03-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29656",
+        "latitude": 50.369444,
+        "longitude": -119.063611
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 0.455,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Babine Lake Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Jun-2018",
+        "start_date_iso": "2018-06-21",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=67E7CC258A6CD94088256B0D007E0F21",
+        "latitude": 54.2334148,
+        "longitude": -125.763613
+      },
+      "watertoday": {
+        "name": "Babine Lake Resort",
+        "advisory_type": "Boil Water",
+        "since": "6/21/2018",
+        "since_iso": "2018-06-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=19097",
+        "latitude": 54.229522,
+        "longitude": -125.76144
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.744,
+      "name_ratio": 0.744,
+      "token_jaccard": 0.0,
+      "distance_km": 896.024,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Barendregt Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Apr-2018",
+        "start_date_iso": "2018-04-09",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E8A7A38B4CC3B16388257EBD0074DAFF",
+        "latitude": 54.7773412,
+        "longitude": -127.1074725
+      },
+      "watertoday": {
+        "name": "BALFOUR Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/5/2026",
+        "since_iso": "2026-02-05",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43117",
+        "latitude": 49.627803,
+        "longitude": -116.965603
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.542,
+      "name_ratio": 0.542,
+      "token_jaccard": 0.5,
+      "distance_km": 19.115,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "BCR Industrial Site Fort St. James",
+        "notice_type": "Boil Water Notice",
+        "start_date": "31-Jul-2020",
+        "start_date_iso": "2020-07-31",
+        "location_summary": "Fort St James",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5ECF1C94A290FB1188257140006600BE",
+        "latitude": 54.5705562,
+        "longitude": -124.4734736
+      },
+      "watertoday": {
+        "name": "FORT ST JAMES (5)",
+        "advisory_type": "Do Not Consume",
+        "since": "1/19/2024",
+        "since_iso": "2024-01-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34290",
+        "latitude": 54.449,
+        "longitude": -124.2641
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.491,
+      "name_ratio": 0.491,
+      "token_jaccard": 0.0,
+      "distance_km": 247.857,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Bearberry Meadows Guesthouse",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "26-Jan-2023",
+        "start_date_iso": "2023-01-26",
+        "location_summary": "Valemount",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4BAD79BBBC2B3636882577CF007004EA",
+        "latitude": 52.96471039999999,
+        "longitude": -119.4355411
+      },
+      "watertoday": {
+        "name": "McQUEEN LAKE WS Washhouse",
+        "advisory_type": "Boil Water",
+        "since": "9/26/2024",
+        "since_iso": "2024-09-26",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38133",
+        "latitude": 50.82473,
+        "longitude": -120.44668
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.64,
+      "name_ratio": 0.64,
+      "token_jaccard": 0.25,
+      "distance_km": 682.801,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Bearclaw Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "22-Oct-2021",
+        "start_date_iso": "2021-10-22",
+        "location_summary": "Hazelton",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=89ADDB86B5C92B5988257DEB006D97F4",
+        "latitude": 55.2591374,
+        "longitude": -127.6646078
+      },
+      "watertoday": {
+        "name": "C-Dar Lodge",
+        "advisory_type": "Boil Water",
+        "since": "6/19/2019",
+        "since_iso": "2019-06-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=21914",
+        "latitude": 49.76698,
+        "longitude": -123.140431
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.462,
+      "name_ratio": 0.462,
+      "token_jaccard": 0.0,
+      "distance_km": 569.651,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Bearpaw Heli Skiing",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Feb-2012",
+        "start_date_iso": "2012-02-01",
+        "location_summary": "Sinclair Mills",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=43FA11A15838506588257984005AB3B7",
+        "latitude": 54.01550470000001,
+        "longitude": -121.6713158
+      },
+      "watertoday": {
+        "name": "FAIRMONT HOT SPRINGS",
+        "advisory_type": "Boil Water",
+        "since": "3/7/2026",
+        "since_iso": "2026-03-07",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43236",
+        "latitude": 50.335926,
+        "longitude": -115.851185
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.619,
+      "name_ratio": 0.619,
+      "token_jaccard": 0.2,
+      "distance_km": 594.112,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Beaver Point Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "13-Aug-2021",
+        "start_date_iso": "2021-08-13",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E79C3F0B7B978152882569CB00186DB1",
+        "latitude": 54.083333,
+        "longitude": -125.733333
+      },
+      "watertoday": {
+        "name": "LIARD HOTSPRINGS RESORT",
+        "advisory_type": "Boil Water",
+        "since": "10/20/2017",
+        "since_iso": "2017-10-20",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=17780",
+        "latitude": 59.422611,
+        "longitude": -126.097126
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.5,
+      "name_ratio": 0.5,
+      "token_jaccard": 0.143,
+      "distance_km": 631.346,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Bell Mountain Good Neighbour CWS",
+        "notice_type": "Boil Water Notice",
+        "start_date": "11-Mar-2003",
+        "start_date_iso": "2003-03-11",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DCB4FB8CC5348250882569CB00186E36",
+        "latitude": 53.3220522,
+        "longitude": -120.2470335
+      },
+      "watertoday": {
+        "name": "Rocky Mountain Lodge",
+        "advisory_type": "Boil Water",
+        "since": "8/4/2020",
+        "since_iso": "2020-08-04",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25126",
+        "latitude": 58.844724,
+        "longitude": -122.616741
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 0.046,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Benjamin Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "7-Feb-2024",
+        "start_date_iso": "2024-02-07",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CB2AF63443ED0CFB8825835400792583",
+        "latitude": 52.956366,
+        "longitude": -122.4373016
+      },
+      "watertoday": {
+        "name": "BENJAMIN WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "10/21/2022",
+        "since_iso": "2022-10-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34931",
+        "latitude": 52.95625926649848,
+        "longitude": -122.43664526145318
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.5,
+      "name_ratio": 0.5,
+      "token_jaccard": 0.0,
+      "distance_km": 757.254,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Beryl Prairie Spring",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "3-May-2024",
+        "start_date_iso": "2024-05-03",
+        "location_summary": "Hudson's Hope",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0D8EB730F1EB3EAA88256A460066581E",
+        "latitude": 56.0548228,
+        "longitude": -122.0415505
+      },
+      "watertoday": {
+        "name": "FAIRMONT HOT SPRINGS",
+        "advisory_type": "Boil Water",
+        "since": "3/7/2026",
+        "since_iso": "2026-03-07",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43236",
+        "latitude": 50.335926,
+        "longitude": -115.851185
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.565,
+      "name_ratio": 0.565,
+      "token_jaccard": 0.4,
+      "distance_km": 147.326,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Birch Bay Resort and Cabins",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Jun-2023",
+        "start_date_iso": "2023-06-09",
+        "location_summary": "Fraser Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CFB206A401896488882588CB00779AE5",
+        "latitude": 54.0911391,
+        "longitude": -124.8388374
+      },
+      "watertoday": {
+        "name": "Whiskers Bay Resort",
+        "advisory_type": "Boil Water",
+        "since": "7/19/2019",
+        "since_iso": "2019-07-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=22225",
+        "latitude": 54.498174,
+        "longitude": -122.6783
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.444,
+      "name_ratio": 0.444,
+      "token_jaccard": 0.0,
+      "distance_km": 219.001,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Brkich MHP",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "17-Jun-2025",
+        "start_date_iso": "2025-06-17",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=303412E45BD91A4E882569E0006C76AF",
+        "latitude": 53.8464014,
+        "longitude": -122.7060325
+      },
+      "watertoday": {
+        "name": "Tahtsa Reach Camp",
+        "advisory_type": "Boil Water",
+        "since": "6/24/2022",
+        "since_iso": "2022-06-24",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=30794",
+        "latitude": 53.806821,
+        "longitude": -126.042532
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.545,
+      "name_ratio": 0.545,
+      "token_jaccard": 0.0,
+      "distance_km": 551.89,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Bulkley Field & Stream",
+        "notice_type": "Boil Water Notice",
+        "start_date": "10-Jun-2022",
+        "start_date_iso": "2022-06-10",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5499A89B5E814A4288257F0000785637",
+        "latitude": 54.6666341,
+        "longitude": -126.9974562
+      },
+      "watertoday": {
+        "name": "LOON LAKE Firehall Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/20/2025",
+        "since_iso": "2025-02-20",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39612",
+        "latitude": 51.083653,
+        "longitude": -121.299586
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.64,
+      "name_ratio": 0.64,
+      "token_jaccard": 0.2,
+      "distance_km": 572.675,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Cale Creek Water Club",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-May-2025",
+        "start_date_iso": "2025-05-01",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7A1905FE93E547E5882569CB00186869",
+        "latitude": 53.7510971,
+        "longitude": -122.6845506
+      },
+      "watertoday": {
+        "name": "SCHROEDER CREEK Water Society",
+        "advisory_type": "Boil Water",
+        "since": "9/25/2015",
+        "since_iso": "2015-09-25",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35566",
+        "latitude": 50.0336987707523,
+        "longitude": -116.90128956102411
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.531,
+      "name_ratio": 0.531,
+      "token_jaccard": 0.143,
+      "distance_km": 627.073,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Cameron Lake Outdoor Rec. Facility",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Oct-2020",
+        "start_date_iso": "2020-10-09",
+        "location_summary": "Hudson's Hope",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=458370ADBDF6F416072573060064E250",
+        "latitude": 56.0252449,
+        "longitude": -121.9270268
+      },
+      "watertoday": {
+        "name": "Monte Lake Store",
+        "advisory_type": "Boil Water",
+        "since": "11/10/2021",
+        "since_iso": "2021-11-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29100",
+        "latitude": 50.52668,
+        "longitude": -119.82728
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.526,
+      "name_ratio": 0.526,
+      "token_jaccard": 0.0,
+      "distance_km": 415.878,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Camp Hughes",
+        "notice_type": "Boil Water Notice",
+        "start_date": "25-Aug-2025",
+        "start_date_iso": "2025-08-25",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D1EB9EC613FA9A68882569E0007A6291",
+        "latitude": 53.71980259999999,
+        "longitude": -122.8710102
+      },
+      "watertoday": {
+        "name": "SICAMOUS",
+        "advisory_type": "Do Not Consume",
+        "since": "2/12/2026",
+        "since_iso": "2026-02-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43163",
+        "latitude": 50.83323,
+        "longitude": -118.98116
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.708,
+      "name_ratio": 0.708,
+      "token_jaccard": 0.0,
+      "distance_km": 716.302,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Camp Sagitawa Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "25-Aug-2025",
+        "start_date_iso": "2025-08-25",
+        "location_summary": "Moberly Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F71E7334B9D090DB87256AA8006038A0",
+        "latitude": 55.832707,
+        "longitude": -121.707374
+      },
+      "watertoday": {
+        "name": "SAGE MESA WATER SYSTEM",
+        "advisory_type": "Boil Water",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=33286",
+        "latitude": 49.51536,
+        "longitude": -119.62208
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.458,
+      "name_ratio": 0.458,
+      "token_jaccard": 0.0,
+      "distance_km": 891.586,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Camp Yak'isda Bik'ah",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Jun-2013",
+        "start_date_iso": "2013-06-04",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A71CC44FA043F98A88256B72007D159E",
+        "latitude": 54.729933,
+        "longitude": -127.0509944
+      },
+      "watertoday": {
+        "name": "CHAMPION LAKES PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "8/25/2023",
+        "since_iso": "2023-08-25",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35585",
+        "latitude": 49.185303747628076,
+        "longitude": -117.62352852025457
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.571,
+      "name_ratio": 0.571,
+      "token_jaccard": 0.0,
+      "distance_km": 547.149,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Canfor Intercon",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Dec-2024",
+        "start_date_iso": "2024-12-09",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D68777E8D139673788256A1F006835ED",
+        "latitude": 53.9242884,
+        "longitude": -122.6961073
+      },
+      "watertoday": {
+        "name": "FORT NELSON (2)",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/10/2025",
+        "since_iso": "2025-07-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40963",
+        "latitude": 58.844724,
+        "longitude": -122.616741
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.583,
+      "name_ratio": 0.583,
+      "token_jaccard": 0.0,
+      "distance_km": 339.401,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Carrier Lumber",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Jul-2020",
+        "start_date_iso": "2020-07-21",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=25F97BCD9690A71A882573B100786FD8",
+        "latitude": 53.7957946,
+        "longitude": -122.7157592
+      },
+      "watertoday": {
+        "name": "BARRIERE (7)",
+        "advisory_type": "Boil Water",
+        "since": "3/3/2024",
+        "since_iso": "2024-03-03",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35545",
+        "latitude": 51.18307,
+        "longitude": -120.122647
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.478,
+      "name_ratio": 0.478,
+      "token_jaccard": 0.0,
+      "distance_km": 798.134,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Cassiar Jade Contracting",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "4-Nov-2020",
+        "start_date_iso": "2020-11-04",
+        "location_summary": "Cassiar",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CE72B2DCB4C8919988257EBD00592DAB",
+        "latitude": 59.28214999999999,
+        "longitude": -129.816895
+      },
+      "watertoday": {
+        "name": "Anahim Lake Trading WS",
+        "advisory_type": "Boil Water",
+        "since": "5/30/2018",
+        "since_iso": "2018-05-30",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=7338",
+        "latitude": 52.583675,
+        "longitude": -125.19208
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.526,
+      "name_ratio": 0.526,
+      "token_jaccard": 0.0,
+      "distance_km": 208.565,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Chemtrade",
+        "notice_type": "Boil Water Notice",
+        "start_date": "30-Mar-2026",
+        "start_date_iso": "2026-03-30",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=26ADA239E9F6859188256A5D006CCC08",
+        "latitude": 53.9244571,
+        "longitude": -122.6913501
+      },
+      "watertoday": {
+        "name": "CHETWYND (3)",
+        "advisory_type": "Boil Water",
+        "since": "9/22/2023",
+        "since_iso": "2023-09-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34784",
+        "latitude": 55.697588,
+        "longitude": -121.629632
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.791,
+      "name_ratio": 0.791,
+      "token_jaccard": 0.0,
+      "distance_km": 701.81,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Clausen Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "16-Nov-2020",
+        "start_date_iso": "2020-11-16",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BA343731F7DB6B06882581CA00797C40",
+        "latitude": 54.77391189999999,
+        "longitude": -127.1193485
+      },
+      "watertoday": {
+        "name": "CEDAR LANE WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2021",
+        "since_iso": "2021-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36897",
+        "latitude": 48.87096905732864,
+        "longitude": -123.49532176579075
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.462,
+      "name_ratio": 0.462,
+      "token_jaccard": 0.0,
+      "distance_km": 352.641,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Corey Road H2O Agreement",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "28-Jul-2022",
+        "start_date_iso": "2022-07-28",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EBFD1FE1D58012068825852E00585C1E",
+        "latitude": 52.8885634,
+        "longitude": -122.4718923
+      },
+      "watertoday": {
+        "name": "CORTES ISLAND (2)",
+        "advisory_type": "Boil Water",
+        "since": "9/13/2021",
+        "since_iso": "2021-09-13",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=4837",
+        "latitude": 50.116728,
+        "longitude": -124.948928
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.453,
+      "name_ratio": 0.453,
+      "token_jaccard": 0.0,
+      "distance_km": 413.071,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Cottonwood House Historic Site",
+        "notice_type": "Boil Water Notice",
+        "start_date": "22-Jul-2020",
+        "start_date_iso": "2020-07-22",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0744A7CC69CC273288256C84006662BC",
+        "latitude": 53.05325180000001,
+        "longitude": -122.1588929
+      },
+      "watertoday": {
+        "name": "KICKING HORSE REST AREA",
+        "advisory_type": "Do Not Consume",
+        "since": "8/27/2018",
+        "since_iso": "2018-08-27",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35582",
+        "latitude": 51.28956523585938,
+        "longitude": -116.82549552835398
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.557,
+      "name_ratio": 0.557,
+      "token_jaccard": 0.143,
+      "distance_km": 947.122,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dease Lake Air Tanker Base Water System (building #72116)",
+        "notice_type": "Do Not Consume",
+        "start_date": "13-Mar-2026",
+        "start_date_iso": "2026-03-13",
+        "location_summary": "Dease Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0D9A3B4ACED8D050882582240075E5FC",
+        "latitude": 58.4205398,
+        "longitude": -130.0266017
+      },
+      "watertoday": {
+        "name": "HORSE LAKE WATER SYSTEM (2)",
+        "advisory_type": "Boil Water",
+        "since": "5/21/2025",
+        "since_iso": "2025-05-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34891",
+        "latitude": 51.58152234389777,
+        "longitude": -121.13071652829319
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.76,
+      "name_ratio": 0.76,
+      "token_jaccard": 0.4,
+      "distance_km": 434.526,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Decker Lake Forest Products",
+        "notice_type": "Boil Water Notice",
+        "start_date": "31-Mar-2006",
+        "start_date_iso": "2006-03-31",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B43B9FD28DE553F2882570FC005936A7",
+        "latitude": 54.3501011,
+        "longitude": -125.9261285
+      },
+      "watertoday": {
+        "name": "Western Forest Products",
+        "advisory_type": "Boil Water",
+        "since": "6/14/2023",
+        "since_iso": "2023-06-14",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=33731",
+        "latitude": 50.65535,
+        "longitude": -128.019087
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.576,
+      "name_ratio": 0.576,
+      "token_jaccard": 0.143,
+      "distance_km": 771.092,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Decker Lake Mennonite School",
+        "notice_type": "Boil Water Notice",
+        "start_date": "12-Jun-2020",
+        "start_date_iso": "2020-06-12",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=543F9A34A24F915F882584B800771362",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462
+      },
+      "watertoday": {
+        "name": "BRENT KENNEDY ELEMENTARY SCHOOL",
+        "advisory_type": "Do Not Consume",
+        "since": "5/29/2017",
+        "since_iso": "2017-05-29",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35651",
+        "latitude": 49.443557,
+        "longitude": -117.581094
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 0.004,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Dodge Cove Community Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "31-Mar-1988",
+        "start_date_iso": "1988-03-31",
+        "location_summary": "North Coast Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=00832E606560DF23882569C800801F63",
+        "latitude": 54.2878363,
+        "longitude": -130.3876883
+      },
+      "watertoday": {
+        "name": "DODGE COVE Community Water System",
+        "advisory_type": "Boil Water",
+        "since": "3/31/1988",
+        "since_iso": "1988-03-31",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35342",
+        "latitude": 54.2878,
+        "longitude": -130.3877
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.581,
+      "name_ratio": 0.581,
+      "token_jaccard": 0.0,
+      "distance_km": 711.118,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dolly Varden Silver",
+        "notice_type": "Boil Water Notice",
+        "start_date": "31-Aug-2020",
+        "start_date_iso": "2020-08-31",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B155B856AA65AFFE882578F6007A1A99",
+        "latitude": 55.482822,
+        "longitude": -129.489969
+      },
+      "watertoday": {
+        "name": "POWELL RIVER",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/16/2026",
+        "since_iso": "2026-03-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43333",
+        "latitude": 49.83737,
+        "longitude": -124.52286
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.638,
+      "name_ratio": 0.638,
+      "token_jaccard": 0.167,
+      "distance_km": 456.32,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dolphin's North Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Jul-2015",
+        "start_date_iso": "2015-07-16",
+        "location_summary": "North Coast Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0EF79890A94286548825761D00705DC1",
+        "latitude": 54.4829679,
+        "longitude": -130.2126846
+      },
+      "watertoday": {
+        "name": "Coastal Springs Float Lodge",
+        "advisory_type": "Boil Water",
+        "since": "7/10/2018",
+        "since_iso": "2018-07-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=19230",
+        "latitude": 50.721848,
+        "longitude": -127.506524
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.821,
+      "name_ratio": 0.821,
+      "token_jaccard": 0.0,
+      "distance_km": 654.684,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Douglas Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "24-Sep-2008",
+        "start_date_iso": "2008-09-24",
+        "location_summary": "Fort St James",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=955E5559A1943CA3882573C4008007A2",
+        "latitude": 54.4619322,
+        "longitude": -124.3065427
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.774,
+      "name_ratio": 0.774,
+      "token_jaccard": 0.25,
+      "distance_km": 834.652,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dungate Water Users Community",
+        "notice_type": "Boil Water Notice",
+        "start_date": "12-Nov-2014",
+        "start_date_iso": "2014-11-12",
+        "location_summary": "Houston",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=15755F7F2974FB75882569C900141008",
+        "latitude": 54.385421,
+        "longitude": -126.631923
+      },
+      "watertoday": {
+        "name": "Sandy Creek Water Users Community",
+        "advisory_type": "Boil Water",
+        "since": "4/1/1992",
+        "since_iso": "1992-04-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35659",
+        "latitude": 49.48503950345321,
+        "longitude": -117.38698960279145
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.577,
+      "name_ratio": 0.577,
+      "token_jaccard": 0.0,
+      "distance_km": 428.571,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dunster Community Hall",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Apr-2008",
+        "start_date_iso": "2008-04-15",
+        "location_summary": "Dunster",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F06A1BE07A16EF178825738B0068A0AD",
+        "latitude": 53.1516041,
+        "longitude": -119.8224066
+      },
+      "watertoday": {
+        "name": "DEL ORO Community Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/25/2025",
+        "since_iso": "2025-03-25",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34962",
+        "latitude": 49.297985,
+        "longitude": -119.712784
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.476,
+      "name_ratio": 0.476,
+      "token_jaccard": 0.125,
+      "distance_km": 438.34,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dunster Fine Arts School Society",
+        "notice_type": "Boil Water Notice",
+        "start_date": "7-Aug-2019",
+        "start_date_iso": "2019-08-07",
+        "location_summary": "Dunster",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9B169695D5DC15398825847000788D83",
+        "latitude": 53.1247283,
+        "longitude": -119.8382348
+      },
+      "watertoday": {
+        "name": "BRENT KENNEDY ELEMENTARY SCHOOL",
+        "advisory_type": "Do Not Consume",
+        "since": "5/29/2017",
+        "since_iso": "2017-05-29",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35651",
+        "latitude": 49.443557,
+        "longitude": -117.581094
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.558,
+      "name_ratio": 0.558,
+      "token_jaccard": 0.0,
+      "distance_km": 574.937,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dynamic Reforestation 2",
+        "notice_type": "Boil Water Notice",
+        "start_date": "12-Jul-2024",
+        "start_date_iso": "2024-07-12",
+        "location_summary": "Mobile Camp",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8D9419C282C96E928825786A0065115E",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206
+      },
+      "watertoday": {
+        "name": "Nicomen First Nation",
+        "advisory_type": "Boil Water",
+        "since": "7/22/2022",
+        "since_iso": "2022-07-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=31734",
+        "latitude": 50.266667,
+        "longitude": -121.399722
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.558,
+      "name_ratio": 0.558,
+      "token_jaccard": 0.0,
+      "distance_km": 574.937,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Dynamic Reforestation 3",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Jun-2021",
+        "start_date_iso": "2021-06-04",
+        "location_summary": "Mobile Camp",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6F8A92CBD3579F5F88257CC4007B47CB",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206
+      },
+      "watertoday": {
+        "name": "Nicomen First Nation",
+        "advisory_type": "Boil Water",
+        "since": "7/22/2022",
+        "since_iso": "2022-07-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=31734",
+        "latitude": 50.266667,
+        "longitude": -121.399722
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.833,
+      "name_ratio": 0.833,
+      "token_jaccard": 0.75,
+      "distance_km": 5.919,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Edgewood Mobile Home Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "26-Jul-2021",
+        "start_date_iso": "2021-07-26",
+        "location_summary": "Baldonnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9EAF94161AE53650072584F100632233",
+        "latitude": 56.2108526,
+        "longitude": -120.7152004
+      },
+      "watertoday": {
+        "name": "BALDONNEL (Edgewood Mobile Home Park)",
+        "advisory_type": "Boil Water",
+        "since": "7/26/2021",
+        "since_iso": "2021-07-26",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35343",
+        "latitude": 56.264047,
+        "longitude": -120.718822
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 268.562,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Finlay River Outfitters",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "3-Nov-2020",
+        "start_date_iso": "2020-11-03",
+        "location_summary": "Fraser Fort George Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CC56580C0B36EC82882575B600520AFC",
+        "latitude": 55.983858,
+        "longitude": -123.833143
+      },
+      "watertoday": {
+        "name": "Finlay River Outfitters",
+        "advisory_type": "Boil Water",
+        "since": "11/3/2020",
+        "since_iso": "2020-11-03",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25972",
+        "latitude": 53.9291,
+        "longitude": -121.6215
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.714,
+      "name_ratio": 0.714,
+      "token_jaccard": 0.0,
+      "distance_km": 885.511,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Fir Bluff Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "30-Aug-2010",
+        "start_date_iso": "2010-08-30",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=AA59BDF5BE6863E8882569C800805246",
+        "latitude": 54.69769729999999,
+        "longitude": -127.0047048
+      },
+      "watertoday": {
+        "name": "BALFOUR Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/5/2026",
+        "since_iso": "2026-02-05",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43117",
+        "latitude": 49.627803,
+        "longitude": -116.965603
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.764,
+      "name_ratio": 0.764,
+      "token_jaccard": 0.333,
+      "distance_km": 601.333,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Forest Lawn Mobile Home Park",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "9-Sep-2021",
+        "start_date_iso": "2021-09-09",
+        "location_summary": "Fort St. John",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8AED8A5950C7C82E072584F1005E1CF4",
+        "latitude": 56.22068969999999,
+        "longitude": -120.7547983
+      },
+      "watertoday": {
+        "name": "WHITE LAKE Mobile Home Park",
+        "advisory_type": "Boil Water",
+        "since": "10/17/2025",
+        "since_iso": "2025-10-17",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39329",
+        "latitude": 50.882,
+        "longitude": -119.2995
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.467,
+      "name_ratio": 0.467,
+      "token_jaccard": 0.0,
+      "distance_km": 335.25,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Fox Dairy Farms Ltd",
+        "notice_type": "Boil Water Notice",
+        "start_date": "10-Jul-2009",
+        "start_date_iso": "2009-07-10",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=AA2D0364B6D430B68825759A005F9CB5",
+        "latitude": 52.7511509,
+        "longitude": -122.4530962
+      },
+      "watertoday": {
+        "name": "C-Dar Lodge",
+        "advisory_type": "Boil Water",
+        "since": "6/19/2019",
+        "since_iso": "2019-06-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=21914",
+        "latitude": 49.76698,
+        "longitude": -123.140431
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.528,
+      "name_ratio": 0.528,
+      "token_jaccard": 0.143,
+      "distance_km": 334.766,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Frontier Farwest Fishing Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Aug-2018",
+        "start_date_iso": "2018-08-01",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=04CBEC9B4905C116882583070064898C",
+        "latitude": 54.7141742,
+        "longitude": -127.1229565
+      },
+      "watertoday": {
+        "name": "West Coast Fishing Club",
+        "advisory_type": "Boil Water",
+        "since": "11/16/2020",
+        "since_iso": "2020-11-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=26075",
+        "latitude": 53.74947,
+        "longitude": -132.00343
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.485,
+      "name_ratio": 0.485,
+      "token_jaccard": 0.111,
+      "distance_km": 334.766,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Frontier Farwest Fishing Lodge - South Cabins",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Aug-2018",
+        "start_date_iso": "2018-08-01",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0C4FB4FB01D51342882583080054369A",
+        "latitude": 54.7141742,
+        "longitude": -127.1229565
+      },
+      "watertoday": {
+        "name": "West Coast Fishing Club",
+        "advisory_type": "Boil Water",
+        "since": "11/16/2020",
+        "since_iso": "2020-11-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=26075",
+        "latitude": 53.74947,
+        "longitude": -132.00343
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.744,
+      "name_ratio": 0.744,
+      "token_jaccard": 0.0,
+      "distance_km": 796.655,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Gelley Road Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "4-Nov-2020",
+        "start_date_iso": "2020-11-04",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7D91923DF11355CB882569C90014100F",
+        "latitude": 54.8148871,
+        "longitude": -127.2063624
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.596,
+      "name_ratio": 0.596,
+      "token_jaccard": 0.0,
+      "distance_km": 799.174,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Glacier Gulch Water Group Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "7-Nov-2005",
+        "start_date_iso": "2005-11-07",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9AA8E1F789B3F8428825714C006ECEE2",
+        "latitude": 54.8300508,
+        "longitude": -127.2358687
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.8,
+      "name_ratio": 0.8,
+      "token_jaccard": 0.5,
+      "distance_km": 0.147,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Granisle CWS",
+        "notice_type": "Do Not Consume",
+        "start_date": "14-Dec-2025",
+        "start_date_iso": "2025-12-14",
+        "location_summary": "Granisle",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B390FE32639CFDC4882569CB001312EB",
+        "latitude": 54.8857017,
+        "longitude": -126.2056928
+      },
+      "watertoday": {
+        "name": "GRANISLE",
+        "advisory_type": "Do Not Consume",
+        "since": "12/14/2025",
+        "since_iso": "2025-12-14",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41698",
+        "latitude": 54.88679,
+        "longitude": -126.20699
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 41.454,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Gwillim Lake Provincial Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "23-Aug-2019",
+        "start_date_iso": "2019-08-23",
+        "location_summary": "Lone Prairie",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A2210A49637ABC0B87256BAD00565C23",
+        "latitude": 55.7242147,
+        "longitude": -121.5827197
+      },
+      "watertoday": {
+        "name": "GWILLIM LAKE PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "8/23/2019",
+        "since_iso": "2019-08-23",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=22585",
+        "latitude": 55.371995464063176,
+        "longitude": -121.36678168978271
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.829,
+      "name_ratio": 0.829,
+      "token_jaccard": 0.0,
+      "distance_km": 317.837,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Hamblin Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "26-Sep-2011",
+        "start_date_iso": "2011-09-26",
+        "location_summary": "Houston",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7E28ABBAA9AC63758825724B007EE8C5",
+        "latitude": 54.36651759999999,
+        "longitude": -126.633775
+      },
+      "watertoday": {
+        "name": "BENJAMIN WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "10/21/2022",
+        "since_iso": "2022-10-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34931",
+        "latitude": 52.95625926649848,
+        "longitude": -122.43664526145318
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.588,
+      "name_ratio": 0.588,
+      "token_jaccard": 0.0,
+      "distance_km": 690.154,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Harmony Ridge RV Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "7-Sep-2021",
+        "start_date_iso": "2021-09-07",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0BD5F70989D2711588258B57007040E2",
+        "latitude": 54.6771166,
+        "longitude": -127.0158789
+      },
+      "watertoday": {
+        "name": "COWICHAN RIVER PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "4/18/2019",
+        "since_iso": "2019-04-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36488",
+        "latitude": 48.77567326781492,
+        "longitude": -123.90384126870941
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.56,
+      "name_ratio": 0.56,
+      "token_jaccard": 0.0,
+      "distance_km": 361.635,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Hixon Firehall",
+        "notice_type": "Boil Water Notice",
+        "start_date": "27-Mar-2026",
+        "start_date_iso": "2026-03-27",
+        "location_summary": "Hixon",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=5A0B668928101C48882569E30083CD9B",
+        "latitude": 53.41786219999999,
+        "longitude": -122.5847248
+      },
+      "watertoday": {
+        "name": "Ocean Falls",
+        "advisory_type": "Boil Water",
+        "since": "12/18/2011",
+        "since_iso": "2011-12-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=8827",
+        "latitude": 52.351803,
+        "longitude": -127.678197
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.533,
+      "name_ratio": 0.533,
+      "token_jaccard": 0.0,
+      "distance_km": 216.557,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Hutda Lake Correctional Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "18-Aug-2023",
+        "start_date_iso": "2023-08-18",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=134918D91C73B63A88257242007BC9B3",
+        "latitude": 53.9135917,
+        "longitude": -122.7449123
+      },
+      "watertoday": {
+        "name": "Tahtsa Reach Camp",
+        "advisory_type": "Boil Water",
+        "since": "6/24/2022",
+        "since_iso": "2022-06-24",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=30794",
+        "latitude": 53.806821,
+        "longitude": -126.042532
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.551,
+      "name_ratio": 0.551,
+      "token_jaccard": 0.0,
+      "distance_km": 539.632,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Jackfish Community Association Hall",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "4-Nov-2020",
+        "start_date_iso": "2020-11-04",
+        "location_summary": "Chetwynd",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6D5EFF4A2A8F3C2388256CAE005E524E",
+        "latitude": 55.7209553,
+        "longitude": -121.5792233
+      },
+      "watertoday": {
+        "name": "BLACK PINES Community Water System",
+        "advisory_type": "Boil Water",
+        "since": "3/16/2022",
+        "since_iso": "2022-03-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29888",
+        "latitude": 50.933056,
+        "longitude": -120.25
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.553,
+      "name_ratio": 0.553,
+      "token_jaccard": 0.167,
+      "distance_km": 330.85,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "JD Little Forest Centre",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Mar-2023",
+        "start_date_iso": "2023-03-01",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=27B9342C6AB209DC882569CB00130F59",
+        "latitude": 53.9847771,
+        "longitude": -122.6998115
+      },
+      "watertoday": {
+        "name": "Little Fort - individual (5)",
+        "advisory_type": "Boil Water",
+        "since": "8/15/2017",
+        "since_iso": "2017-08-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=1324",
+        "latitude": 51.424211,
+        "longitude": -120.19737
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.463,
+      "name_ratio": 0.463,
+      "token_jaccard": 0.0,
+      "distance_km": 905.883,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "K & L Water Service - Unit W137 Western Star Unit",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Sep-2025",
+        "start_date_iso": "2025-09-15",
+        "location_summary": "Pink Mountain",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BD088DD2AD7BA8D107257C24005B8E70",
+        "latitude": 57.0396551,
+        "longitude": -122.5097241
+      },
+      "watertoday": {
+        "name": "Sandy Creek Water Users Community",
+        "advisory_type": "Boil Water",
+        "since": "4/1/1992",
+        "since_iso": "1992-04-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35659",
+        "latitude": 49.48503950345321,
+        "longitude": -117.38698960279145
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.571,
+      "name_ratio": 0.571,
+      "token_jaccard": 0.2,
+      "distance_km": 649.008,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Kalum River Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "11-Jul-2025",
+        "start_date_iso": "2025-07-11",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EC539AC9B3D7A46F88258515008363B6",
+        "latitude": 54.6337014,
+        "longitude": -128.4081617
+      },
+      "watertoday": {
+        "name": "C-Dar Lodge",
+        "advisory_type": "Boil Water",
+        "since": "6/19/2019",
+        "since_iso": "2019-06-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=21914",
+        "latitude": 49.76698,
+        "longitude": -123.140431
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.524,
+      "name_ratio": 0.524,
+      "token_jaccard": 0.2,
+      "distance_km": 233.337,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Kasiks Wilderness Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "12-Mar-2026",
+        "start_date_iso": "2026-03-12",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A5C0C3B6ECE4C21A882588590074F4EF",
+        "latitude": 54.31459359999999,
+        "longitude": -129.3524968
+      },
+      "watertoday": {
+        "name": "Babine Lake Resort",
+        "advisory_type": "Boil Water",
+        "since": "6/21/2018",
+        "since_iso": "2018-06-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=19097",
+        "latitude": 54.229522,
+        "longitude": -125.76144
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.72,
+      "name_ratio": 0.72,
+      "token_jaccard": 0.0,
+      "distance_km": 736.734,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Kemess Mine Camp Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "26-Mar-2021",
+        "start_date_iso": "2021-03-26",
+        "location_summary": "Peace River Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6427018B683C2877882582EF005F3B97",
+        "latitude": 55.983858,
+        "longitude": -123.833143
+      },
+      "watertoday": {
+        "name": "Westside Water System",
+        "advisory_type": "Boil Water",
+        "since": "1/18/2023",
+        "since_iso": "2023-01-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=32652",
+        "latitude": 49.882176,
+        "longitude": -119.53559
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.554,
+      "name_ratio": 0.554,
+      "token_jaccard": 0.0,
+      "distance_km": 548.82,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Key Pile Water Well and Treatment System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "10-Jul-2025",
+        "start_date_iso": "2025-07-10",
+        "location_summary": "Fort Nelson",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D7C411B3ECE08E540725785B006C7C4E",
+        "latitude": 58.7499921,
+        "longitude": -121.8797067
+      },
+      "watertoday": {
+        "name": "SEYMOUR LAKE Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/18/2025",
+        "since_iso": "2025-02-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38427",
+        "latitude": 54.750061963490054,
+        "longitude": -127.16337806379148
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 13.317,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "King's Valley Christian Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "28-Sep-2020",
+        "start_date_iso": "2020-09-28",
+        "location_summary": "Rose Prairie",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4EB3FBEC977C32C988256A460062562E",
+        "latitude": 56.56078280000001,
+        "longitude": -120.7057273
+      },
+      "watertoday": {
+        "name": "Kings Valley Christian Camp",
+        "advisory_type": "Boil Water",
+        "since": "10/1/2020",
+        "since_iso": "2020-10-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25752",
+        "latitude": 56.567017,
+        "longitude": -120.488675
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 1.0,
+      "name_ratio": 0.41,
+      "token_jaccard": 1.0,
+      "distance_km": 2.925,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Kitimat Community Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "7-May-2026",
+        "start_date_iso": "2026-05-07",
+        "location_summary": "Kitimat",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EEC6D0ABEE9EF8CE8825736000774A8F",
+        "latitude": 54.06236830468409,
+        "longitude": -128.6458754028484
+      },
+      "watertoday": {
+        "name": "KITIMAT (1)",
+        "advisory_type": "Boil Water",
+        "since": "11/17/2023",
+        "since_iso": "2023-11-17",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35297",
+        "latitude": 54.057316,
+        "longitude": -128.689863
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.571,
+      "name_ratio": 0.571,
+      "token_jaccard": 0.0,
+      "distance_km": 722.607,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Kitwanga Ambulance Station",
+        "notice_type": "Do Not Consume",
+        "start_date": "18-Nov-2020",
+        "start_date_iso": "2020-11-18",
+        "location_summary": "Kitwanga",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E1612AAAA5DEC30E88257F7D00517569",
+        "latitude": 55.1116447,
+        "longitude": -128.022597
+      },
+      "watertoday": {
+        "name": "Adams Lake First Nation",
+        "advisory_type": "Boil Water",
+        "since": "4/20/2021",
+        "since_iso": "2021-04-20",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29179",
+        "latitude": 50.96214,
+        "longitude": -119.68896
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.716,
+      "name_ratio": 0.716,
+      "token_jaccard": 0.25,
+      "distance_km": 970.872,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Lakelse Lake Provincial Park Headquarters",
+        "notice_type": "Boil Water Notice",
+        "start_date": "9-Jul-2021",
+        "start_date_iso": "2021-07-09",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=3F95418443C8835988256C5D006474E9",
+        "latitude": 56.4784467,
+        "longitude": -129.3945923
+      },
+      "watertoday": {
+        "name": "Mabel Lake Provincial Park",
+        "advisory_type": "Boil Water",
+        "since": "4/11/2025",
+        "since_iso": "2025-04-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39947",
+        "latitude": 50.45552032041578,
+        "longitude": -118.73384619574053
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.552,
+      "name_ratio": 0.552,
+      "token_jaccard": 0.0,
+      "distance_km": 665.094,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Lakeview MHP",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Sep-2022",
+        "start_date_iso": "2022-09-16",
+        "location_summary": "Fraser Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DCC94E99B63419B48825871700646A15",
+        "latitude": 54.04829789999999,
+        "longitude": -124.8800293
+      },
+      "watertoday": {
+        "name": "Island View Beach",
+        "advisory_type": "Water Quality Advisory",
+        "since": "6/15/2023",
+        "since_iso": "2023-06-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=33753",
+        "latitude": 48.252549,
+        "longitude": -122.517431
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.615,
+      "name_ratio": 0.615,
+      "token_jaccard": 0.2,
+      "distance_km": 760.299,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Leo Creek Fisheries Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Aug-2016",
+        "start_date_iso": "2016-08-04",
+        "location_summary": "Fort St James",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FD3FFF2A3C51D76E882575A9005F8B27",
+        "latitude": 54.8853329,
+        "longitude": -124.7960615
+      },
+      "watertoday": {
+        "name": "LEMON CREEK Lodge Campground",
+        "advisory_type": "Boil Water",
+        "since": "7/21/2024",
+        "since_iso": "2024-07-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37172",
+        "latitude": 49.70051212253622,
+        "longitude": -117.4899380802478
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.821,
+      "name_ratio": 0.821,
+      "token_jaccard": 0.6,
+      "distance_km": 1.023,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Liard Hotsprings Resort [FN FN Ltd.]",
+        "notice_type": "Boil Water Notice",
+        "start_date": "20-Oct-2017",
+        "start_date_iso": "2017-10-20",
+        "location_summary": "Liard River",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0984A2885D4CE84F07256E240067B471",
+        "latitude": 59.416667,
+        "longitude": -126.083333
+      },
+      "watertoday": {
+        "name": "LIARD HOTSPRINGS RESORT",
+        "advisory_type": "Boil Water",
+        "since": "10/20/2017",
+        "since_iso": "2017-10-20",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=17780",
+        "latitude": 59.422611,
+        "longitude": -126.097126
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.581,
+      "name_ratio": 0.581,
+      "token_jaccard": 0.0,
+      "distance_km": 258.726,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Lucille Mountain Water Users",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Mar-1995",
+        "start_date_iso": "1995-03-21",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7608B054E9DCF003882569CB00130D59",
+        "latitude": 53.259835,
+        "longitude": -120.2507602
+      },
+      "watertoday": {
+        "name": "BLACK PINES Community Water System",
+        "advisory_type": "Boil Water",
+        "since": "3/16/2022",
+        "since_iso": "2022-03-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29888",
+        "latitude": 50.933056,
+        "longitude": -120.25
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.938,
+      "name_ratio": 0.938,
+      "token_jaccard": 0.75,
+      "distance_km": 1.466,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Mackenzie CWS Gantahaz Subdivision",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "21-Jul-2022",
+        "start_date_iso": "2022-07-21",
+        "location_summary": "Mackenzie",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=076B0DEC294BF3A2882569E3007DF768",
+        "latitude": 55.3243683,
+        "longitude": -123.0926438
+      },
+      "watertoday": {
+        "name": "MACKENZIE (Gantahaz Subdivision)",
+        "advisory_type": "Boil Water",
+        "since": "7/21/2022",
+        "since_iso": "2022-07-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34534",
+        "latitude": 55.33751,
+        "longitude": -123.09446
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 6.4,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Maxhamish Operations Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Dec-2022",
+        "start_date_iso": "2022-12-15",
+        "location_summary": "Fort Nelson",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E3C5A3854F98B60688258840007D4CF1",
+        "latitude": 58.8050174,
+        "longitude": -122.697236
+      },
+      "watertoday": {
+        "name": "Maxhamish Operations Camp",
+        "advisory_type": "Boil Water",
+        "since": "12/15/2022",
+        "since_iso": "2022-12-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=32476",
+        "latitude": 58.844724,
+        "longitude": -122.616741
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.509,
+      "name_ratio": 0.509,
+      "token_jaccard": 0.167,
+      "distance_km": 366.474,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "McBride Christian Day School",
+        "notice_type": "Boil Water Notice",
+        "start_date": "10-Jun-2009",
+        "start_date_iso": "2009-06-10",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=35E075E2AF60722A882584850058C5A7",
+        "latitude": 53.2797411,
+        "longitude": -120.0765922
+      },
+      "watertoday": {
+        "name": "Kings Valley Christian Camp",
+        "advisory_type": "Boil Water",
+        "since": "10/1/2020",
+        "since_iso": "2020-10-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25752",
+        "latitude": 56.567017,
+        "longitude": -120.488675
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.471,
+      "name_ratio": 0.471,
+      "token_jaccard": 0.0,
+      "distance_km": 389.295,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Molyhills Golf Course",
+        "notice_type": "Boil Water Notice",
+        "start_date": "5-Sep-2018",
+        "start_date_iso": "2018-09-05",
+        "location_summary": "Fraser Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=80164F3FCCBC9433882569E4007DAA3E",
+        "latitude": 54.0110592,
+        "longitude": -125.0565765
+      },
+      "watertoday": {
+        "name": "70 MILE HOUSE",
+        "advisory_type": "Water Quality Advisory",
+        "since": "9/3/2025",
+        "since_iso": "2025-09-03",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41846",
+        "latitude": 51.30315,
+        "longitude": -121.39575
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.741,
+      "name_ratio": 0.741,
+      "token_jaccard": 0.0,
+      "distance_km": 646.077,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Monkman Provincial Park - Well 1",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Aug-2017",
+        "start_date_iso": "2017-08-04",
+        "location_summary": "Tumbler Ridge",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E97083802B4A0DD788256A4600625524",
+        "latitude": 54.956076,
+        "longitude": -121.127969
+      },
+      "watertoday": {
+        "name": "INKANEEP PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "7/22/2010",
+        "since_iso": "2010-07-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35611",
+        "latitude": 49.22781139408697,
+        "longitude": -119.54032517549504
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.545,
+      "name_ratio": 0.545,
+      "token_jaccard": 0.0,
+      "distance_km": 410.854,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Monteith CWS",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "10-Nov-2020",
+        "start_date_iso": "2020-11-10",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=521EF7A9F1CD6BFD882575AC005AE1BD",
+        "latitude": 53.72405990000001,
+        "longitude": -122.8460457
+      },
+      "watertoday": {
+        "name": "MONTE LAKE",
+        "advisory_type": "Boil Water",
+        "since": "1/15/2026",
+        "since_iso": "2026-01-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=42964",
+        "latitude": 50.52668,
+        "longitude": -119.82728
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.538,
+      "name_ratio": 0.538,
+      "token_jaccard": 0.25,
+      "distance_km": 528.019,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Moosehorn Lodge",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "28-Jun-2018",
+        "start_date_iso": "2018-06-28",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E7EDB87CE25270AA882582C000556B31",
+        "latitude": 54.2334148,
+        "longitude": -125.763613
+      },
+      "watertoday": {
+        "name": "C-Dar Lodge",
+        "advisory_type": "Boil Water",
+        "since": "6/19/2019",
+        "since_iso": "2019-06-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=21914",
+        "latitude": 49.76698,
+        "longitude": -123.140431
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.741,
+      "name_ratio": 0.741,
+      "token_jaccard": 0.143,
+      "distance_km": 561.646,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mount Layton Hot Springs Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "19-Sep-2019",
+        "start_date_iso": "2019-09-19",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FF8C9F6E59565C2D882569C80080289E",
+        "latitude": 54.5406032,
+        "longitude": -128.4807831
+      },
+      "watertoday": {
+        "name": "LIARD HOTSPRINGS RESORT",
+        "advisory_type": "Boil Water",
+        "since": "10/20/2017",
+        "since_iso": "2017-10-20",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=17780",
+        "latitude": 59.422611,
+        "longitude": -126.097126
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.667,
+      "name_ratio": 0.667,
+      "token_jaccard": 0.5,
+      "distance_km": 418.218,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mount Robson Motor Village",
+        "notice_type": "Boil Water Notice",
+        "start_date": "20-Jun-2023",
+        "start_date_iso": "2023-06-20",
+        "location_summary": "Valemount",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BCB90BC0ADF87B7B882569CB001868C3",
+        "latitude": 54.1015293,
+        "longitude": -125.3076946
+      },
+      "watertoday": {
+        "name": "MOUNT ROBSON PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "7/24/2020",
+        "since_iso": "2020-07-24",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25034",
+        "latitude": 53.03305,
+        "longitude": -119.23305
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.727,
+      "name_ratio": 0.727,
+      "token_jaccard": 0.667,
+      "distance_km": 1.472,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Mount Robson Provincial Park - Lucerne Campground #1",
+        "notice_type": "Boil Water Notice",
+        "start_date": "24-Jul-2020",
+        "start_date_iso": "2020-07-24",
+        "location_summary": "Valemount",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7E97612EB980BB47882571BD00569A21",
+        "latitude": 53.0310201,
+        "longitude": -119.2547965
+      },
+      "watertoday": {
+        "name": "MOUNT ROBSON PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "7/24/2020",
+        "since_iso": "2020-07-24",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25034",
+        "latitude": 53.03305,
+        "longitude": -119.23305
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.55,
+      "name_ratio": 0.55,
+      "token_jaccard": 0.0,
+      "distance_km": 654.544,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mountain View Assembly Pentacostal Water System",
+        "notice_type": "Do Not Consume",
+        "start_date": "18-Sep-2019",
+        "start_date_iso": "2019-09-18",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=564330F6A6905ACD8825721C0000ADCA",
+        "latitude": 54.7545524,
+        "longitude": -127.1098376
+      },
+      "watertoday": {
+        "name": "Pinantan Lake Resort Water System",
+        "advisory_type": "Boil Water",
+        "since": "9/29/2022",
+        "since_iso": "2022-09-29",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35565",
+        "latitude": 50.722627,
+        "longitude": -120.014258
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.562,
+      "name_ratio": 0.562,
+      "token_jaccard": 0.25,
+      "distance_km": 440.454,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mountain View MHP",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Mar-1995",
+        "start_date_iso": "1995-03-21",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=87B931FBE3285033882574E800566DD6",
+        "latitude": 53.3055949,
+        "longitude": -120.1633399
+      },
+      "watertoday": {
+        "name": "PINK MOUNTAIN (2)",
+        "advisory_type": "Boil Water",
+        "since": "9/15/2025",
+        "since_iso": "2025-09-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41854",
+        "latitude": 57.03341440921323,
+        "longitude": -122.51130363997424
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.51,
+      "name_ratio": 0.51,
+      "token_jaccard": 0.167,
+      "distance_km": 924.866,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mountain View Park Estates",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "12-Sep-2022",
+        "start_date_iso": "2022-09-12",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E094A71BA88B7E2988258AA1006D366C",
+        "latitude": 54.74597929999999,
+        "longitude": -127.115647
+      },
+      "watertoday": {
+        "name": "WASA (Cameron Pond Estates)",
+        "advisory_type": "Boil Water",
+        "since": "5/22/2024",
+        "since_iso": "2024-05-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36504",
+        "latitude": 49.912551,
+        "longitude": -116.008544
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.513,
+      "name_ratio": 0.513,
+      "token_jaccard": 0.0,
+      "distance_km": 685.634,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mountainview Adventures",
+        "notice_type": "Boil Water Notice",
+        "start_date": "10-Jul-2017",
+        "start_date_iso": "2017-07-10",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0CD1D8C99A4F6DFA8825719600800F19",
+        "latitude": 54.8485995,
+        "longitude": -127.0962908
+      },
+      "watertoday": {
+        "name": "Monte Lake Store",
+        "advisory_type": "Boil Water",
+        "since": "11/10/2021",
+        "since_iso": "2021-11-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29100",
+        "latitude": 50.52668,
+        "longitude": -119.82728
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.622,
+      "name_ratio": 0.622,
+      "token_jaccard": 0.167,
+      "distance_km": 884.351,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Mountainview Property Owner's Association Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "8-Aug-2011",
+        "start_date_iso": "2011-08-08",
+        "location_summary": "Kitwanga",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F13858115A93AA9B882569C800802988",
+        "latitude": 56.57636129999999,
+        "longitude": -128.0677139
+      },
+      "watertoday": {
+        "name": "Yankee Flats Association Water System",
+        "advisory_type": "Boil Water",
+        "since": "12/12/2012",
+        "since_iso": "2012-12-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35546",
+        "latitude": 50.51668,
+        "longitude": -119.36663
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.453,
+      "name_ratio": 0.453,
+      "token_jaccard": 0.0,
+      "distance_km": 857.421,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Naikoon South (Misty Meadows)",
+        "notice_type": "Boil Water Notice",
+        "start_date": "5-Feb-2026",
+        "start_date_iso": "2026-02-05",
+        "location_summary": "Tlell",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9B48A7E2E75C6A2988258673007D1672",
+        "latitude": 53.6385206,
+        "longitude": -132.0598675
+      },
+      "watertoday": {
+        "name": "IRON MASK Mobile Home Park",
+        "advisory_type": "Boil Water",
+        "since": "6/17/2024",
+        "since_iso": "2024-06-17",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36801",
+        "latitude": 50.65941026079511,
+        "longitude": -120.4488518774255
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.632,
+      "name_ratio": 0.632,
+      "token_jaccard": 0.25,
+      "distance_km": 508.827,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Ness Lake Community Hall",
+        "notice_type": "Do Not Consume",
+        "start_date": "24-Oct-2022",
+        "start_date_iso": "2022-10-24",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=436EBC5C1562F38E88256B87005AD19C",
+        "latitude": 54.0243449,
+        "longitude": -123.1134815
+      },
+      "watertoday": {
+        "name": "LAKE COUNTRY (6)",
+        "advisory_type": "Water Quality Advisory",
+        "since": "5/18/2024",
+        "since_iso": "2024-05-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=31569",
+        "latitude": 50.05110836136716,
+        "longitude": -119.41841548279564
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.581,
+      "name_ratio": 0.581,
+      "token_jaccard": 0.25,
+      "distance_km": 161.765,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Nithi Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "7-Jul-2025",
+        "start_date_iso": "2025-07-07",
+        "location_summary": "Fraser Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=98027F25C7CDDDA88825883600592933",
+        "latitude": 54.0073976,
+        "longitude": -125.0226573
+      },
+      "watertoday": {
+        "name": "Whiskers Bay Resort",
+        "advisory_type": "Boil Water",
+        "since": "7/19/2019",
+        "since_iso": "2019-07-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=22225",
+        "latitude": 54.498174,
+        "longitude": -122.6783
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.688,
+      "name_ratio": 0.688,
+      "token_jaccard": 0.25,
+      "distance_km": 522.318,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Noralee Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "18-Aug-2023",
+        "start_date_iso": "2023-08-18",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=EB28135B74BB52AC88257EF200661B66",
+        "latitude": 54.2334148,
+        "longitude": -125.763613
+      },
+      "watertoday": {
+        "name": "TUNKWA LAKE RESORT",
+        "advisory_type": "Boil Water",
+        "since": "2/2/2026",
+        "since_iso": "2026-02-02",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43042",
+        "latitude": 50.61394650208077,
+        "longitude": -120.84798226040176
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.528,
+      "name_ratio": 0.528,
+      "token_jaccard": 0.0,
+      "distance_km": 607.506,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Nordic Water Company",
+        "notice_type": "Boil Water Notice",
+        "start_date": "27-Jun-2023",
+        "start_date_iso": "2023-06-27",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7DA5356E058A587D882569CB00130C8C",
+        "latitude": 53.90783399999999,
+        "longitude": -122.5703765
+      },
+      "watertoday": {
+        "name": "Sandy Creek Water Users Community",
+        "advisory_type": "Boil Water",
+        "since": "4/1/1992",
+        "since_iso": "1992-04-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35659",
+        "latitude": 49.48503950345321,
+        "longitude": -117.38698960279145
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.538,
+      "name_ratio": 0.538,
+      "token_jaccard": 0.167,
+      "distance_km": 710.273,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Northern Lights Charitable Association WS",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "4-Nov-2020",
+        "start_date_iso": "2020-11-04",
+        "location_summary": "Wonowon",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F6AB91B82916363D07257AD40074566B",
+        "latitude": 56.7338879,
+        "longitude": -121.8461036
+      },
+      "watertoday": {
+        "name": "Yankee Flats Association Water System",
+        "advisory_type": "Boil Water",
+        "since": "12/12/2012",
+        "since_iso": "2012-12-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35546",
+        "latitude": 50.51668,
+        "longitude": -119.36663
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.64,
+      "name_ratio": 0.64,
+      "token_jaccard": 0.25,
+      "distance_km": 76.59,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Nukko Lake Hall",
+        "notice_type": "Boil Water Notice",
+        "start_date": "18-Aug-2023",
+        "start_date_iso": "2023-08-18",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=723EF907F315A18588256B66005AD44D",
+        "latitude": 54.08097429999999,
+        "longitude": -122.9890764
+      },
+      "watertoday": {
+        "name": "NULKI LAKE",
+        "advisory_type": "Cyanobacteria Bloom",
+        "since": "8/24/2025",
+        "since_iso": "2025-08-24",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41598",
+        "latitude": 53.9094552447354,
+        "longitude": -124.12388300633901
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.899,
+      "name_ratio": 0.899,
+      "token_jaccard": 0.75,
+      "distance_km": 9.424,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "One Island Lake Provincial Park, Well 1",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "12-Jul-2024",
+        "start_date_iso": "2024-07-12",
+        "location_summary": "Tomslake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E7CCE364625678AC88256A4600625520",
+        "latitude": 55.3841532,
+        "longitude": -120.233637
+      },
+      "watertoday": {
+        "name": "ONE ISLAND LAKE PROVINCIAL PARK",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2024",
+        "since_iso": "2024-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37034",
+        "latitude": 55.303130539677035,
+        "longitude": -120.27737106756798
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.899,
+      "name_ratio": 0.899,
+      "token_jaccard": 0.75,
+      "distance_km": 9.424,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "One Island Lake Provincial Park, Well 2",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "12-Jul-2024",
+        "start_date_iso": "2024-07-12",
+        "location_summary": "Tomslake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=990C4EB14756B05A88256A4600625521",
+        "latitude": 55.3841532,
+        "longitude": -120.233637
+      },
+      "watertoday": {
+        "name": "ONE ISLAND LAKE PROVINCIAL PARK",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2024",
+        "since_iso": "2024-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37034",
+        "latitude": 55.303130539677035,
+        "longitude": -120.27737106756798
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.64,
+      "name_ratio": 0.64,
+      "token_jaccard": 0.25,
+      "distance_km": 464.58,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Ootsa Lake CWS",
+        "notice_type": "Boil Water Notice",
+        "start_date": "5-Sep-2007",
+        "start_date_iso": "2007-09-05",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=01BD1D0F10E7B2BB88257248006AAC4C",
+        "latitude": 54.0123966,
+        "longitude": -126.203879
+      },
+      "watertoday": {
+        "name": "LOON LAKE (3)",
+        "advisory_type": "Boil Water",
+        "since": "2/21/2025",
+        "since_iso": "2025-02-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29889",
+        "latitude": 51.083653,
+        "longitude": -121.299586
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.507,
+      "name_ratio": 0.507,
+      "token_jaccard": 0.0,
+      "distance_km": 889.735,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Paul Lychak Hall (Evelyn Community Hall)",
+        "notice_type": "Do Not Consume",
+        "start_date": "14-Apr-2014",
+        "start_date_iso": "2014-04-14",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A4A933393C19308288257928005837BD",
+        "latitude": 54.7890359,
+        "longitude": -127.1763175
+      },
+      "watertoday": {
+        "name": "Sandy Creek Water Users Community",
+        "advisory_type": "Boil Water",
+        "since": "4/1/1992",
+        "since_iso": "1992-04-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35659",
+        "latitude": 49.48503950345321,
+        "longitude": -117.38698960279145
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.436,
+      "name_ratio": 0.436,
+      "token_jaccard": 0.0,
+      "distance_km": 748.107,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Petronas C-65-G (Altares)",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "15-Dec-2024",
+        "start_date_iso": "2024-12-15",
+        "location_summary": "Hudson's Hope",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D15BDDF0B87DE14807258B49007A5BD6",
+        "latitude": 56.38925,
+        "longitude": -122.18596
+      },
+      "watertoday": {
+        "name": "EARLS COVE (Cove Cay Water System)",
+        "advisory_type": "Boil Water",
+        "since": "8/11/2024",
+        "since_iso": "2024-08-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37406",
+        "latitude": 49.750194281479565,
+        "longitude": -124.0060644192113
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.429,
+      "name_ratio": 0.429,
+      "token_jaccard": 0.0,
+      "distance_km": 832.483,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Petronas Energy Camp C-72-A Plant (109 Road)",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "11-Dec-2024",
+        "start_date_iso": "2024-12-11",
+        "location_summary": "Wonowon",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=BA17BB605E57917788258B4900784607",
+        "latitude": 56.730259,
+        "longitude": -121.808989
+      },
+      "watertoday": {
+        "name": "LEMON CREEK Lodge Campground",
+        "advisory_type": "Boil Water",
+        "since": "7/21/2024",
+        "since_iso": "2024-07-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37172",
+        "latitude": 49.70051212253622,
+        "longitude": -117.4899380802478
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.444,
+      "name_ratio": 0.444,
+      "token_jaccard": 0.0,
+      "distance_km": 763.827,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Petronas Energy Camp C-96-G (Altares)",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "15-Dec-2024",
+        "start_date_iso": "2024-12-15",
+        "location_summary": "Hudson's Hope",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8CF224DE24E5B83207258B49007B9ACA",
+        "latitude": 56.0357172,
+        "longitude": -121.9038286
+      },
+      "watertoday": {
+        "name": "LEMON CREEK Lodge Campground",
+        "advisory_type": "Boil Water",
+        "since": "7/21/2024",
+        "since_iso": "2024-07-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37172",
+        "latitude": 49.70051212253622,
+        "longitude": -117.4899380802478
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.408,
+      "name_ratio": 0.408,
+      "token_jaccard": 0.125,
+      "distance_km": 355.131,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Petronas Energy Plant A-29-J (Lily Lake)",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "15-Dec-2024",
+        "start_date_iso": "2024-12-15",
+        "location_summary": "Pink Mountain",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=787C4B65C3DBB14288258B490073363F",
+        "latitude": 57.039033,
+        "longitude": -122.50519
+      },
+      "watertoday": {
+        "name": "FRASER LAKE",
+        "advisory_type": "Boil Water",
+        "since": "7/7/2025",
+        "since_iso": "2025-07-07",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40954",
+        "latitude": 54.075339,
+        "longitude": -124.611464
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.433,
+      "name_ratio": 0.433,
+      "token_jaccard": 0.0,
+      "distance_km": 847.947,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Petronas Energy Plant C- 16- F(Caribou)",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "15-Dec-2024",
+        "start_date_iso": "2024-12-15",
+        "location_summary": "Pink Mountain",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DDAB982B2514548A88258B490075B128",
+        "latitude": 57.039033,
+        "longitude": -122.50519
+      },
+      "watertoday": {
+        "name": "ROSEBERY PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "8/21/2025",
+        "since_iso": "2025-08-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41701",
+        "latitude": 50.03605546340123,
+        "longitude": -117.40446546931159
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.733,
+      "name_ratio": 0.733,
+      "token_jaccard": 0.25,
+      "distance_km": 7.537,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Pinecrest Road Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "28-Jan-2020",
+        "start_date_iso": "2020-01-28",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=E47825472578DCD48825845F007C726F",
+        "latitude": 54.83955049999999,
+        "longitude": -127.2296188
+      },
+      "watertoday": {
+        "name": "SMITHERS (Scotia Road Water System)",
+        "advisory_type": "Boil Water",
+        "since": "2/21/2025",
+        "since_iso": "2025-02-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39474",
+        "latitude": 54.78182,
+        "longitude": -127.16799
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.787,
+      "name_ratio": 0.787,
+      "token_jaccard": 0.4,
+      "distance_km": 480.727,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Pineview Improvement District",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "13-Jan-2023",
+        "start_date_iso": "2023-01-13",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2D1193FD07DCBCC7882569CB001869BF",
+        "latitude": 53.84868729999999,
+        "longitude": -122.6324816
+      },
+      "watertoday": {
+        "name": "GILLIES BAY Improvement District",
+        "advisory_type": "Boil Water",
+        "since": "9/25/2025",
+        "since_iso": "2025-09-25",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37340",
+        "latitude": 49.679252,
+        "longitude": -124.481821
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.757,
+      "name_ratio": 0.757,
+      "token_jaccard": 0.667,
+      "distance_km": 0.731,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Pink Mountain Campsite",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Sep-2025",
+        "start_date_iso": "2025-09-15",
+        "location_summary": "Pink Mountain",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DC3AC660A76B640E88256A460062585E",
+        "latitude": 57.0398426,
+        "longitude": -122.508744
+      },
+      "watertoday": {
+        "name": "PINK MOUNTAIN (2)",
+        "advisory_type": "Boil Water",
+        "since": "9/15/2025",
+        "since_iso": "2025-09-15",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41854",
+        "latitude": 57.03341440921323,
+        "longitude": -122.51130363997424
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 1.0,
+      "name_ratio": 0.625,
+      "token_jaccard": 1.0,
+      "distance_km": 31.887,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Prespatou Store [2013] Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "12-Jan-2021",
+        "start_date_iso": "2021-01-12",
+        "location_summary": "Prespatou",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B89CC2707943D0E707257C4E0066563B",
+        "latitude": 56.9217577,
+        "longitude": -121.0598789
+      },
+      "watertoday": {
+        "name": "Prespatou Store",
+        "advisory_type": "Boil Water",
+        "since": "1/21/2021",
+        "since_iso": "2021-01-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=26497",
+        "latitude": 57.207041,
+        "longitude": -121.113381
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 0.757,
+      "name_ratio": 0.757,
+      "token_jaccard": 0.667,
+      "distance_km": 3.656,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Prince George Refinery",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Nov-2024",
+        "start_date_iso": "2024-11-01",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B87BB65B2D7C46AE882584B000757C5F",
+        "latitude": 53.9268957,
+        "longitude": -122.696416
+      },
+      "watertoday": {
+        "name": "PRINCE GEORGE (2)",
+        "advisory_type": "Boil Water",
+        "since": "5/1/2025",
+        "since_iso": "2025-05-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38470",
+        "latitude": 53.91712,
+        "longitude": -122.74973
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.688,
+      "name_ratio": 0.688,
+      "token_jaccard": 0.25,
+      "distance_km": 407.791,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Purden Ski Village",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Mar-2024",
+        "start_date_iso": "2024-03-16",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=7B0E7B8D620F2BE088256D3C005EB4FE",
+        "latitude": 53.876325,
+        "longitude": -122.7713361
+      },
+      "watertoday": {
+        "name": "QUEEST VILLAGE",
+        "advisory_type": "Boil Water",
+        "since": "6/2/2010",
+        "since_iso": "2010-06-02",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35642",
+        "latitude": 51.041841004393476,
+        "longitude": -118.94947419489583
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 0.8,
+      "name_ratio": 0.8,
+      "token_jaccard": 0.5,
+      "distance_km": 0.965,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Quesnel CWS",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "10-Jun-2022",
+        "start_date_iso": "2022-06-10",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=B01D1D765C87505188256BCA00652D8E",
+        "latitude": 52.9794725,
+        "longitude": -122.4936558
+      },
+      "watertoday": {
+        "name": "Quesnel (8)",
+        "advisory_type": "Boil Water",
+        "since": "10/10/2024",
+        "since_iso": "2024-10-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=34291",
+        "latitude": 52.974665,
+        "longitude": -122.505663
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.621,
+      "name_ratio": 0.621,
+      "token_jaccard": 0.25,
+      "distance_km": 404.096,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Rainbow Creek CWS",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Jun-2006",
+        "start_date_iso": "2006-06-15",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=C671886B96EE44B38825708100678774",
+        "latitude": 53.3044051,
+        "longitude": -120.1255984
+      },
+      "watertoday": {
+        "name": "MEADOW CREEK",
+        "advisory_type": "Boil Water",
+        "since": "12/3/2025",
+        "since_iso": "2025-12-03",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=42733",
+        "latitude": 50.233333,
+        "longitude": -116.983333
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.68,
+      "name_ratio": 0.68,
+      "token_jaccard": 0.0,
+      "distance_km": 1072.205,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Red Chris Mill Water System",
+        "notice_type": "Do Not Consume",
+        "start_date": "23-Sep-2025",
+        "start_date_iso": "2025-09-23",
+        "location_summary": "Iskut",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D168E9E6AB73FDC5882583F3006F7FF2",
+        "latitude": 57.71029979999999,
+        "longitude": -129.984629
+      },
+      "watertoday": {
+        "name": "CEDAR LANE WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2021",
+        "since_iso": "2021-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36897",
+        "latitude": 48.87096905732864,
+        "longitude": -123.49532176579075
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.76,
+      "name_ratio": 0.76,
+      "token_jaccard": 0.0,
+      "distance_km": 1082.074,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Red Goat Lodge Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Aug-2019",
+        "start_date_iso": "2019-08-16",
+        "location_summary": "Iskut",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0E80F4CC7155BE28882569C80080380D",
+        "latitude": 57.8155224,
+        "longitude": -129.9604886
+      },
+      "watertoday": {
+        "name": "CEDAR LANE WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2021",
+        "since_iso": "2021-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36897",
+        "latitude": 48.87096905732864,
+        "longitude": -123.49532176579075
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.632,
+      "name_ratio": 0.632,
+      "token_jaccard": 0.25,
+      "distance_km": 344.12,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Richard's Place",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Jun-2024",
+        "start_date_iso": "2024-06-21",
+        "location_summary": "Quesnel",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=14237ECDD589AB72882581D9006B4A49",
+        "latitude": 52.9491688,
+        "longitude": -122.5136548
+      },
+      "watertoday": {
+        "name": "Richards Meat Processing",
+        "advisory_type": "Boil Water",
+        "since": "11/4/2020",
+        "since_iso": "2020-11-04",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25983",
+        "latitude": 55.715907,
+        "longitude": -120.133948
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.776,
+      "name_ratio": 0.776,
+      "token_jaccard": 0.0,
+      "distance_km": 857.988,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Ridley Island Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "20-Jun-2016",
+        "start_date_iso": "2016-06-20",
+        "location_summary": "Prince Rupert",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D30C987D2EF8C7FD88257B500051AA12",
+        "latitude": 54.2348313,
+        "longitude": -130.3292364
+      },
+      "watertoday": {
+        "name": "MARA Sands Water System",
+        "advisory_type": "Boil Water",
+        "since": "3/3/2025",
+        "since_iso": "2025-03-03",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39564",
+        "latitude": 50.68673,
+        "longitude": -119.06138
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.553,
+      "name_ratio": 0.553,
+      "token_jaccard": 0.2,
+      "distance_km": 4.315,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Riverbend MHP",
+        "notice_type": "Boil Water Notice",
+        "start_date": "5-Nov-2024",
+        "start_date_iso": "2024-11-05",
+        "location_summary": "McBride",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D17400AD0B9438AE07258C9900016F1E",
+        "latitude": 53.3232571,
+        "longitude": -120.2220546
+      },
+      "watertoday": {
+        "name": "MCBRIDE (Riverbend Mobile Home Park)",
+        "advisory_type": "Boil Water",
+        "since": "11/6/2024",
+        "since_iso": "2024-11-06",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38520",
+        "latitude": 53.30133,
+        "longitude": -120.16846
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.811,
+      "name_ratio": 0.811,
+      "token_jaccard": 0.0,
+      "distance_km": 856.608,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Roach Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "8-Apr-2022",
+        "start_date_iso": "2022-04-08",
+        "location_summary": "Kitwanga",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4A730503F01C58C0882583B300774EB9",
+        "latitude": 55.1183424,
+        "longitude": -128.0162813
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.538,
+      "name_ratio": 0.538,
+      "token_jaccard": 0.0,
+      "distance_km": 634.492,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Rock Nest Ranch",
+        "notice_type": "Boil Water Notice",
+        "start_date": "2-Jul-2021",
+        "start_date_iso": "2021-07-02",
+        "location_summary": "Houston",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2E0D414C4D10AFCF88256AFE006BE471",
+        "latitude": 54.47434879999999,
+        "longitude": -126.7572008
+      },
+      "watertoday": {
+        "name": "ROCKY POINT",
+        "advisory_type": "Boil Water",
+        "since": "8/22/2025",
+        "since_iso": "2025-08-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41506",
+        "latitude": 49.3052,
+        "longitude": -122.83338
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 7.04,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Rocky Mountain Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Aug-2020",
+        "start_date_iso": "2020-08-04",
+        "location_summary": "Fort Nelson",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=40BB85B5B8BC8B0988256A46006255FD",
+        "latitude": 58.80473070000001,
+        "longitude": -122.7115495
+      },
+      "watertoday": {
+        "name": "Rocky Mountain Lodge",
+        "advisory_type": "Boil Water",
+        "since": "8/4/2020",
+        "since_iso": "2020-08-04",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25126",
+        "latitude": 58.844724,
+        "longitude": -122.616741
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.776,
+      "name_ratio": 0.776,
+      "token_jaccard": 0.0,
+      "distance_km": 620.604,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Rough Acres Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Dec-2022",
+        "start_date_iso": "2022-12-16",
+        "location_summary": "Houston",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=254089CA4BFD8B1188257FE10058A677",
+        "latitude": 54.3910872,
+        "longitude": -126.650126
+      },
+      "watertoday": {
+        "name": "Scotch Creek Water System",
+        "advisory_type": "Boil Water",
+        "since": "4/28/2025",
+        "since_iso": "2025-04-28",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40103",
+        "latitude": 50.903483,
+        "longitude": -119.45846
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.812,
+      "name_ratio": 0.812,
+      "token_jaccard": 0.5,
+      "distance_km": 721.142,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Round Lake Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "6-Apr-2005",
+        "start_date_iso": "2005-04-06",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=CF292C15F94F30A188256FDD00794974",
+        "latitude": 54.6503971,
+        "longitude": -126.9195536
+      },
+      "watertoday": {
+        "name": "Dee Lake Resort",
+        "advisory_type": "Boil Water",
+        "since": "8/22/2025",
+        "since_iso": "2025-08-22",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41503",
+        "latitude": 50.05110836136716,
+        "longitude": -119.41841548279564
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.864,
+      "name_ratio": 0.864,
+      "token_jaccard": 0.0,
+      "distance_km": 694.97,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Seaplane Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "7-Feb-2020",
+        "start_date_iso": "2020-02-07",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0CD4936863DB9A0D882586EA00669D81",
+        "latitude": 54.7228838,
+        "longitude": -127.0538279
+      },
+      "watertoday": {
+        "name": "CEDAR LANE WATER SYSTEM",
+        "advisory_type": "Water Quality Advisory",
+        "since": "7/12/2021",
+        "since_iso": "2021-07-12",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36897",
+        "latitude": 48.87096905732864,
+        "longitude": -123.49532176579075
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 0.252,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Seymour Lake Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "18-Feb-2025",
+        "start_date_iso": "2025-02-18",
+        "location_summary": "Regional District - Bulkley Nechako",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=70473B00F6A3302A882569C800802007",
+        "latitude": 54.7483034,
+        "longitude": -127.1608997
+      },
+      "watertoday": {
+        "name": "SEYMOUR LAKE Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/18/2025",
+        "since_iso": "2025-02-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38427",
+        "latitude": 54.750061963490054,
+        "longitude": -127.16337806379148
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.667,
+      "name_ratio": 0.667,
+      "token_jaccard": 0.25,
+      "distance_km": 944.981,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Sikanni River RV Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "15-Sep-2025",
+        "start_date_iso": "2025-09-15",
+        "location_summary": "Sikanni Chief",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=927F4368F700355A0725857D00608076",
+        "latitude": 57.24446,
+        "longitude": -122.7185333
+      },
+      "watertoday": {
+        "name": "COWICHAN RIVER PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "4/18/2019",
+        "since_iso": "2019-04-18",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=36488",
+        "latitude": 48.77567326781492,
+        "longitude": -123.90384126870941
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.645,
+      "name_ratio": 0.645,
+      "token_jaccard": 0.333,
+      "distance_km": 648.203,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Silver Queen Camp",
+        "notice_type": "Boil Water Notice",
+        "start_date": "27-Aug-2020",
+        "start_date_iso": "2020-08-27",
+        "location_summary": "Houston",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=674FA9E0DB492E3A882577A50056BF94",
+        "latitude": 54.3979972,
+        "longitude": -126.6482087
+      },
+      "watertoday": {
+        "name": "SILVER CREEK (2)",
+        "advisory_type": "Boil Water",
+        "since": "1/1/1990",
+        "since_iso": "1990-01-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35661",
+        "latitude": 50.60525884238541,
+        "longitude": -119.36477593682137
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.754,
+      "name_ratio": 0.754,
+      "token_jaccard": 0.2,
+      "distance_km": 583.392,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Sinclair Mills Water Users Community",
+        "notice_type": "Boil Water Notice",
+        "start_date": "1-Jul-1993",
+        "start_date_iso": "1993-07-01",
+        "location_summary": "Sinclair Mills",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=151A2BAC5DC5768C882569E600647F58",
+        "latitude": 54.0148377,
+        "longitude": -121.6699685
+      },
+      "watertoday": {
+        "name": "Sandy Creek Water Users Community",
+        "advisory_type": "Boil Water",
+        "since": "4/1/1992",
+        "since_iso": "1992-04-01",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35659",
+        "latitude": 49.48503950345321,
+        "longitude": -117.38698960279145
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.667,
+      "name_ratio": 0.667,
+      "token_jaccard": 0.667,
+      "distance_km": 0.137,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Sinclair Mills/Community Hall",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Oct-2019",
+        "start_date_iso": "2019-10-21",
+        "location_summary": "Sinclair Mills",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=1488BDFFE98EF97588257C52006CBE2A",
+        "latitude": 54.0148377,
+        "longitude": -121.6699685
+      },
+      "watertoday": {
+        "name": "SINCLAIR MILLS (3)",
+        "advisory_type": "Boil Water",
+        "since": "10/21/2019",
+        "since_iso": "2019-10-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=1328",
+        "latitude": 54.01604,
+        "longitude": -121.67041
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 2.508,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Skidegate Ferry Terminal Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "13-Apr-2026",
+        "start_date_iso": "2026-04-13",
+        "location_summary": "Skidegate",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=6FA9A686F30ABBD288257277000B6FDA",
+        "latitude": 53.2476415,
+        "longitude": -132.0105276
+      },
+      "watertoday": {
+        "name": "Skidegate Ferry Terminal Water System",
+        "advisory_type": "Boil Water",
+        "since": "4/13/2026",
+        "since_iso": "2026-04-13",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43518",
+        "latitude": 53.266667,
+        "longitude": -131.99028
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.567,
+      "name_ratio": 0.567,
+      "token_jaccard": 0.167,
+      "distance_km": 529.382,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Skin's Lake Caretaker's House",
+        "notice_type": "Boil Water Notice",
+        "start_date": "3-Nov-2023",
+        "start_date_iso": "2023-11-03",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=30B57419564A4F658825755800613659",
+        "latitude": 53.7692512,
+        "longitude": -125.9952731
+      },
+      "watertoday": {
+        "name": "Pinantan Lake Resort Water System",
+        "advisory_type": "Boil Water",
+        "since": "9/29/2022",
+        "since_iso": "2022-09-29",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35565",
+        "latitude": 50.722627,
+        "longitude": -120.014258
+      }
+    },
+    {
+      "bucket": "same_facility_possible",
+      "score": 1.0,
+      "name_ratio": 0.429,
+      "token_jaccard": 1.0,
+      "distance_km": 0.597,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Smithers Community Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "5-Apr-2022",
+        "start_date_iso": "2022-04-05",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=FFC8778B64DD193F882569C800801F2F",
+        "latitude": 54.7792299,
+        "longitude": -127.1761534
+      },
+      "watertoday": {
+        "name": "SMITHERS (14)",
+        "advisory_type": "Water Quality Advisory",
+        "since": "1/28/2020",
+        "since_iso": "2020-01-28",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=33956",
+        "latitude": 54.78182,
+        "longitude": -127.16799
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.704,
+      "name_ratio": 0.704,
+      "token_jaccard": 0.2,
+      "distance_km": 4.806,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Smithers Regional Airport - Water System",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "7-Jul-2023",
+        "start_date_iso": "2023-07-07",
+        "location_summary": "Smithers",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2CBE0C10B07D309B88256A14005B2719",
+        "latitude": 54.8234911,
+        "longitude": -127.1879175
+      },
+      "watertoday": {
+        "name": "SMITHERS (Scotia Road Water System)",
+        "advisory_type": "Boil Water",
+        "since": "2/21/2025",
+        "since_iso": "2025-02-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39474",
+        "latitude": 54.78182,
+        "longitude": -127.16799
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.755,
+      "name_ratio": 0.755,
+      "token_jaccard": 0.0,
+      "distance_km": 679.446,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Sowchea Bay Provincial Park 2",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "8-Nov-2019",
+        "start_date_iso": "2019-11-08",
+        "location_summary": "Fort St James",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=8EAC7A71A73641638825772700727030",
+        "latitude": 54.4184348,
+        "longitude": -124.3690637
+      },
+      "watertoday": {
+        "name": "ROSEBERY PROVINCIAL PARK",
+        "advisory_type": "Boil Water",
+        "since": "8/21/2025",
+        "since_iso": "2025-08-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=41701",
+        "latitude": 50.03605546340123,
+        "longitude": -117.40446546931159
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.444,
+      "name_ratio": 0.444,
+      "token_jaccard": 0.0,
+      "distance_km": 593.462,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Speckled Sow The Butcher Shop",
+        "notice_type": "Boil Water Notice",
+        "start_date": "29-Apr-2026",
+        "start_date_iso": "2026-04-29",
+        "location_summary": "Vanderhoof",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=C0359700ECD9EDE18825887F00573213",
+        "latitude": 54.002186,
+        "longitude": -123.968702
+      },
+      "watertoday": {
+        "name": "NAKUSP (Arrow Lake Chalets)",
+        "advisory_type": "Boil Water",
+        "since": "3/19/2025",
+        "since_iso": "2025-03-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39806",
+        "latitude": 50.23839,
+        "longitude": -117.797387
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.462,
+      "name_ratio": 0.462,
+      "token_jaccard": 0.0,
+      "distance_km": 695.216,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Spectrum TR901",
+        "notice_type": "Boil Water Notice",
+        "start_date": "2-Jun-2023",
+        "start_date_iso": "2023-06-02",
+        "location_summary": "Mobile Camp",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=02F77E7AF4A80C0088257FF7005AE952",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206
+      },
+      "watertoday": {
+        "name": "COLDSTREAM (1)",
+        "advisory_type": "Boil Water",
+        "since": "10/21/2025",
+        "since_iso": "2025-10-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35539",
+        "latitude": 50.22366,
+        "longitude": -119.22818
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.571,
+      "name_ratio": 0.571,
+      "token_jaccard": 0.167,
+      "distance_km": 379.837,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Spruce Capital Trailer Park",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "29-Jul-2022",
+        "start_date_iso": "2022-07-29",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D5AFF9FCBF935DD188257F860061633A",
+        "latitude": 53.9299024,
+        "longitude": -122.7207767
+      },
+      "watertoday": {
+        "name": "HEFFLEY CREEK (Ranchland Trailer Park)",
+        "advisory_type": "Boil Water",
+        "since": "3/5/2025",
+        "since_iso": "2025-03-05",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39613",
+        "latitude": 50.862576,
+        "longitude": -120.255053
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.632,
+      "name_ratio": 0.632,
+      "token_jaccard": 0.25,
+      "distance_km": 643.539,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Stellako Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "17-Aug-2018",
+        "start_date_iso": "2018-08-17",
+        "location_summary": "Fraser Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=D103B31913E2605088256A710077D559",
+        "latitude": 54.0389136,
+        "longitude": -124.9212644
+      },
+      "watertoday": {
+        "name": "CATHEDRAL LAKES LODGE WS",
+        "advisory_type": "Boil Water",
+        "since": "8/17/2023",
+        "since_iso": "2023-08-17",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35596",
+        "latitude": 49.06905652830625,
+        "longitude": -120.14202505335949
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 0.815,
+      "token_jaccard": 1.0,
+      "distance_km": 112.288,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Summit Lake Park",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Aug-2020",
+        "start_date_iso": "2020-08-21",
+        "location_summary": "Fort Nelson",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=868D9ACF20C7612888256A4600665825",
+        "latitude": 58.80473070000001,
+        "longitude": -122.7115495
+      },
+      "watertoday": {
+        "name": "SUMMIT LAKE",
+        "advisory_type": "Boil Water",
+        "since": "8/21/2020",
+        "since_iso": "2020-08-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=25305",
+        "latitude": 58.64792402722931,
+        "longitude": -124.63328300347287
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.862,
+      "name_ratio": 0.862,
+      "token_jaccard": 0.0,
+      "distance_km": 607.582,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Sunset Community Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "16-Oct-2013",
+        "start_date_iso": "2013-10-16",
+        "location_summary": "Telkwa",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=3055DBE61D08A6B988258AF4007D8090",
+        "latitude": 54.7251079,
+        "longitude": -127.0322841
+      },
+      "watertoday": {
+        "name": "SAVONA Community Water System",
+        "advisory_type": "Boil Water",
+        "since": "2/21/2025",
+        "since_iso": "2025-02-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38110",
+        "latitude": 50.759137,
+        "longitude": -120.814115
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.611,
+      "name_ratio": 0.611,
+      "token_jaccard": 0.2,
+      "distance_km": 212.9,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Tabor Lake Estates",
+        "notice_type": "Boil Water Notice",
+        "start_date": "4-Aug-2020",
+        "start_date_iso": "2020-08-04",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=DB7B3B5068365B7A882573F5005E9DB7",
+        "latitude": 53.932166,
+        "longitude": -122.5369944
+      },
+      "watertoday": {
+        "name": "Babine Lake Resort",
+        "advisory_type": "Boil Water",
+        "since": "6/21/2018",
+        "since_iso": "2018-06-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=19097",
+        "latitude": 54.229522,
+        "longitude": -125.76144
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.811,
+      "name_ratio": 0.811,
+      "token_jaccard": 0.5,
+      "distance_km": 43.143,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Takysie Lake Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "21-Nov-2025",
+        "start_date_iso": "2025-11-21",
+        "location_summary": "Burns Lake",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=327DCF3CFDC70B5488258C7C007431FC",
+        "latitude": 53.846675,
+        "longitude": -125.868743
+      },
+      "watertoday": {
+        "name": "Babine Lake Resort",
+        "advisory_type": "Boil Water",
+        "since": "6/21/2018",
+        "since_iso": "2018-06-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=19097",
+        "latitude": 54.229522,
+        "longitude": -125.76144
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.462,
+      "name_ratio": 0.462,
+      "token_jaccard": 0.167,
+      "distance_km": 231.993,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Tangle Ridge Custom Crushing",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "3-Nov-2025",
+        "start_date_iso": "2025-11-03",
+        "location_summary": "Pink Mountain",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=89BAF65887F70C470725815600615B60",
+        "latitude": 57.039033,
+        "longitude": -122.50519
+      },
+      "watertoday": {
+        "name": "Tumbler Ridge - individual",
+        "advisory_type": "Boil Water",
+        "since": "8/4/2017",
+        "since_iso": "2017-08-04",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=17578",
+        "latitude": 55.131168,
+        "longitude": -120.991292
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.857,
+      "name_ratio": 0.857,
+      "token_jaccard": 0.5,
+      "distance_km": 405.497,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Tatuk Lake Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "23-Jun-2016",
+        "start_date_iso": "2016-06-23",
+        "location_summary": "Vanderhoof",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=091E248C5E847EE28825732C005C3541",
+        "latitude": 53.6079709,
+        "longitude": -124.2406033
+      },
+      "watertoday": {
+        "name": "TUNKWA LAKE RESORT",
+        "advisory_type": "Boil Water",
+        "since": "2/2/2026",
+        "since_iso": "2026-02-02",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=43042",
+        "latitude": 50.61394650208077,
+        "longitude": -120.84798226040176
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.698,
+      "name_ratio": 0.698,
+      "token_jaccard": 0.2,
+      "distance_km": 661.135,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Tchentlo Lake Lodge",
+        "notice_type": "Boil Water Notice",
+        "start_date": "20-Jul-2009",
+        "start_date_iso": "2009-07-20",
+        "location_summary": "Fort St James",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=2254103E4BFCC3D5882569CB00131576",
+        "latitude": 54.4440119,
+        "longitude": -124.2579297
+      },
+      "watertoday": {
+        "name": "CATHEDRAL LAKES LODGE WS",
+        "advisory_type": "Boil Water",
+        "since": "8/17/2023",
+        "since_iso": "2023-08-17",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35596",
+        "latitude": 49.06905652830625,
+        "longitude": -120.14202505335949
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.8,
+      "name_ratio": 0.721,
+      "token_jaccard": 0.8,
+      "distance_km": 408.435,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Tete Jaune Weigh Scale",
+        "notice_type": "Boil Water Notice",
+        "start_date": "28-Oct-2024",
+        "start_date_iso": "2024-10-28",
+        "location_summary": "Tete Jaune Cache",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A04AAF929545940A8825798400683AB2",
+        "latitude": 54.1015293,
+        "longitude": -125.3076946
+      },
+      "watertoday": {
+        "name": "TETE JAUNE CACHE (Tete Jaune Weigh Scale)",
+        "advisory_type": "Boil Water",
+        "since": "10/28/2024",
+        "since_iso": "2024-10-28",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=38383",
+        "latitude": 52.96330205880809,
+        "longitude": -119.42968554927623
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.576,
+      "name_ratio": 0.576,
+      "token_jaccard": 0.0,
+      "distance_km": 1066.864,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Tetsa River Services Campground",
+        "notice_type": "Boil Water Notice",
+        "start_date": "10-Jul-2025",
+        "start_date_iso": "2025-07-10",
+        "location_summary": "Fort Nelson",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F8511D6A8D51C67F07257B420074BA7F",
+        "latitude": 58.80473070000001,
+        "longitude": -122.7115495
+      },
+      "watertoday": {
+        "name": "LEMON CREEK Lodge Campground",
+        "advisory_type": "Boil Water",
+        "since": "7/21/2024",
+        "since_iso": "2024-07-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=37172",
+        "latitude": 49.70051212253622,
+        "longitude": -117.4899380802478
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.426,
+      "name_ratio": 0.426,
+      "token_jaccard": 0.0,
+      "distance_km": 304.203,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "United Initiators Canada Ltd",
+        "notice_type": "Boil Water Notice",
+        "start_date": "18-Feb-2026",
+        "start_date_iso": "2026-02-18",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=A2A57F611523A608882585C800798FEA",
+        "latitude": 53.9267362,
+        "longitude": -122.7077627
+      },
+      "watertoday": {
+        "name": "SMITHERS (Scotia Road Water System)",
+        "advisory_type": "Boil Water",
+        "since": "2/21/2025",
+        "since_iso": "2025-02-21",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=39474",
+        "latitude": 54.78182,
+        "longitude": -127.16799
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.783,
+      "name_ratio": 0.783,
+      "token_jaccard": 0.0,
+      "distance_km": 833.45,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Valhalla Creek Water System",
+        "notice_type": "Boil Water Notice",
+        "start_date": "23-Jul-2011",
+        "start_date_iso": "2011-07-23",
+        "location_summary": "Regional District - Kitimat-Stikine",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=9509A3A404A4B9C38825822F0001E467",
+        "latitude": 54.5739549,
+        "longitude": -128.4235073
+      },
+      "watertoday": {
+        "name": "OLALLA Water System",
+        "advisory_type": "Water Quality Advisory",
+        "since": "3/11/2026",
+        "since_iso": "2026-03-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=40063",
+        "latitude": 49.260835,
+        "longitude": -119.828762
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.483,
+      "name_ratio": 0.483,
+      "token_jaccard": 0.0,
+      "distance_km": 754.448,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Venator Ranch Ltd.",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "10-Dec-2024",
+        "start_date_iso": "2024-12-10",
+        "location_summary": "Hudson's Hope",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=F98E83AB6CFD6C7A87258910006B2140",
+        "latitude": 56.12210270000001,
+        "longitude": -122.0429184
+      },
+      "watertoday": {
+        "name": "KEATS ISLAND",
+        "advisory_type": "Boil Water",
+        "since": "7/11/2014",
+        "since_iso": "2014-07-11",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=35386",
+        "latitude": 49.39312,
+        "longitude": -123.4847
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.583,
+      "name_ratio": 0.583,
+      "token_jaccard": 0.0,
+      "distance_km": 467.704,
+      "same_start_date": false,
+      "healthspace": {
+        "name": "Walker Camp",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "25-Mar-2026",
+        "start_date_iso": "2026-03-25",
+        "location_summary": "Prince George",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=636349209B99C79388258B8F00655543",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693
+      },
+      "watertoday": {
+        "name": "Paradise Camp",
+        "advisory_type": "Boil Water",
+        "since": "3/10/2022",
+        "since_iso": "2022-03-10",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=29656",
+        "latitude": 50.369444,
+        "longitude": -119.063611
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.8,
+      "name_ratio": 0.767,
+      "token_jaccard": 0.8,
+      "distance_km": 85.598,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "West Coast Fishing Club - The Clubhouse",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "16-Nov-2020",
+        "start_date_iso": "2020-11-16",
+        "location_summary": "North Coast Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=825B4EB60C2B0C6786256A40006BB82C",
+        "latitude": 54.2343086,
+        "longitude": -133.0205328
+      },
+      "watertoday": {
+        "name": "West Coast Fishing Club",
+        "advisory_type": "Boil Water",
+        "since": "11/16/2020",
+        "since_iso": "2020-11-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=26075",
+        "latitude": 53.74947,
+        "longitude": -132.00343
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 0.8,
+      "name_ratio": 0.793,
+      "token_jaccard": 0.8,
+      "distance_km": 39.239,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "West Coast Fishing Club - The Outpost",
+        "notice_type": "Water Quality Advisory",
+        "start_date": "16-Nov-2020",
+        "start_date_iso": "2020-11-16",
+        "location_summary": "North Coast Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=1BA651F5E5EDBD4888256BF400621D54",
+        "latitude": 53.4317595,
+        "longitude": -132.2621738
+      },
+      "watertoday": {
+        "name": "West Coast Fishing Club",
+        "advisory_type": "Boil Water",
+        "since": "11/16/2020",
+        "since_iso": "2020-11-16",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=26075",
+        "latitude": 53.74947,
+        "longitude": -132.00343
+      }
+    },
+    {
+      "bucket": "same_notice",
+      "score": 1.0,
+      "name_ratio": 1.0,
+      "token_jaccard": 1.0,
+      "distance_km": 63.554,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Whiskers Bay Resort",
+        "notice_type": "Boil Water Notice",
+        "start_date": "19-Jul-2019",
+        "start_date_iso": "2019-07-19",
+        "location_summary": "Fraser Fort George Regional District",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=0B8186B43741A5AE882569E6007B4B03",
+        "latitude": 55.03172799999999,
+        "longitude": -123.0334902
+      },
+      "watertoday": {
+        "name": "Whiskers Bay Resort",
+        "advisory_type": "Boil Water",
+        "since": "7/19/2019",
+        "since_iso": "2019-07-19",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=22225",
+        "latitude": 54.498174,
+        "longitude": -122.6783
+      }
+    },
+    {
+      "bucket": "no_clear_match",
+      "score": 0.632,
+      "name_ratio": 0.632,
+      "token_jaccard": 0.5,
+      "distance_km": 23.039,
+      "same_start_date": true,
+      "healthspace": {
+        "name": "Willow River General Store",
+        "notice_type": "Boil Water Notice",
+        "start_date": "14-Mar-2012",
+        "start_date_iso": "2012-03-14",
+        "location_summary": "Willow River",
+        "details_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-Drinking-FacilityHistory?OpenView&RestrictToCategory=4733E0259ACF831F882569E6007E87CB",
+        "latitude": 54.0732687,
+        "longitude": -122.4737578
+      },
+      "watertoday": {
+        "name": "Willow River",
+        "advisory_type": "Boil Water",
+        "since": "3/14/2012",
+        "since_iso": "2012-03-14",
+        "details_url": "https://www.watertoday.ca/textm-a.asp?province=2&advisory=7677",
+        "latitude": 54.07496,
+        "longitude": -122.120635
+      }
+    }
+  ]
+}
