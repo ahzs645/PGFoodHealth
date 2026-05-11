@@ -1,0 +1,3099 @@
+{
+  "restaurants": {
+    "total": 457,
+    "ok": 432,
+    "review": 25,
+    "issue_counts": {
+      "partial_match": 19,
+      "geocoded_address_missing_expected_city": 8,
+      "approximate_location": 3
+    },
+    "examples": [
+      {
+        "name": "Aghelh Nebun Camp",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Bowron Road South, Prince George, Prince George, BC, Canada",
+        "address": "Bowron Rd, Prince George, BC V2N, Canada",
+        "latitude": 53.8423373,
+        "longitude": -122.7062141,
+        "distance_km": 8.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Apex Reforestation-Camp 2",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations Mobile Camps, Prince George, Prince George, BC, Canada",
+        "address": "2155 Ferry Ave, Prince George, BC V2N 5E8, Canada",
+        "latitude": 53.8884696,
+        "longitude": -122.769365,
+        "distance_km": 3.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Caledonia Nordic Ski Club",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "8141 Otway Road, Prince George, V2M 7B4, Prince George, BC, Canada",
+        "address": "8141 Otway Rd, CPG, BC V2M 7B4, Canada",
+        "latitude": 53.97090000000001,
+        "longitude": -122.87345,
+        "distance_km": 10.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Camp Friendship Kitchen",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Lake Tsitniz - 50000 Willow Cale FSR, Prince George, V2N 6A5, Prince George, BC, Canada",
+        "address": "50000 WILLOW CALE FSR, Fraser-Fort George F, BC V2K 5E4, Canada",
+        "latitude": 53.6849618,
+        "longitude": -122.1804076,
+        "distance_km": 45.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Camp Hughes",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "21970 Blackwater Road, Prince George, V2L 5A2, Prince George, BC, Canada",
+        "address": "21970 Blackwater Rd, Fraser-Fort George, BC V2N 6S3, Canada",
+        "latitude": 53.71980259999999,
+        "longitude": -122.8710102,
+        "distance_km": 23.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Canadian Brewhouse and Grill",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "3036 Recplace Drive, Prince George, V2N 0G2, Prince George, BC, Canada",
+        "address": "3036 Recplace Dr, CPG, BC V2N 0G2, Canada",
+        "latitude": 53.8904384,
+        "longitude": -122.7705912,
+        "distance_km": 3.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Citizen Field",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Citizen Field - Carrie Jane Gray Park Massey Drive, Prince George, N/A, Prince George, BC, Canada",
+        "address": "Carrie Jane Gray Park, 2005 Massey Dr, Prince George, BC V2L 3Z9, Canada",
+        "latitude": 53.9055307,
+        "longitude": -122.7675597,
+        "distance_km": 1.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "College of New Caledonia-Caf",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "3330-22nd Avenue, Prince George, V2N 1P, Prince George, BC, Canada",
+        "address": "3330 22 Ave, Prince George, BC V2N 1P8, Canada",
+        "latitude": 53.905483,
+        "longitude": -122.7836094,
+        "distance_km": 2.6,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "College of New Caledonia -Kodiaks",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "3330-22nd Avenue, Prince George, V2N 1P, Prince George, BC, Canada",
+        "address": "3330 22 Ave, Prince George, BC V2N 1P8, Canada",
+        "latitude": 53.905483,
+        "longitude": -122.7836094,
+        "distance_km": 2.6,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Detsan Cyo Bannock",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "B 232 Ross Crescent, Prince George, V2M 1Y9, Prince George, BC, Canada",
+        "address": "Ross Crescent, Prince George, BC V2M 1Y9, Canada",
+        "latitude": 53.9168404,
+        "longitude": -122.7618895,
+        "distance_km": 0.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dynamic Reforestation #3",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations Mobile, Prince George, N/A, Prince George, BC, Canada",
+        "address": "2155 Ferry Ave, Prince George, BC V2N 5E8, Canada",
+        "latitude": 53.8884696,
+        "longitude": -122.769365,
+        "distance_km": 3.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dynamic Reforestation #4",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations Mobile, Prince George, N/A, Prince George, BC, Canada",
+        "address": "2155 Ferry Ave, Prince George, BC V2N 5E8, Canada",
+        "latitude": 53.8884696,
+        "longitude": -122.769365,
+        "distance_km": 3.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dynamic Reforestation #5",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations Mobile, Prince George, N/A, Prince George, BC, Canada",
+        "address": "2155 Ferry Ave, Prince George, BC V2N 5E8, Canada",
+        "latitude": 53.8884696,
+        "longitude": -122.769365,
+        "distance_km": 3.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Greek Orthodox Church Kitchen",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "511 South Tabor Boulevard, Prince George, V2M 6W7, Prince George, BC, Canada",
+        "address": "511 Tabor Blvd, CPG, BC V2M 6W7, Canada",
+        "latitude": 53.9202954,
+        "longitude": -122.8080867,
+        "distance_km": 3.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Hart Pioneer Centre Association",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "6986 Hart Highway, Prince George, V2K 3A8, Prince George, BC, Canada",
+        "address": "6986 John Hart Hwy, CPG, BC V2K 3A6, Canada",
+        "latitude": 53.9931018,
+        "longitude": -122.7922849,
+        "distance_km": 8.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp #1",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations, Prince George, N/A, Prince George, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp #2",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Locations, Prince George, N/A, Prince George, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ispah Lake Girl Guide Camp",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "52222 Willow Cale FSR, Prince George, Prince George, BC, Canada",
+        "address": "Willow Cale Rd, Fraser-Fort George, BC V2N 5X9, Canada",
+        "latitude": 53.7957946,
+        "longitude": -122.7157592,
+        "distance_km": 13.7,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Marble Slab Creamery",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "140 - 3040 Recplace Drive, Prince George, V2N OG2, Prince George, BC, Canada",
+        "address": "3040 Recplace Dr Unit 140, Prince George, BC V2N 0G2, Canada",
+        "latitude": 53.89027369999999,
+        "longitude": -122.7682569,
+        "distance_km": 3.2,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Next Generation Reforestation Camp #2",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Various Sites, Prince George, Prince George, BC, Canada",
+        "address": "Prince George, Prince George, BC V2L 2Y3, Canada",
+        "latitude": 53.919317,
+        "longitude": -122.744185,
+        "distance_km": 0.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Pass lake Camp",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "McGregor FSR, Prince George, Prince George, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Purden Ski Village",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Km 80 Highway 16 East, Prince George, N/A, Prince George, BC, Canada",
+        "address": "BC-16, Prince George, BC, Canada",
+        "latitude": 53.876325,
+        "longitude": -122.7713361,
+        "distance_km": 4.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Rainbow Berry Farm",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "18070 Chief Lake Road, Prince George, V2K 5K4, Prince George, BC, Canada",
+        "address": "18070 Chief Lake Rd, Fraser-Fort George A, BC V2K 5K4, Canada",
+        "latitude": 54.0297972,
+        "longitude": -122.9808969,
+        "distance_km": 19.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Spruce City Stadium",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Spruce City Stadium - Carrie Jane Gray Park Massey Drive, Prince George, N/A, Prince George, BC, Canada",
+        "address": "Carrie Jane Gray Park, 2005 Massey Dr, Prince George, BC V2L 3Z9, Canada",
+        "latitude": 53.9055307,
+        "longitude": -122.7675597,
+        "distance_km": 1.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Walker Camp",
+        "city": "Prince George",
+        "facility_location": null,
+        "query": "Prince George, Prince George, BC, Canada",
+        "address": "Prince George, Prince George, BC V2L 2Y3, Canada",
+        "latitude": 53.919317,
+        "longitude": -122.744185,
+        "distance_km": 0.4,
+        "issues": [
+          "partial_match"
+        ]
+      }
+    ]
+  },
+  "water_notices": {
+    "total": 151,
+    "ok": 87,
+    "review": 64,
+    "issue_counts": {
+      "geocoded_address_missing_expected_city": 21,
+      "approximate_location": 29,
+      "partial_match": 49,
+      "generic_geocoded_address": 3,
+      "far_from_expected_city": 1
+    },
+    "examples": [
+      {
+        "name": "10 Mile Lake Provincial Park",
+        "city": "Quesnel",
+        "facility_location": "Violet Doody Road, Quesnel",
+        "query": "Violet Doody Road, Quesnel, BC, Canada",
+        "address": "Violet Doody Rd, Cariboo, BC V0L, Canada",
+        "latitude": 53.0732573,
+        "longitude": -122.4498901,
+        "distance_km": 11.0,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Babine Lake Resort",
+        "city": "Burns Lake",
+        "facility_location": "Pendleton Bay, Burns Lake, V0J 1E0",
+        "query": "Pendleton Bay, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Barendregt Water System",
+        "city": "Smithers",
+        "facility_location": "1121 Lowland Road, Smithers, V0J 2N6",
+        "query": "1121 Lowland Road, Smithers, V0J 2N6, BC, Canada",
+        "address": "1121 Lowland Rd, Bulkley-Nechako A, BC V0J 2N6, Canada",
+        "latitude": 54.7773412,
+        "longitude": -127.1074725,
+        "distance_km": 3.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Bearberry Meadows Guesthouse",
+        "city": "Valemount",
+        "facility_location": "12190 Crown Road, Valemount, V0E 2Z0",
+        "query": "12190 Crown Road, Valemount, V0E 2Z0, BC, Canada",
+        "address": "12190 Crown Rd, Tête Jaune Cache, BC V0E 2Z0, Canada",
+        "latitude": 52.96471039999999,
+        "longitude": -119.4355411,
+        "distance_km": 18.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bearclaw Lodge",
+        "city": "Hazelton",
+        "facility_location": "6271 Kispiox Valley Road, Hazelton, V0J 1Y0",
+        "query": "6271 Kispiox Valley Road, Hazelton, V0J 1Y0, BC, Canada",
+        "address": "Kispiox Valley Rd, Hazelton, BC V0J, Canada",
+        "latitude": 55.2591374,
+        "longitude": -127.6646078,
+        "distance_km": 0.6,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Beaver Point Resort",
+        "city": "Burns Lake",
+        "facility_location": "Tchesinkut Lake, Burns Lake, V0J 1E0",
+        "query": "Tchesinkut Lake, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Tchesinkut Lake, BC V0J 1E2, Canada",
+        "latitude": 54.083333,
+        "longitude": -125.733333,
+        "distance_km": 16.8,
+        "issues": [
+          "approximate_location",
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Bell Mountain Good Neighbour CWS",
+        "city": "McBride",
+        "facility_location": "Lamming Pit Road, McBride, V0J 2E0",
+        "query": "Lamming Pit Road, McBride, V0J 2E0, BC, Canada",
+        "address": "Lamming Pit Rd, Fraser-Fort George, BC V0J 2E0, Canada",
+        "latitude": 53.3220522,
+        "longitude": -120.2470335,
+        "distance_km": 5.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Birch Bay Resort and Cabins",
+        "city": "Fraser Lake",
+        "facility_location": "155 Birch Bay Road, Fraser Lake, V0J 1S0",
+        "query": "155 Birch Bay Road, Fraser Lake, V0J 1S0, BC, Canada",
+        "address": "Simon Bay Rd, Bulkley-Nechako, BC V0J 1S0, Canada",
+        "latitude": 54.0911391,
+        "longitude": -124.8388374,
+        "distance_km": 3.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Cameron Lake Outdoor Rec. Facility",
+        "city": "Hudson's Hope",
+        "facility_location": "204 Highway 29, Hudson's Hope, V0C 1V0",
+        "query": "204 Highway 29, Hudson's Hope, V0C 1V0, BC, Canada",
+        "address": "BC-29, Hudson's Hope, BC V0C, Canada",
+        "latitude": 56.0252449,
+        "longitude": -121.9270268,
+        "distance_km": 1.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Camp Hughes",
+        "city": "Prince George",
+        "facility_location": "21970 Blackwater Road, Prince George, V2L 5A2",
+        "query": "21970 Blackwater Road, Prince George, V2L 5A2, BC, Canada",
+        "address": "21970 Blackwater Rd, Fraser-Fort George, BC V2N 6S3, Canada",
+        "latitude": 53.71980259999999,
+        "longitude": -122.8710102,
+        "distance_km": 23.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Camp Yak'isda Bik'ah",
+        "city": "Smithers",
+        "facility_location": "4421 Tyhee Lake Road, Smithers",
+        "query": "4421 Tyhee Lake Road, Smithers, BC, Canada",
+        "address": "4421 Tyhee Lake Rd, Telkwa, BC V0J 2X1, Canada",
+        "latitude": 54.729933,
+        "longitude": -127.0509944,
+        "distance_km": 9.5,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Carrier Lumber",
+        "city": "Prince George",
+        "facility_location": "13700 Willow Cale FSR, Prince George",
+        "query": "13700 Willow Cale FSR, Prince George, BC, Canada",
+        "address": "Willow Cale Rd, Fraser-Fort George, BC V2N 5X9, Canada",
+        "latitude": 53.7957946,
+        "longitude": -122.7157592,
+        "distance_km": 13.7,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Cassiar Jade Contracting",
+        "city": "Cassiar",
+        "facility_location": "Cassiar Townsite, Cassiar",
+        "query": "Cassiar Townsite, Cassiar, BC, Canada",
+        "address": "Cassiar, BC V0C 2Z0, Canada",
+        "latitude": 59.28214999999999,
+        "longitude": -129.816895,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dease Lake Air Tanker Base Water System (building #72116)",
+        "city": "Dease Lake",
+        "facility_location": "Airport Road, Dease Lake, V0C 1L0",
+        "query": "Airport Road, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Riverview Dr, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4205398,
+        "longitude": -130.0266017,
+        "distance_km": 2.6,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Decker Lake Mennonite School",
+        "city": "Burns Lake",
+        "facility_location": "6760 Highway 16 West, Burns Lake, V0J 1E1",
+        "query": "6760 Highway 16 West, Burns Lake, V0J 1E1, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dodge Cove Community Water System",
+        "city": "North Coast Regional District",
+        "facility_location": "Dodge Cove, North Coast Regional District, V8J 3S1",
+        "query": "Dodge Cove, North Coast Regional District, V8J 3S1, BC, Canada",
+        "address": "Dodge Cove, BC, Canada",
+        "latitude": 54.2878363,
+        "longitude": -130.3876883,
+        "distance_km": null,
+        "issues": [
+          "approximate_location"
+        ]
+      },
+      {
+        "name": "Dolly Varden Silver",
+        "city": "Regional District - Kitimat-Stikine",
+        "facility_location": "23 km North of Alice Arm, Regional District - Kitimat-Stikine",
+        "query": "23 km North of Alice Arm, Regional District - Kitimat-Stikine, BC, Canada",
+        "address": "Alice Arm, BC V0T 1W0, Canada",
+        "latitude": 55.482822,
+        "longitude": -129.489969,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dolphin's North Lodge",
+        "city": "North Coast Regional District",
+        "facility_location": "Work Channel, North Coast Regional District",
+        "query": "Work Channel, North Coast Regional District, BC, Canada",
+        "address": "Work Channel, North Coast, BC V0V, Canada",
+        "latitude": 54.4829679,
+        "longitude": -130.2126846,
+        "distance_km": null,
+        "issues": [
+          "approximate_location"
+        ]
+      },
+      {
+        "name": "Dynamic Reforestation 2",
+        "city": "Mobile Camp",
+        "facility_location": "Various Locations, Mobile Camp, N/A",
+        "query": "Various Locations, Mobile Camp, N/A, BC, Canada",
+        "address": "British Columbia, Canada",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "generic_geocoded_address",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dynamic Reforestation 3",
+        "city": "Mobile Camp",
+        "facility_location": "Various Locations, Mobile Camp, N/A",
+        "query": "Various Locations, Mobile Camp, N/A, BC, Canada",
+        "address": "British Columbia, Canada",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "generic_geocoded_address",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Finlay River Outfitters",
+        "city": "Fraser Fort George Regional District",
+        "facility_location": "42 km Finlay FSR, Fraser Fort George Regional District, V0J 2C0",
+        "query": "42 km Finlay FSR, Fraser Fort George Regional District, V0J 2C0, BC, Canada",
+        "address": "Finlay, BC V0J 2C0, Canada",
+        "latitude": 55.983858,
+        "longitude": -123.833143,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Forest Lawn Mobile Home Park",
+        "city": "Fort St. John",
+        "facility_location": "7414 Forest Lawn Street, Fort St. John, V1J 4M6",
+        "query": "7414 Forest Lawn Street, Fort St. John, V1J 4M6, BC, Canada",
+        "address": "7414 Forest Lawn St, Peace River, BC V1J 8B7, Canada",
+        "latitude": 56.22068969999999,
+        "longitude": -120.7547983,
+        "distance_km": 6.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Fox Dairy Farms Ltd",
+        "city": "Quesnel",
+        "facility_location": "2849 Holley Road, Quesnel, V2J 6L9",
+        "query": "2849 Holley Road, Quesnel, V2J 6L9, BC, Canada",
+        "address": "2849 Holley Rd, Cariboo A, BC V2J 6L9, Canada",
+        "latitude": 52.7511509,
+        "longitude": -122.4530962,
+        "distance_km": 25.4,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Hutda Lake Correctional Camp",
+        "city": "Prince George",
+        "facility_location": "15875 Hutda Lake Road, Prince George, V2L 5J9",
+        "query": "15875 Hutda Lake Road, Prince George, V2L 5J9, BC, Canada",
+        "address": "Prince George, BC V2L 5J9, Canada",
+        "latitude": 53.9135917,
+        "longitude": -122.7449123,
+        "distance_km": 0.5,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Jackfish Community Association Hall",
+        "city": "Chetwynd",
+        "facility_location": "1515 Old Jackfish Lake Road, Chetwynd, V0C 1J0",
+        "query": "1515 Old Jackfish Lake Road, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "Jackfish Lake Rd, Chetwynd, BC V0C, Canada",
+        "latitude": 55.7209553,
+        "longitude": -121.5792233,
+        "distance_km": 4.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kemess Mine Camp Water System",
+        "city": "Peace River Regional District",
+        "facility_location": "180 km Finlay FSR, Peace River Regional District",
+        "query": "180 km Finlay FSR, Peace River Regional District, BC, Canada",
+        "address": "Finlay, BC V0J 2C0, Canada",
+        "latitude": 55.983858,
+        "longitude": -123.833143,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Key Pile Water Well and Treatment System",
+        "city": "Fort Nelson",
+        "facility_location": "KM 185 Sierra Yoyo Desan Road, Helmut area, Fort Nelson",
+        "query": "KM 185 Sierra Yoyo Desan Road, Helmut area, Fort Nelson, BC, Canada",
+        "address": "Sierra Yoyo Desan Rd, Northern Rockies A, BC V0C 1R0, Canada",
+        "latitude": 58.7499921,
+        "longitude": -121.8797067,
+        "distance_km": 47.5,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kitimat Community Water System",
+        "city": "Kitimat",
+        "facility_location": "East of Kitimat River near Highway Bridge, Kitimat",
+        "query": "East of Kitimat River near Highway Bridge, Kitimat, BC, Canada",
+        "address": "Kitimat River, Kitimat-Stikine, BC, Canada",
+        "latitude": 54.06236830468409,
+        "longitude": -128.6458754028484,
+        "distance_km": 1.2,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Leo Creek Fisheries Camp",
+        "city": "Fort St James",
+        "facility_location": "Km 104 Leo Creek FSR, Fort St James, V0J 1P0",
+        "query": "Km 104 Leo Creek FSR, Fort St James, V0J 1P0, BC, Canada",
+        "address": "Leo Creek Forest Service Rd, Bulkley-Nechako, BC V0J 1P0, Canada",
+        "latitude": 54.8853329,
+        "longitude": -124.7960615,
+        "distance_km": 60.3,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Liard Hotsprings Resort [FN FN Ltd.]",
+        "city": "Liard River",
+        "facility_location": "Mile 497 Alaska Highway, Liard River, V1J 4J8",
+        "query": "Mile 497 Alaska Highway, Liard River, V1J 4J8, BC, Canada",
+        "address": "Liard River, BC V0C 1Z0, Canada",
+        "latitude": 59.416667,
+        "longitude": -126.083333,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Lucille Mountain Water Users",
+        "city": "McBride",
+        "facility_location": "Lucille Mountain, McBride, V0J 2E0",
+        "query": "Lucille Mountain, McBride, V0J 2E0, BC, Canada",
+        "address": "Lucille Mountain Recreation Site, Fraser-Fort George, BC V0J 2E0, Canada",
+        "latitude": 53.259835,
+        "longitude": -120.2507602,
+        "distance_km": 7.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Maxhamish Operations Camp",
+        "city": "Fort Nelson",
+        "facility_location": "Fort Nelson",
+        "query": "Fort Nelson, BC, Canada",
+        "address": "Fort Nelson, BC V0C 1R0, Canada",
+        "latitude": 58.8050174,
+        "longitude": -122.697236,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location"
+        ]
+      },
+      {
+        "name": "Molyhills Golf Course",
+        "city": "Fraser Lake",
+        "facility_location": "1400 Francois Lake Road East, Fraser Lake, V0J 1S0",
+        "query": "1400 Francois Lake Road East, Fraser Lake, V0J 1S0, BC, Canada",
+        "address": "1400 Francois Lake Rd, Bulkley-Nechako, BC V0J 1L0, Canada",
+        "latitude": 54.0110592,
+        "longitude": -125.0565765,
+        "distance_km": 14.6,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Monkman Provincial Park - Well 1",
+        "city": "Tumbler Ridge",
+        "facility_location": "km 50 Murray FSR, Tumbler Ridge",
+        "query": "km 50 Murray FSR, Tumbler Ridge, BC, Canada",
+        "address": "Murray FSR, Peace River, BC V0C 2W0, Canada",
+        "latitude": 54.956076,
+        "longitude": -121.127969,
+        "distance_km": 20.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Moosehorn Lodge",
+        "city": "Burns Lake",
+        "facility_location": "7475 Moose Horn Road, Burns Lake",
+        "query": "7475 Moose Horn Road, Burns Lake, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Mount Robson Motor Village",
+        "city": "Valemount",
+        "facility_location": "18344 Highway 16 East, Valemount, V0E 2Z0",
+        "query": "18344 Highway 16 East, Valemount, V0E 2Z0, BC, Canada",
+        "address": "BC-16, British Columbia, Canada",
+        "latitude": 54.1015293,
+        "longitude": -125.3076946,
+        "distance_km": 424.0,
+        "issues": [
+          "far_from_expected_city",
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Mount Robson Provincial Park - Lucerne Campground #1",
+        "city": "Valemount",
+        "facility_location": "Mount Robson Provincial Park Highway 16 East, Valemount, V0E 2Z0",
+        "query": "Mount Robson Provincial Park Highway 16 East, Valemount, V0E 2Z0, BC, Canada",
+        "address": "Mount Robson Provincial Park, BC-16, Fraser-Fort George, BC V0E 2Z0, Canada",
+        "latitude": 53.0310201,
+        "longitude": -119.2547965,
+        "distance_km": 22.3,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Mountainview Property Owner's Association Water System",
+        "city": "Kitwanga",
+        "facility_location": "3864 Mountainview Drive, Kitwanga, V0J 2A0",
+        "query": "3864 Mountainview Drive, Kitwanga, V0J 2A0, BC, Canada",
+        "address": "Kitwanga, BC V0J 2A0, Canada",
+        "latitude": 56.57636129999999,
+        "longitude": -128.0677139,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Noralee Resort",
+        "city": "Burns Lake",
+        "facility_location": "49400 Collymont Road, Burns Lake, V0J 1E2",
+        "query": "49400 Collymont Road, Burns Lake, V0J 1E2, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ootsa Lake CWS",
+        "city": "Burns Lake",
+        "facility_location": "20620 Ootsa Nadina Road, Burns Lake, V0J 1E4",
+        "query": "20620 Ootsa Nadina Road, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "Ootsa Nadina Rd, Bulkley-Nechako, BC V0J, Canada",
+        "latitude": 54.0123966,
+        "longitude": -126.203879,
+        "distance_km": 37.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Paul Lychak Hall (Evelyn Community Hall)",
+        "city": "Smithers",
+        "facility_location": "10162 Highway 16, Smithers, V0J 2N1",
+        "query": "10162 Highway 16, Smithers, V0J 2N1, BC, Canada",
+        "address": "BC-16, Smithers, BC, Canada",
+        "latitude": 54.7890359,
+        "longitude": -127.1763175,
+        "distance_km": 0.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Petronas Energy Camp C-72-A Plant (109 Road)",
+        "city": "Wonowon",
+        "facility_location": "C-72-A/94-B-16, Wonowon",
+        "query": "C-72-A/94-B-16, Wonowon, BC, Canada",
+        "address": "Wonowon, BC V0C 2N0, Canada",
+        "latitude": 56.730259,
+        "longitude": -121.808989,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Petronas Energy Camp C-96-G (Altares)",
+        "city": "Hudson's Hope",
+        "facility_location": "C-96-G/94-B-08, Hudson's Hope",
+        "query": "C-96-G/94-B-08, Hudson's Hope, BC, Canada",
+        "address": "Hudson's Hope, BC V0C, Canada",
+        "latitude": 56.0357172,
+        "longitude": -121.9038286,
+        "distance_km": 0.6,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Petronas Energy Plant A-29-J (Lily Lake)",
+        "city": "Pink Mountain",
+        "facility_location": "A-29-J/ 94-G-02, Pink Mountain",
+        "query": "A-29-J/ 94-G-02, Pink Mountain, BC, Canada",
+        "address": "Pink Mountain, BC V0C 2B0, Canada",
+        "latitude": 57.039033,
+        "longitude": -122.50519,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Petronas Energy Plant C- 16- F(Caribou)",
+        "city": "Pink Mountain",
+        "facility_location": "C-16-F/94-06-07, Pink Mountain",
+        "query": "C-16-F/94-06-07, Pink Mountain, BC, Canada",
+        "address": "Pink Mountain, BC V0C 2B0, Canada",
+        "latitude": 57.039033,
+        "longitude": -122.50519,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Purden Ski Village",
+        "city": "Prince George",
+        "facility_location": "Km 80 Highway 16 East, Prince George, N/A",
+        "query": "Km 80 Highway 16 East, Prince George, N/A, BC, Canada",
+        "address": "BC-16, Prince George, BC, Canada",
+        "latitude": 53.876325,
+        "longitude": -122.7713361,
+        "distance_km": 4.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Rainbow Creek CWS",
+        "city": "McBride",
+        "facility_location": "170 Mountainview Road, McBride, V0J 2E0",
+        "query": "170 Mountainview Road, McBride, V0J 2E0, BC, Canada",
+        "address": "170 Mountain View Rd, Fraser-Fort George H, BC V0J 2E0, Canada",
+        "latitude": 53.3044051,
+        "longitude": -120.1255984,
+        "distance_km": 2.6,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Red Chris Mill Water System",
+        "city": "Iskut",
+        "facility_location": "18km SE of Iskut Red Chris Access Road, Iskut, V0J 1K0",
+        "query": "18km SE of Iskut Red Chris Access Road, Iskut, V0J 1K0, BC, Canada",
+        "address": "Kitimat-Stikine, BC V0J 1K0, Canada",
+        "latitude": 57.71029979999999,
+        "longitude": -129.984629,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Red Goat Lodge Water System",
+        "city": "Iskut",
+        "facility_location": "km 403 Highway 37, Iskut, V0J 1K0",
+        "query": "km 403 Highway 37, Iskut, V0J 1K0, BC, Canada",
+        "address": "403 BC-37, Iskut, BC V0J 0B8, Canada",
+        "latitude": 57.8155224,
+        "longitude": -129.9604886,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Riverbend MHP",
+        "city": "McBride",
+        "facility_location": "3115 Riverbend Road, McBride, V0J 2E0",
+        "query": "3115 Riverbend Road, McBride, V0J 2E0, BC, Canada",
+        "address": "3115 River Bend Rd, Fraser-Fort George H, BC V0J 2E0, Canada",
+        "latitude": 53.3232571,
+        "longitude": -120.2220546,
+        "distance_km": 4.5,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      }
+    ]
+  },
+  "water_drinking": {
+    "total": 1125,
+    "ok": 644,
+    "review": 481,
+    "issue_counts": {
+      "partial_match": 370,
+      "geocoded_address_missing_expected_city": 145,
+      "approximate_location": 192,
+      "generic_geocoded_address": 38,
+      "far_from_expected_city": 6
+    },
+    "examples": [
+      {
+        "name": "Aghelh Nebun Camp",
+        "city": "Prince George",
+        "facility_location": "Bowron Road South, Prince George",
+        "query": "Bowron Road South, Prince George, BC, Canada",
+        "address": "Bowron Rd, Prince George, BC V2N, Canada",
+        "latitude": 53.8423373,
+        "longitude": -122.7062141,
+        "distance_km": 8.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Caledonia MHP",
+        "city": "Prince George",
+        "facility_location": "Manager - 5130 North Nechako Road, Prince George, V2N 2S6",
+        "query": "Manager - 5130 North Nechako Road, Prince George, V2N 2S6, BC, Canada",
+        "address": "5130 N Nechako Rd, Prince George, BC V2K 4Y5, Canada",
+        "latitude": 53.9618796,
+        "longitude": -122.8239897,
+        "distance_km": 7.0,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Caledonia Nordic Ski Club-Otway Ski Area",
+        "city": "Prince George",
+        "facility_location": "8141 Otway Road, Prince George, V2M 7B4",
+        "query": "8141 Otway Road, Prince George, V2M 7B4, BC, Canada",
+        "address": "8141 Otway Rd, CPG, BC V2M 7B4, Canada",
+        "latitude": 53.97090000000001,
+        "longitude": -122.87345,
+        "distance_km": 10.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Camp Friendship 1",
+        "city": "Prince George",
+        "facility_location": "Lake Tsitniz - 50000 Willow Cale FSR, Prince George, V2N 6A5",
+        "query": "Lake Tsitniz - 50000 Willow Cale FSR, Prince George, V2N 6A5, BC, Canada",
+        "address": "50000 WILLOW CALE FSR, Fraser-Fort George F, BC V2K 5E4, Canada",
+        "latitude": 53.6849618,
+        "longitude": -122.1804076,
+        "distance_km": 45.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Camp Friendship 2",
+        "city": "Prince George",
+        "facility_location": "Lake Tsitniz - 50000 Willow Cale FSR, Prince George, V2N 6A5",
+        "query": "Lake Tsitniz - 50000 Willow Cale FSR, Prince George, V2N 6A5, BC, Canada",
+        "address": "50000 WILLOW CALE FSR, Fraser-Fort George F, BC V2K 5E4, Canada",
+        "latitude": 53.6849618,
+        "longitude": -122.1804076,
+        "distance_km": 45.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Camp Hughes",
+        "city": "Prince George",
+        "facility_location": "21970 Blackwater Road, Prince George, V2L 5A2",
+        "query": "21970 Blackwater Road, Prince George, V2L 5A2, BC, Canada",
+        "address": "21970 Blackwater Rd, Fraser-Fort George, BC V2N 6S3, Canada",
+        "latitude": 53.71980259999999,
+        "longitude": -122.8710102,
+        "distance_km": 23.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Carrier Forest Products Fabrication/Mobile Shop",
+        "city": "Prince George",
+        "facility_location": "Box 2464, Prince George, V2N 2S6",
+        "query": "Box 2464, Prince George, V2N 2S6, BC, Canada",
+        "address": "Prince George, BC V2N 2S6, Canada",
+        "latitude": 53.8801291,
+        "longitude": -122.7655631,
+        "distance_km": 4.2,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Carrier Lumber",
+        "city": "Prince George",
+        "facility_location": "13700 Willow Cale FSR, Prince George",
+        "query": "13700 Willow Cale FSR, Prince George, BC, Canada",
+        "address": "Willow Cale Rd, Fraser-Fort George, BC V2N 5X9, Canada",
+        "latitude": 53.7957946,
+        "longitude": -122.7157592,
+        "distance_km": 13.7,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Eskers Provincial Park",
+        "city": "Prince George",
+        "facility_location": "West End Chief Lake Road, Prince George",
+        "query": "West End Chief Lake Road, Prince George, BC, Canada",
+        "address": "Chief Lake Rd, Prince George, BC, Canada",
+        "latitude": 54.0088239,
+        "longitude": -122.8262959,
+        "distance_km": 11.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Hutda Lake Correctional Camp",
+        "city": "Prince George",
+        "facility_location": "15875 Hutda Lake Road, Prince George, V2L 5J9",
+        "query": "15875 Hutda Lake Road, Prince George, V2L 5J9, BC, Canada",
+        "address": "Prince George, BC V2L 5J9, Canada",
+        "latitude": 53.9135917,
+        "longitude": -122.7449123,
+        "distance_km": 0.5,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp 1",
+        "city": "Prince George",
+        "facility_location": "Various Locations, Prince George, N/A",
+        "query": "Various Locations, Prince George, N/A, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp 2",
+        "city": "Prince George",
+        "facility_location": "Various Locations, Prince George, N/A",
+        "query": "Various Locations, Prince George, N/A, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp 3",
+        "city": "Prince George",
+        "facility_location": "Various Locations, Prince George, N/A",
+        "query": "Various Locations, Prince George, N/A, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Industrial Forestry Service Camp 4",
+        "city": "Prince George",
+        "facility_location": "Various Locations, Prince George, N/A",
+        "query": "Various Locations, Prince George, N/A, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Iris Energy - Prince George Water System",
+        "city": "Prince George",
+        "facility_location": "1022 Pickering Road, Prince George, V2N6S5",
+        "query": "1022 Pickering Road, Prince George, V2N6S5, BC, Canada",
+        "address": "1022 Pickering Rd, CPG, BC V2N 6S5, Canada",
+        "latitude": 53.91043999999999,
+        "longitude": -122.70686,
+        "distance_km": 2.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Ispah Lake Girl Guide Camp",
+        "city": "Prince George",
+        "facility_location": "52222 Willow Cale FSR, Prince George",
+        "query": "52222 Willow Cale FSR, Prince George, BC, Canada",
+        "address": "Willow Cale Rd, Fraser-Fort George, BC V2N 5X9, Canada",
+        "latitude": 53.7957946,
+        "longitude": -122.7157592,
+        "distance_km": 13.7,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Northwest Wood Treaters",
+        "city": "Prince George",
+        "facility_location": "10553 Willow Cale FSR, Prince George, V2N 4T6",
+        "query": "10553 Willow Cale FSR, Prince George, V2N 4T6, BC, Canada",
+        "address": "18020 Willow Cale Forest Service Rd, Prince George, BC V2N 5Y5, Canada",
+        "latitude": 53.7730216,
+        "longitude": -122.6700592,
+        "distance_km": 16.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Park Drive In Portable Water Source",
+        "city": "Prince George",
+        "facility_location": "9660 Raceway Road, Prince George, V2K 5K2",
+        "query": "9660 Raceway Road, Prince George, V2K 5K2, BC, Canada",
+        "address": "9660 Raceway Rd, Fraser-Fort George A, BC V2K 5K2, Canada",
+        "latitude": 54.0179184,
+        "longitude": -122.9489609,
+        "distance_km": 17.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Pass Lake Camp",
+        "city": "Prince George",
+        "facility_location": "McGregor FSR, Prince George",
+        "query": "McGregor FSR, Prince George, BC, Canada",
+        "address": "5164 John Hart Hwy, Prince George, BC V2K 5B7, Canada",
+        "latitude": 53.9736,
+        "longitude": -122.76753,
+        "distance_km": 6.4,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "PG Tree Improvement Station",
+        "city": "Prince George",
+        "facility_location": "17000 Domano Boulevard, Prince George, V2N 5M2",
+        "query": "17000 Domano Boulevard, Prince George, V2N 5M2, BC, Canada",
+        "address": "Domano Blvd, Prince George, BC V2N, Canada",
+        "latitude": 53.8552074,
+        "longitude": -122.7703288,
+        "distance_km": 7.0,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ponderosa MHP",
+        "city": "Prince George",
+        "facility_location": "3508 Piereroy Road, Prince George, V2N 2S3",
+        "query": "3508 Piereroy Road, Prince George, V2N 2S3, BC, Canada",
+        "address": "Prince George, BC V2N 2S3, Canada",
+        "latitude": 53.8851942,
+        "longitude": -122.7624056,
+        "distance_km": 3.6,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Purden Lake Resort",
+        "city": "Prince George",
+        "facility_location": "34660 Highway 16 East, Prince George, V2L 4V3",
+        "query": "34660 Highway 16 East, Prince George, V2L 4V3, BC, Canada",
+        "address": "BC-16, Prince George, BC, Canada",
+        "latitude": 53.876325,
+        "longitude": -122.7713361,
+        "distance_km": 4.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Purden Ski Village",
+        "city": "Prince George",
+        "facility_location": "Km 80 Highway 16 East, Prince George, N/A",
+        "query": "Km 80 Highway 16 East, Prince George, N/A, BC, Canada",
+        "address": "BC-16, Prince George, BC, Canada",
+        "latitude": 53.876325,
+        "longitude": -122.7713361,
+        "distance_km": 4.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Rainbow Berry Farm",
+        "city": "Prince George",
+        "facility_location": "18070 Chief Lake Road, Prince George, V2K 5K4",
+        "query": "18070 Chief Lake Road, Prince George, V2K 5K4, BC, Canada",
+        "address": "18070 Chief Lake Rd, Fraser-Fort George A, BC V2K 5K4, Canada",
+        "latitude": 54.0297972,
+        "longitude": -122.9808969,
+        "distance_km": 19.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Slim Creek Rest Stop",
+        "city": "Prince George",
+        "facility_location": "60 miles Highway 16 East, Prince George",
+        "query": "60 miles Highway 16 East, Prince George, BC, Canada",
+        "address": "BC-16, Prince George, BC, Canada",
+        "latitude": 53.876325,
+        "longitude": -122.7713361,
+        "distance_km": 4.8,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Spectra Energy Shelley Non Potable Water System",
+        "city": "Prince George",
+        "facility_location": "6821 Graves Road, Prince George",
+        "query": "6821 Graves Road, Prince George, BC, Canada",
+        "address": "6821 Graves Rd, CPG, BC V2N 6E9, Canada",
+        "latitude": 53.91993,
+        "longitude": -122.6231,
+        "distance_km": 8.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Stone Creek RV Park",
+        "city": "Prince George",
+        "facility_location": "31605 Highway 97 South, Prince George, V2N 5Z8",
+        "query": "31605 Highway 97 South, Prince George, V2N 5Z8, BC, Canada",
+        "address": "Hwy 97 S, Prince George, BC V2K 0A8, Canada",
+        "latitude": 53.9909881,
+        "longitude": -122.7900205,
+        "distance_km": 8.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Walker Camp",
+        "city": "Prince George",
+        "facility_location": "Prince George",
+        "query": "Prince George, BC, Canada",
+        "address": "Prince George, BC, Canada",
+        "latitude": 53.9170641,
+        "longitude": -122.7496693,
+        "distance_km": 0.0,
+        "issues": [
+          "approximate_location"
+        ]
+      },
+      {
+        "name": "West Lake Provincial Park",
+        "city": "Prince George",
+        "facility_location": "West Lake, Prince George",
+        "query": "West Lake, Prince George, BC, Canada",
+        "address": "W Lake Rd, Fraser-Fort George, BC V0J, Canada",
+        "latitude": 53.6873442,
+        "longitude": -122.8203097,
+        "distance_km": 26.0,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "YRB Maintenance Yard Aleza Lake",
+        "city": "Prince George",
+        "facility_location": "Aleza Lake Upper Fraser Highway, Prince George",
+        "query": "Aleza Lake Upper Fraser Highway, Prince George, BC, Canada",
+        "address": "Upper Fraser Rd, Fraser-Fort George, BC, Canada",
+        "latitude": 54.0869522,
+        "longitude": -121.8742363,
+        "distance_km": 60.2,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "NorthRiver Midstream G and P Canada Inc Tupper West Gas Plant",
+        "city": "Arras",
+        "facility_location": "KM 2.5 200 Road, Arras",
+        "query": "KM 2.5 200 Road, Arras, BC, Canada",
+        "address": "200 Rd, Peace River, BC V0C, Canada",
+        "latitude": 55.6358876,
+        "longitude": -120.5255654,
+        "distance_km": 13.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ovintiv Canada ULC - Sunrise 04-26 Control Room",
+        "city": "Arras",
+        "facility_location": "04-26-078-17-W6M, Arras",
+        "query": "04-26-078-17-W6M, Arras, BC, Canada",
+        "address": "Arras, BC V0C 1B0, Canada",
+        "latitude": 55.754089,
+        "longitude": -120.524384,
+        "distance_km": 2.7,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Atlin Conservation Warehouse Water system building 78095",
+        "city": "Atlin",
+        "facility_location": "McBride Boulevard, Atlin, V0W 1A0",
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Forestry Bunkhouse Water System (building # 70037)",
+        "city": "Atlin",
+        "facility_location": "McBride Boulevard, Atlin, V0W 1A0",
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Improvement District Water System",
+        "city": "Atlin",
+        "facility_location": "Corner of Lake Street and Pearl Avenue, Atlin, V0W 1A0",
+        "query": "Corner of Lake Street and Pearl Avenue, Atlin, V0W 1A0, BC, Canada",
+        "address": "Pearl Ave & Lake St, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.57259209999999,
+        "longitude": -133.7053038,
+        "distance_km": 1.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Recreation Centre Water System",
+        "city": "Atlin",
+        "facility_location": "Sinclair Avenue, Atlin, V0W 1A0",
+        "query": "Sinclair Avenue, Atlin, V0W 1A0, BC, Canada",
+        "address": "Sinclair Ave, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5757817,
+        "longitude": -133.7046282,
+        "distance_km": 0.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Brewery Bay Chalet Water System",
+        "city": "Atlin",
+        "facility_location": "210 McBride Boulevard, Atlin, V0W 1A0",
+        "query": "210 McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bridge End Water System",
+        "city": "Atlin",
+        "facility_location": "Warm Bay Road, Atlin, V0C 1L0",
+        "query": "Warm Bay Road, Atlin, V0C 1L0, BC, Canada",
+        "address": "Warm Bay Rd, Stikine Region, BC V0W, Canada",
+        "latitude": 59.4641742,
+        "longitude": -133.572393,
+        "distance_km": 14.3,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Yukon Suspension Bridge Water System",
+        "city": "Atlin",
+        "facility_location": "Km 47.2 South Klondike Highway, Atlin",
+        "query": "Km 47.2 South Klondike Highway, Atlin, BC, Canada",
+        "address": "Klondike Hwy, British Columbia, Canada",
+        "latitude": 59.7980676,
+        "longitude": -134.9077424,
+        "distance_km": 72.6,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Barkerville Historic Town",
+        "city": "Barkerville",
+        "facility_location": "14301 Highway 27, East, Barkerville, V0K 1B0",
+        "query": "14301 Highway 27, East, Barkerville, V0K 1B0, BC, Canada",
+        "address": "Barkerville, BC V0K, Canada",
+        "latitude": 53.0703513,
+        "longitude": -121.5137657,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Lowhee Campsite",
+        "city": "Barkerville",
+        "facility_location": "14301 Highway 27, East, Barkerville, V0K 1B0",
+        "query": "14301 Highway 27, East, Barkerville, V0K 1B0, BC, Canada",
+        "address": "Barkerville, BC V0K, Canada",
+        "latitude": 53.0703513,
+        "longitude": -121.5137657,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Parsnip Camp",
+        "city": "Bear Lake",
+        "facility_location": "755 KM, 700 Road, Bear Lake",
+        "query": "755 KM, 700 Road, Bear Lake, BC, Canada",
+        "address": "Bear Lake, BC V0J 3G0, Canada",
+        "latitude": 54.4950677,
+        "longitude": -122.6826614,
+        "distance_km": 1.4,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bob Quinn Highways Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": "Highway 37, Bob Quinn",
+        "query": "Highway 37, Bob Quinn, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Km 36.5 Ch'iyone Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": "Km 36.5 Galore Creek Mine Access Road, Bob Quinn, V6C 0B3",
+        "query": "Km 36.5 Galore Creek Mine Access Road, Bob Quinn, V6C 0B3, BC, Canada",
+        "address": "British Columbia, Canada",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "generic_geocoded_address",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Arena Well",
+        "city": "Buick Creek",
+        "facility_location": "15263 Buick Creek Road, Buick Creek, V0C 2R0",
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Creek Community Hall",
+        "city": "Buick Creek",
+        "facility_location": "15288 Beatton Airport Road, Buick Creek, V0C 2R0",
+        "query": "15288 Beatton Airport Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15288 Beatton Arpt Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7598608,
+        "longitude": -121.2823061,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Creek Elementary School",
+        "city": "Buick Creek",
+        "facility_location": "15263 Buick Creek Road, Buick Creek, V0C 2R0",
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Potable Water and Bulk Loading Station",
+        "city": "Buick Creek",
+        "facility_location": "14853 Buick Creek Road, Buick Creek",
+        "query": "14853 Buick Creek Road, Buick Creek, BC, Canada",
+        "address": "14853 Buick Creek Rd, Peace River, BC V0C 2R0, Canada",
+        "latitude": 56.7618628,
+        "longitude": -121.2246588,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Camp [Raspberry]",
+        "city": "Burns Lake",
+        "facility_location": "5.5 km Jinx Road (from Michelle Bay Ferry), Burns Lake, N/A",
+        "query": "5.5 km Jinx Road (from Michelle Bay Ferry), Burns Lake, N/A, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Forest Products",
+        "city": "Burns Lake",
+        "facility_location": "Km 20 Highway 16 West, Burns Lake, V0J 1E0",
+        "query": "Km 20 Highway 16 West, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      }
+    ]
+  },
+  "water_bacteriological": {
+    "total": 1125,
+    "ok": 644,
+    "review": 481,
+    "issue_counts": {
+      "partial_match": 370,
+      "approximate_location": 192,
+      "geocoded_address_missing_expected_city": 145,
+      "generic_geocoded_address": 38,
+      "far_from_expected_city": 6
+    },
+    "examples": [
+      {
+        "name": "NorthRiver Midstream G and P Canada Inc Tupper West Gas Plant",
+        "city": "Arras",
+        "facility_location": null,
+        "query": "KM 2.5 200 Road, Arras, BC, Canada",
+        "address": "200 Rd, Peace River, BC V0C, Canada",
+        "latitude": 55.6358876,
+        "longitude": -120.5255654,
+        "distance_km": 13.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ovintiv Canada ULC - Sunrise 04-26 Control Room",
+        "city": "Arras",
+        "facility_location": null,
+        "query": "04-26-078-17-W6M, Arras, BC, Canada",
+        "address": "Arras, BC V0C 1B0, Canada",
+        "latitude": 55.754089,
+        "longitude": -120.524384,
+        "distance_km": 2.7,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Atlin Conservation Warehouse Water system building 78095",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Forestry Bunkhouse Water System (building # 70037)",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Improvement District Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Corner of Lake Street and Pearl Avenue, Atlin, V0W 1A0, BC, Canada",
+        "address": "Pearl Ave & Lake St, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.57259209999999,
+        "longitude": -133.7053038,
+        "distance_km": 1.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Recreation Centre Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Sinclair Avenue, Atlin, V0W 1A0, BC, Canada",
+        "address": "Sinclair Ave, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5757817,
+        "longitude": -133.7046282,
+        "distance_km": 0.9,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Brewery Bay Chalet Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "210 McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bridge End Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Warm Bay Road, Atlin, V0C 1L0, BC, Canada",
+        "address": "Warm Bay Rd, Stikine Region, BC V0W, Canada",
+        "latitude": 59.4641742,
+        "longitude": -133.572393,
+        "distance_km": 14.3,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Yukon Suspension Bridge Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Km 47.2 South Klondike Highway, Atlin, BC, Canada",
+        "address": "Klondike Hwy, British Columbia, Canada",
+        "latitude": 59.7980676,
+        "longitude": -134.9077424,
+        "distance_km": 72.6,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Barkerville Historic Town",
+        "city": "Barkerville",
+        "facility_location": null,
+        "query": "14301 Highway 27, East, Barkerville, V0K 1B0, BC, Canada",
+        "address": "Barkerville, BC V0K, Canada",
+        "latitude": 53.0703513,
+        "longitude": -121.5137657,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Lowhee Campsite",
+        "city": "Barkerville",
+        "facility_location": null,
+        "query": "14301 Highway 27, East, Barkerville, V0K 1B0, BC, Canada",
+        "address": "Barkerville, BC V0K, Canada",
+        "latitude": 53.0703513,
+        "longitude": -121.5137657,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Parsnip Camp",
+        "city": "Bear Lake",
+        "facility_location": null,
+        "query": "755 KM, 700 Road, Bear Lake, BC, Canada",
+        "address": "Bear Lake, BC V0J 3G0, Canada",
+        "latitude": 54.4950677,
+        "longitude": -122.6826614,
+        "distance_km": 1.4,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bob Quinn Highways Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": null,
+        "query": "Highway 37, Bob Quinn, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Km 36.5 Ch'iyone Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": null,
+        "query": "Km 36.5 Galore Creek Mine Access Road, Bob Quinn, V6C 0B3, BC, Canada",
+        "address": "British Columbia, Canada",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "generic_geocoded_address",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Arena Well",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Creek Community Hall",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "15288 Beatton Airport Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15288 Beatton Arpt Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7598608,
+        "longitude": -121.2823061,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Creek Elementary School",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Potable Water and Bulk Loading Station",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "14853 Buick Creek Road, Buick Creek, BC, Canada",
+        "address": "14853 Buick Creek Rd, Peace River, BC V0C 2R0, Canada",
+        "latitude": 56.7618628,
+        "longitude": -121.2246588,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Camp [Raspberry]",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "5.5 km Jinx Road (from Michelle Bay Ferry), Burns Lake, N/A, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Forest Products",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Km 20 Highway 16 West, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Lake Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Pendleton Bay, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Beaver Point Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Tchesinkut Lake, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Tchesinkut Lake, BC V0J 1E2, Canada",
+        "latitude": 54.083333,
+        "longitude": -125.733333,
+        "distance_km": 16.8,
+        "issues": [
+          "approximate_location",
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Decker Lake Mennonite School",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "6760 Highway 16 West, Burns Lake, V0J 1E1, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Gary Phillips Trucking",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "7767 Rowland Road, Burns Lake, V0J 1E1, BC, Canada",
+        "address": "7767 Rowland Rd, Decker Lake, BC V0J 1E1, Canada",
+        "latitude": 54.2937167,
+        "longitude": -125.8365942,
+        "distance_km": 8.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Island Gospel Fellowship",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Gerow Island Highway 35, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "British Columbia Hwy 35 & Gerow Island Rd, Bulkley-Nechako, BC V0J 1E2, Canada",
+        "latitude": 54.21963299999999,
+        "longitude": -125.765364,
+        "distance_km": 1.5,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Nadina Lake Lodge",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Km 9 Tahtsa FSR, Burns Lake, V0J 2E0, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Noralee Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "49400 Collymont Road, Burns Lake, V0J 1E2, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ootsa Lake Bible Camp",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "21041 Ootsa Nadina Road, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Ootsa Nadina Rd, Bulkley-Nechako, BC V0J, Canada",
+        "latitude": 54.0123966,
+        "longitude": -126.203879,
+        "distance_km": 37.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ootsa Lake CWS",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "20620 Ootsa Nadina Road, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "Ootsa Nadina Rd, Bulkley-Nechako, BC V0J, Canada",
+        "latitude": 54.0123966,
+        "longitude": -126.203879,
+        "distance_km": 37.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Palling Rest Area",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "17 km Highway 16 West, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Skin's Lake Campground",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "22573 Ootsa Lake Road East RR4 Site 523, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "22573 Ootsa Lk Rd E site 523, Bulkley-Nechako E, BC V0J 1E4, Canada",
+        "latitude": 53.7692512,
+        "longitude": -125.9952731,
+        "distance_km": 53.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Skin's Lake Caretaker's House",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "22573 Ootsa Lake Road East RR4 Site 523, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "22573 Ootsa Lk Rd E site 523, Bulkley-Nechako E, BC V0J 1E4, Canada",
+        "latitude": 53.7692512,
+        "longitude": -125.9952731,
+        "distance_km": 53.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Takysie Lake Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "37530 Eakin Settlement Rd, Burns Lake, V0J1E4, BC, Canada",
+        "address": "Eakin Settlement Rd, Bulkley-Nechako, BC V0J 2P0, Canada",
+        "latitude": 53.846675,
+        "longitude": -125.868743,
+        "distance_km": 43.5,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Three Nations Water Plant",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "46750 Hamre Road, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "46750 Hamre Rd, Danskin, BC V0J 2P0, Canada",
+        "latitude": 53.9971378,
+        "longitude": -125.8425252,
+        "distance_km": 26.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Ursa Minor Brewing",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "45261 Ootsa Lake Road, Burns Lake, V0J 2E4, BC, Canada",
+        "address": "45261 Ootsa Lk Rd E, Marilla, BC V0J 2P0, Canada",
+        "latitude": 53.716381,
+        "longitude": -125.7605637,
+        "distance_km": 57.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Cassiar Jade Contracting",
+        "city": "Cassiar",
+        "facility_location": null,
+        "query": "Cassiar Townsite, Cassiar, BC, Canada",
+        "address": "Cassiar, BC V0C 2Z0, Canada",
+        "latitude": 59.28214999999999,
+        "longitude": -129.816895,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Jerry's Water Service 88",
+        "city": "Cecil Lake",
+        "facility_location": null,
+        "query": "9992 219 Road, Cecil Lake, V0C 1G0, BC, Canada",
+        "address": "Cecil Lake, BC V0C 1G0, Canada",
+        "latitude": 56.39363520000001,
+        "longitude": -120.9108697,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chevron Gas Station",
+        "city": "Charlie Lake",
+        "facility_location": null,
+        "query": "13106 Highway 29, Charlie Lake, V0C 1H0, BC, Canada",
+        "address": "BC-29, Charlie Lake, BC V0C 1H0, Canada",
+        "latitude": 56.2538144,
+        "longitude": -121.2889944,
+        "distance_km": 20.3,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Aspen Place",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "4 Miles West Highway 97, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "BC-97, Chetwynd, BC, Canada",
+        "latitude": 55.6959603,
+        "longitude": -121.6358503,
+        "distance_km": 0.1,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chetwynd CWS",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "Water Plant Road, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "Chetwynd, BC V0C, Canada",
+        "latitude": 55.6976802,
+        "longitude": -121.6296734,
+        "distance_km": 0.5,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chetwynd Fresh Water - Unit 110",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "4400 Highway 29, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "BC-29, Chetwynd, BC V0C, Canada",
+        "latitude": 55.7157257,
+        "longitude": -121.6052995,
+        "distance_km": 2.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chetwynd Fresh Water - Unit 111",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "4400 Highway 29, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "BC-29, Chetwynd, BC V0C, Canada",
+        "latitude": 55.7157257,
+        "longitude": -121.6052995,
+        "distance_km": 2.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chetwynd Fresh Water Unit 108",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "4400 Highway 29, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "BC-29, Chetwynd, BC V0C, Canada",
+        "latitude": 55.7157257,
+        "longitude": -121.6052995,
+        "distance_km": 2.9,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Peace Christian School",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "6189 Dokkie School Road, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "6189 Dokkie School Rd, Dokie Siding, BC V0C 1J0, Canada",
+        "latitude": 55.6464661,
+        "longitude": -121.7372663,
+        "distance_km": 8.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Streamline Water Services",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "2672 Sawchuk Road, Chetwynd, V0C1J0, BC, Canada",
+        "address": "2672 Sawchuk Rd, Peace River, BC V0C 1H0, Canada",
+        "latitude": 55.8084444,
+        "longitude": -121.4451951,
+        "distance_km": 17.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Sukunka Natural Resources Pine River Gas Plant",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "km 21 Westcoast Road, Chetwynd, V0C 1R0, BC, Canada",
+        "address": "Westcoast Rd, Chetwynd, BC V0C 1J0, Canada",
+        "latitude": 55.5726494,
+        "longitude": -121.9406354,
+        "distance_km": 23.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Daajing Giids Community Water System",
+        "city": "Daajing Giids (Queen Charlotte)",
+        "facility_location": null,
+        "query": "Honna FSR, Daajing Giids (Queen Charlotte), V0T 1S0, BC, Canada",
+        "address": "Honna Rd, North Coast, BC V0T 1S0, Canada",
+        "latitude": 53.2475935,
+        "longitude": -132.1377965,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "ABN Trucking Unit 2",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "2165 206 Road, Dawson Creek, V1G 0C1, BC, Canada",
+        "address": "2165 206 Rd, Peace River, BC V1G 0C1, Canada",
+        "latitude": 55.7223293,
+        "longitude": -120.2653292,
+        "distance_km": 4.6,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Buzz Bin Body Art Limited, The",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "5215 217 Road, Dawson Creek, V1G 5A1, BC, Canada",
+        "address": "5215 217 Rd, Peace River, BC V0C 2G0, Canada",
+        "latitude": 55.8968992,
+        "longitude": -120.2195275,
+        "distance_km": 15.3,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Cutbank Community Hall",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "13514 Highway 52, Dawson Creek, BC, Canada",
+        "address": "13514 BC-52, Arras, BC V1G 0J3, Canada",
+        "latitude": 55.6930108,
+        "longitude": -120.5602719,
+        "distance_km": 21.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      }
+    ]
+  },
+  "water_chemical": {
+    "total": 734,
+    "ok": 461,
+    "review": 273,
+    "issue_counts": {
+      "geocoded_address_missing_expected_city": 77,
+      "partial_match": 223,
+      "approximate_location": 88,
+      "generic_geocoded_address": 1,
+      "far_from_expected_city": 3
+    },
+    "examples": [
+      {
+        "name": "Atlin Conservation Warehouse Water system building 78095",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Forestry Bunkhouse Water System (building # 70037)",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Atlin Improvement District Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Corner of Lake Street and Pearl Avenue, Atlin, V0W 1A0, BC, Canada",
+        "address": "Pearl Ave & Lake St, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.57259209999999,
+        "longitude": -133.7053038,
+        "distance_km": 1.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Brewery Bay Chalet Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "210 McBride Boulevard, Atlin, V0W 1A0, BC, Canada",
+        "address": "McBride Blvd, Stikine Region, BC V0W 1A0, Canada",
+        "latitude": 59.5753207,
+        "longitude": -133.711262,
+        "distance_km": 1.2,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bridge End Water System",
+        "city": "Atlin",
+        "facility_location": null,
+        "query": "Warm Bay Road, Atlin, V0C 1L0, BC, Canada",
+        "address": "Warm Bay Rd, Stikine Region, BC V0W, Canada",
+        "latitude": 59.4641742,
+        "longitude": -133.572393,
+        "distance_km": 14.3,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Barkerville Historic Town",
+        "city": "Barkerville",
+        "facility_location": null,
+        "query": "14301 Highway 27, East, Barkerville, V0K 1B0, BC, Canada",
+        "address": "Barkerville, BC V0K, Canada",
+        "latitude": 53.0703513,
+        "longitude": -121.5137657,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Bob Quinn Highways Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": null,
+        "query": "Highway 37, Bob Quinn, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Km 36.5 Ch'iyone Camp Water System",
+        "city": "Bob Quinn",
+        "facility_location": null,
+        "query": "Km 36.5 Galore Creek Mine Access Road, Bob Quinn, V6C 0B3, BC, Canada",
+        "address": "British Columbia, Canada",
+        "latitude": 53.7266683,
+        "longitude": -127.6476206,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "generic_geocoded_address",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Arena Well",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Buick Creek Elementary School",
+        "city": "Buick Creek",
+        "facility_location": null,
+        "query": "15263 Buick Creek Road, Buick Creek, V0C 2R0, BC, Canada",
+        "address": "15263 Buick Creek Rd, Buick, BC V0C 2R0, Canada",
+        "latitude": 56.7595603,
+        "longitude": -121.2741738,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Camp [Raspberry]",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "5.5 km Jinx Road (from Michelle Bay Ferry), Burns Lake, N/A, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Forest Products",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Km 20 Highway 16 West, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Babine Lake Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Pendleton Bay, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Beaver Point Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Tchesinkut Lake, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Tchesinkut Lake, BC V0J 1E2, Canada",
+        "latitude": 54.083333,
+        "longitude": -125.733333,
+        "distance_km": 16.8,
+        "issues": [
+          "approximate_location",
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Island Gospel Fellowship",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Gerow Island Highway 35, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "British Columbia Hwy 35 & Gerow Island Rd, Bulkley-Nechako, BC V0J 1E2, Canada",
+        "latitude": 54.21963299999999,
+        "longitude": -125.765364,
+        "distance_km": 1.5,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Nadina Lake Lodge",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "Km 9 Tahtsa FSR, Burns Lake, V0J 2E0, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Noralee Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "49400 Collymont Road, Burns Lake, V0J 1E2, BC, Canada",
+        "address": "Burns Lake, BC V0J, Canada",
+        "latitude": 54.2334148,
+        "longitude": -125.763613,
+        "distance_km": 0.1,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ootsa Lake Bible Camp",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "21041 Ootsa Nadina Road, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "Ootsa Nadina Rd, Bulkley-Nechako, BC V0J, Canada",
+        "latitude": 54.0123966,
+        "longitude": -126.203879,
+        "distance_km": 37.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Ootsa Lake CWS",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "20620 Ootsa Nadina Road, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "Ootsa Nadina Rd, Bulkley-Nechako, BC V0J, Canada",
+        "latitude": 54.0123966,
+        "longitude": -126.203879,
+        "distance_km": 37.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Palling Rest Area",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "17 km Highway 16 West, Burns Lake, V0J 1E0, BC, Canada",
+        "address": "BC-16, Burns Lake, BC, Canada",
+        "latitude": 54.2247532,
+        "longitude": -125.7275462,
+        "distance_km": 2.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Takysie Lake Resort",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "37530 Eakin Settlement Rd, Burns Lake, V0J1E4, BC, Canada",
+        "address": "Eakin Settlement Rd, Bulkley-Nechako, BC V0J 2P0, Canada",
+        "latitude": 53.846675,
+        "longitude": -125.868743,
+        "distance_km": 43.5,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Three Nations Water Plant",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "46750 Hamre Road, Burns Lake, V0J 1E4, BC, Canada",
+        "address": "46750 Hamre Rd, Danskin, BC V0J 2P0, Canada",
+        "latitude": 53.9971378,
+        "longitude": -125.8425252,
+        "distance_km": 26.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Ursa Minor Brewing",
+        "city": "Burns Lake",
+        "facility_location": null,
+        "query": "45261 Ootsa Lake Road, Burns Lake, V0J 2E4, BC, Canada",
+        "address": "45261 Ootsa Lk Rd E, Marilla, BC V0J 2P0, Canada",
+        "latitude": 53.716381,
+        "longitude": -125.7605637,
+        "distance_km": 57.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Cassiar Jade Contracting",
+        "city": "Cassiar",
+        "facility_location": null,
+        "query": "Cassiar Townsite, Cassiar, BC, Canada",
+        "address": "Cassiar, BC V0C 2Z0, Canada",
+        "latitude": 59.28214999999999,
+        "longitude": -129.816895,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Aspen Place",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "4 Miles West Highway 97, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "BC-97, Chetwynd, BC, Canada",
+        "latitude": 55.6959603,
+        "longitude": -121.6358503,
+        "distance_km": 0.1,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Chetwynd CWS",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "Water Plant Road, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "Chetwynd, BC V0C, Canada",
+        "latitude": 55.6976802,
+        "longitude": -121.6296734,
+        "distance_km": 0.5,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Peace Christian School",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "6189 Dokkie School Road, Chetwynd, V0C 1J0, BC, Canada",
+        "address": "6189 Dokkie School Rd, Dokie Siding, BC V0C 1J0, Canada",
+        "latitude": 55.6464661,
+        "longitude": -121.7372663,
+        "distance_km": 8.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Sukunka Natural Resources Pine River Gas Plant",
+        "city": "Chetwynd",
+        "facility_location": null,
+        "query": "km 21 Westcoast Road, Chetwynd, V0C 1R0, BC, Canada",
+        "address": "Westcoast Rd, Chetwynd, BC V0C 1J0, Canada",
+        "latitude": 55.5726494,
+        "longitude": -121.9406354,
+        "distance_km": 23.5,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Daajing Giids Community Water System",
+        "city": "Daajing Giids (Queen Charlotte)",
+        "facility_location": null,
+        "query": "Honna FSR, Daajing Giids (Queen Charlotte), V0T 1S0, BC, Canada",
+        "address": "Honna Rd, North Coast, BC V0T 1S0, Canada",
+        "latitude": 53.2475935,
+        "longitude": -132.1377965,
+        "distance_km": null,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kenn Borek Aquatic Centre Lap Pool",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "Kenn Borek Aquatic Centre Lap Pool, Dawson Creek, BC, Canada",
+        "address": "300 Hwy 2 #2, Dawson Creek, BC V1G 0A4, Canada",
+        "latitude": 55.7401285,
+        "longitude": -120.2104626,
+        "distance_km": 2.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kenn Borek Aquatic Centre Leisure Pool",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "Kenn Borek Aquatic Centre Leisure Pool, Dawson Creek, BC, Canada",
+        "address": "300 Hwy 2 #2, Dawson Creek, BC V1G 0A4, Canada",
+        "latitude": 55.7401285,
+        "longitude": -120.2104626,
+        "distance_km": 2.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kenn Borek Aquatic Centre Swirl Pool",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "Kenn Borek Aquatic Centre Swirl Pool, Dawson Creek, BC, Canada",
+        "address": "300 Hwy 2 #2, Dawson Creek, BC V1G 0A4, Canada",
+        "latitude": 55.7401285,
+        "longitude": -120.2104626,
+        "distance_km": 2.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Kenn Borek Aquatic Centre Tot's Pool",
+        "city": "Dawson Creek",
+        "facility_location": null,
+        "query": "Kenn Borek Aquatic Centre Tot's Pool, Dawson Creek, BC, Canada",
+        "address": "300 Hwy 2 #2, Dawson Creek, BC V1G 0A4, Canada",
+        "latitude": 55.7401285,
+        "longitude": -120.2104626,
+        "distance_km": 2.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "14/15 Tatcho, RCMP Residence Water System building 91429",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Lot 14 & 15 Tatcho Street, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Tatcho St, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4390245,
+        "longitude": -129.9963093,
+        "distance_km": 0.1,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "18/19 Tatcho, RCMP Residence Water System building 71936",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Lot 18 Tatcho Street, Dease Lake, BC, Canada",
+        "address": "18 Tatcho St, Atlin, BC V0C 1L0, Canada",
+        "latitude": 58.4389453,
+        "longitude": -129.997206,
+        "distance_km": 0.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "2nd Avenue Pumphouse",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "2 Avenue, Dease Lake, BC, Canada",
+        "address": "2 Dease Lake Hwy, Kitimat, BC V8C 2K6, Canada",
+        "latitude": 54.0647744,
+        "longitude": -128.6032091,
+        "distance_km": 493.8,
+        "issues": [
+          "far_from_expected_city"
+        ]
+      },
+      {
+        "name": "BC Parks Dease Lake Compound",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "2103F Telegraph Creek Road, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "2103 Telegraph Creek Rd, Atlin, BC V0C 1L0, Canada",
+        "latitude": 58.3688965,
+        "longitude": -130.3084161,
+        "distance_km": 19.7,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Dease Lake Air Tanker Base Water System (building #72116)",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Airport Road, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Riverview Dr, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4205398,
+        "longitude": -130.0266017,
+        "distance_km": 2.6,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Dease Lake Community Hall",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "B - 2102 First Avenue, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "1st Ave, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4376319,
+        "longitude": -129.9924968,
+        "distance_km": 0.3,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dease Lake Government Office (DW8)",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Highway 37, Dease Lake, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": 189.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Dease Lake Highways Complex & Trailer Park Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Site 19, Lot 3134 Highway 37, Dease Lake, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": 189.1,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Dease Lake School Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "1 Dease Lake Avenue, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Dease Lake Ave, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4480915,
+        "longitude": -130.0193612,
+        "distance_km": 1.7,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Marion Avenue, 16",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "16 Marion Avenue, Dease Lake, BC, Canada",
+        "address": "Marion Ave, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4412503,
+        "longitude": -129.9983895,
+        "distance_km": 0.4,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Northern Lights College- Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "48793 Commercial Drive, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Commercial Dr, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4329569,
+        "longitude": -129.9871919,
+        "distance_km": 0.8,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Samaritan's Purse Ministry Centre Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Lot 1 Highway 37, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "BC-37, Dease Lake, BC V0C 1L0, Canada",
+        "latitude": 58.5726751,
+        "longitude": -130.0065292,
+        "distance_km": 15.0,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "School District No. 87 Board Office (PGOB #1 DW1) Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "Highway 37, Dease Lake, BC, Canada",
+        "address": "BC-37, British Columbia, Canada",
+        "latitude": 56.7408261,
+        "longitude": -129.7886808,
+        "distance_km": 189.1,
+        "issues": [
+          "geocoded_address_missing_expected_city"
+        ]
+      },
+      {
+        "name": "Stikine Health Centre Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "48875 Highway 37, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "BC-37, Dease Lake, BC V0C 1L0, Canada",
+        "latitude": 58.5726751,
+        "longitude": -130.0065292,
+        "distance_km": 15.0,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Strata PRS354, Tanzilla",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "1 Tanzilla Place, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "Tanzilla Pl, Kitimat-Stikine, BC V0C 1L0, Canada",
+        "latitude": 58.4201938,
+        "longitude": -130.0255873,
+        "distance_km": 2.6,
+        "issues": [
+          "geocoded_address_missing_expected_city",
+          "partial_match"
+        ]
+      },
+      {
+        "name": "T & R Water System",
+        "city": "Dease Lake",
+        "facility_location": null,
+        "query": "48841 Highway 37, Dease Lake, V0C 1L0, BC, Canada",
+        "address": "BC-37, Dease Lake, BC V0C 1L0, Canada",
+        "latitude": 58.5726751,
+        "longitude": -130.0065292,
+        "distance_km": 15.0,
+        "issues": [
+          "partial_match"
+        ]
+      },
+      {
+        "name": "Tim Hartnell Water System",
+        "city": "Doe River",
+        "facility_location": null,
+        "query": "Road 211, Doe River, BC, Canada",
+        "address": "Doe River, BC V0C 2G0, Canada",
+        "latitude": 55.99976599999999,
+        "longitude": -120.088384,
+        "distance_km": null,
+        "issues": [
+          "approximate_location",
+          "partial_match"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "summary": "HealthSpace appears to expose active/current Northern Health water notices with start dates, but not a clean public archive of lifted/resolved notices. Historical notices can be partially reconstructed from municipal/news pages, but those are fragmented by community and source.",
+  "healthspace": {
+    "active_notice_url": "https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/Water-List-Boil?OpenView&count=1000",
+    "what_it_contains": [
+      "Current active Boil Water Notices and Water Quality Advisories",
+      "Facility name",
+      "Community/location summary",
+      "Connection category",
+      "Underlying problems / remedy / corrective actions when present",
+      "Start date for active notices"
+    ],
+    "what_it_does_not_appear_to_contain": [
+      "A separate public resolved/lifted notice archive",
+      "End dates for lifted notices",
+      "Historical notice timeline per facility beyond the current active notice state"
+    ],
+    "local_parser_update": {
+      "file": "download_water_data.py",
+      "function": "parse_notice_blocks",
+      "change": "Start-date parsing now also checks nearby h6 siblings when the page structure places Start date after the notice details block.",
+      "blocked_refetch_note": "A direct refetch attempt on 2026-05-10 returned HTTP 403 from HealthSpace, so the local active notices JSON still needs to be refreshed when HealthSpace allows access."
+    }
+  },
+  "other_sources": [
+    {
+      "source": "City of Prince Rupert",
+      "type": "municipal news/alerts",
+      "coverage": "Resolved/lifted Prince Rupert notices with issue/rescind context",
+      "examples": [
+        "https://www.princerupert.ca/index-pages/news/boil-water-notice-lifted-4",
+        "https://www.princerupert.ca/index-pages/news/boil-water-notice-lifted-5",
+        "https://www.princerupert.ca/index-pages/alerts/boil-water-notice-removed"
+      ],
+      "notes": "Useful for Prince Rupert historical notices, but not a Northern Health-wide source."
+    },
+    {
+      "source": "District of Kitimat",
+      "type": "municipal news/PDF notices",
+      "coverage": "Issued and lifted Kitimat water quality advisories",
+      "examples": [
+        "https://www.kitimat.ca/en/news/water-quality-advisory-june-2-2022.aspx",
+        "https://www.kitimat.ca/en/news/water-quality-advisory-january-12-2026.aspx",
+        "https://www.kitimat.ca/en/news/resources/WaterAdvisories/2026-02-13-WaterQualityAdvisory.pdf"
+      ],
+      "notes": "Good local historical source for Kitimat, including PDFs."
+    },
+    {
+      "source": "Local news outlets",
+      "type": "news articles",
+      "coverage": "Individual lifted/rescinded advisories reported by community",
+      "examples": [
+        "https://www.thenorthernview.com/news/city-issues-72-hour-boil-water-notice-6003702",
+        "https://www.therockymountaingoat.com/2025/06/mcbride-rescinds-boil-water-notice/"
+      ],
+      "notes": "Useful for evidence but incomplete and inconsistent for a dataset."
+    }
+  ],
+  "recommended_next_step": "Refresh HealthSpace active notices after the parser adjustment to populate start_date for active notices. Treat full historical/resolved notices as a separate research/scrape project using municipal websites and news archives by community."
+}

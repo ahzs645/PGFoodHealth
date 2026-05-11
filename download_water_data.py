@@ -417,6 +417,10 @@ def parse_chemical_results(session, url):
 
 
 def parse_notice_blocks(soup):
+    card_notices = parse_notice_cards(soup)
+    if card_notices:
+        return card_notices
+
     notices = []
     for heading in soup.find_all("h5"):
         link = heading.find("a", href=True)
@@ -432,6 +436,7 @@ def parse_notice_blocks(soup):
         details_table = None
         start_date = None
 
+        next_heading = None
         for sibling in heading.next_siblings:
             if isinstance(sibling, NavigableString):
                 text = normalize_space(str(sibling))
@@ -449,10 +454,19 @@ def parse_notice_blocks(soup):
                     start_date = text.split(":", 1)[-1].strip()
                 break
             if sibling.name in {"h5"}:
+                next_heading = sibling
                 break
             text = normalize_space(sibling.get_text(" ", strip=True))
             if text:
                 location_bits.append(text)
+
+        if not start_date:
+            search_node = next_heading or heading
+            for previous in search_node.find_all_previous("h6", limit=4):
+                text = normalize_space(previous.get_text(" ", strip=True))
+                if text.lower().startswith("start date"):
+                    start_date = text.split(":", 1)[-1].strip()
+                    break
 
         notice = {
             "notice_type": notice_type,
@@ -466,6 +480,54 @@ def parse_notice_blocks(soup):
                 notice["connections"] = location_bits[1]
         if details_table:
             notice.update(parse_key_value_table(details_table))
+        if start_date:
+            notice["start_date"] = start_date
+        notices.append(notice)
+    return notices
+
+
+def parse_notice_cards(soup):
+    notices = []
+    for card in soup.select("div.card"):
+        link = card.find("a", href=True)
+        if not link:
+            continue
+        header = card.find("h6", class_=re.compile(r"\bcard-header\b"))
+        notice_type = normalize_space(header.get_text(" ", strip=True)) if header else None
+
+        body = card.find("div", class_=re.compile(r"\bcard-body\b"))
+        location_summary = None
+        connections = None
+        if body:
+            body_text = body.get_text("\n", strip=True)
+            body_lines = [normalize_space(line) for line in body_text.splitlines()]
+            body_lines = [line for line in body_lines if line and line != normalize_space(link.get_text(" ", strip=True))]
+            if body_lines:
+                location_summary = body_lines[0]
+            if len(body_lines) >= 2:
+                connections = body_lines[1]
+
+        start_date = None
+        for footer in card.select(".card-footer h6, .card-footer"):
+            text = normalize_space(footer.get_text(" ", strip=True))
+            if text.lower().startswith("start date"):
+                start_date = text.split(":", 1)[-1].strip()
+                break
+
+        notice = {
+            "notice_type": notice_type,
+            "name": normalize_space(link.get_text(" ", strip=True)),
+            "details_url": full_url(link["href"]),
+            "scraped_at": datetime.now().isoformat(),
+        }
+        if location_summary:
+            notice["location_summary"] = location_summary
+        if connections:
+            notice["connections"] = connections
+
+        table = card.find("table")
+        if table:
+            notice.update(parse_key_value_table(table))
         if start_date:
             notice["start_date"] = start_date
         notices.append(notice)

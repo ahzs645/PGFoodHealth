@@ -1,0 +1,132 @@
+{
+  "project": "PGFoodHealth / PGMaps Google geocoding handoff",
+  "created_at": "2026-05-10",
+  "goal": "Freshly geocode all Prince George restaurant records and Northern Health water-related facility records with Google Geocoding API, deduplicate requests to avoid repeated API calls, cache every Google response, and write latitude/longitude plus Google metadata back into the source JSON files.",
+  "why": [
+    "Restaurant data already has some coordinates from an older Nominatim/OpenStreetMap run, but the request is to rerun fresh through Google.",
+    "Water datasets have no latitude/longitude fields yet.",
+    "Water datasets overlap heavily by facility name/city, so one Google result should be reused across drinking, bacteriological, chemical, and notice records where possible."
+  ],
+  "script": {
+    "path": "/Users/ahmadjalil/github/PGFoodHealth/geocode_google_all.py",
+    "status": "created but not committed at time of handoff",
+    "dry_run_command": "./venv_healthspace/bin/python geocode_google_all.py",
+    "apply_command": "./venv_healthspace/bin/python geocode_google_all.py --apply",
+    "small_test_command": "./venv_healthspace/bin/python geocode_google_all.py --apply --limit 25",
+    "resume_behavior": "The script stores each Google response in a cache file after every request. Re-running skips cached queries unless --force is used.",
+    "safety_behavior": "The script defaults to dry-run. It only calls Google and writes data when --apply is provided. It aborts after repeated REQUEST_DENIED responses."
+  },
+  "api_key": {
+    "env_file": "/Users/ahmadjalil/github/PGfoodmap/.env",
+    "env_key_name_found": "googleapi",
+    "secret_included_in_this_file": false,
+    "also_supported_env_vars": [
+      "GOOGLE_MAPS_API_KEY",
+      "GOOGLE_API_KEY"
+    ],
+    "required_google_api": "Google Geocoding API",
+    "current_blocker": "The existing key returns REQUEST_DENIED because the Google Geocoding API is not activated on the Google Cloud project.",
+    "google_console_hint": "Enable Google Geocoding API for the key/project and confirm billing/key restrictions allow server-side Geocoding API requests."
+  },
+  "inputs": {
+    "restaurants": {
+      "path": "/Users/ahmadjalil/github/PGMaps/public/data/restaurants.json",
+      "record_count": 457,
+      "query_strategy": "Use full_address or address, plus city/BC/Canada when needed. Fall back to name + city + BC, Canada."
+    },
+    "water": {
+      "directory": "/Users/ahmadjalil/github/PGFoodHealth/data/water",
+      "files": {
+        "notices": {
+          "path": "/Users/ahmadjalil/github/PGFoodHealth/data/water/active_water_notices.json",
+          "record_count": 151,
+          "query_strategy": "Use facility_location when present. Fall back to facility/name + location_summary/city + BC, Canada."
+        },
+        "drinking": {
+          "path": "/Users/ahmadjalil/github/PGFoodHealth/data/water/drinking_water_facilities.json",
+          "record_count": 1125,
+          "query_strategy": "Use facility_location when present. Fall back to facility/name + city + BC, Canada."
+        },
+        "bacteriological": {
+          "path": "/Users/ahmadjalil/github/PGFoodHealth/data/water/bacteriological_samples.json",
+          "record_count": 1125,
+          "query_strategy": "Prefer an address result already found for the same facility-name/city key from drinking/notices. Fall back to name + city + BC, Canada."
+        },
+        "chemical": {
+          "path": "/Users/ahmadjalil/github/PGFoodHealth/data/water/chemical_samples.json",
+          "record_count": 734,
+          "query_strategy": "Prefer an address result already found for the same facility-name/city key from drinking/notices. Fall back to name + city + BC, Canada."
+        }
+      }
+    }
+  },
+  "planned_request_counts_from_dry_run": {
+    "restaurants": {
+      "records": 457,
+      "unique_queries": 389
+    },
+    "water_notices": {
+      "records": 151,
+      "unique_attached_queries": 147
+    },
+    "water_drinking": {
+      "records": 1125,
+      "unique_attached_queries": 910
+    },
+    "water_bacteriological": {
+      "records": 1125,
+      "unique_attached_queries": 910
+    },
+    "water_chemical": {
+      "records": 734,
+      "unique_attached_queries": 681
+    },
+    "combined_unique_google_queries": 1313
+  },
+  "outputs": {
+    "cache": {
+      "path": "/Users/ahmadjalil/github/PGFoodHealth/data/geocoding/google_geocode_cache.json",
+      "description": "Reusable cache keyed by normalized query string. Stores raw interpreted Google response metadata for each unique query."
+    },
+    "updated_files": [
+      "/Users/ahmadjalil/github/PGMaps/public/data/restaurants.json",
+      "/Users/ahmadjalil/github/PGFoodHealth/data/water/active_water_notices.json",
+      "/Users/ahmadjalil/github/PGFoodHealth/data/water/drinking_water_facilities.json",
+      "/Users/ahmadjalil/github/PGFoodHealth/data/water/bacteriological_samples.json",
+      "/Users/ahmadjalil/github/PGFoodHealth/data/water/chemical_samples.json"
+    ],
+    "fields_added_to_records": [
+      "latitude",
+      "longitude",
+      "google_geocode_query",
+      "google_geocode_status",
+      "google_geocoded_at",
+      "google_geocoded_address",
+      "google_place_id",
+      "google_location_type",
+      "google_partial_match",
+      "google_geocode_error"
+    ]
+  },
+  "latest_attempt": {
+    "ran_apply": true,
+    "result": "Stopped early after Google returned REQUEST_DENIED.",
+    "denied_cache_removed": true,
+    "current_cache_entries": 0,
+    "exact_google_error": "This API is not activated on your API project. You may need to enable this API in the Google Cloud Console."
+  },
+  "recommended_next_steps": [
+    "Enable Google Geocoding API on the Google Cloud project for the key in /Users/ahmadjalil/github/PGfoodmap/.env.",
+    "Confirm billing and API key restrictions allow Geocoding API requests from this machine/script.",
+    "Run a small test: ./venv_healthspace/bin/python geocode_google_all.py --apply --limit 25.",
+    "Inspect data/geocoding/google_geocode_cache.json for OK, ZERO_RESULTS, REQUEST_DENIED, or OVER_QUERY_LIMIT statuses.",
+    "If the test looks good, run the full command: ./venv_healthspace/bin/python geocode_google_all.py --apply.",
+    "After completion, commit geocode_google_all.py, data/geocoding/google_geocoding_handoff.json, data/geocoding/google_geocode_cache.json, and the updated restaurant/water JSON files."
+  ],
+  "notes": [
+    "This handoff intentionally does not contain the API key.",
+    "Google Geocoding API calls may cost money. The expected fresh workload is 1313 unique requests.",
+    "Water coordinate attachment is facility-level, not sample-tap-level. Sample locations such as room sinks are not geocoded separately.",
+    "Some Google results may be partial matches or approximate location types; downstream UI should treat google_partial_match and google_location_type as confidence hints."
+  ]
+}
